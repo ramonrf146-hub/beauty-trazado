@@ -30,6 +30,9 @@ export const metadata: Metadata = {
     description:
       "Recomendaciones honestas de skincare, protección solar, maquillaje y labios, evaluadas con criterio real de uso diario.",
   },
+  verification: {
+    google: "cHAXwgMf7nei0wj-akoVC6iukswd9dwuqYZORPvSh0A",
+  },
 };
 
 export default function RootLayout({ children }: LayoutProps<"/">) {
