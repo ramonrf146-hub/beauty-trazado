@@ -1,0 +1,7 @@
+{
+  "_comentario": "PA-API no expone un endpoint confiable de 'más vendidos' en todos los marketplaces, así que el ranking se basa en una lista curada de ASINs por categoría (edita esta lista vos). El script mensual consulta precio/rating/reseñas actuales para cada ASIN y ordena el ranking por número de reseñas (proxy de popularidad). Estos ASINs son productos reales de belleza/cuidado personal identificados manualmente el 2026-09-02 — reemplazalos o agregá más cuando quieras ajustar qué compite por el ranking del mes.",
+  "cuidado-facial": ["B01MSSDEPK"],
+  "proteccion-solar": ["B07ZZFYNKL", "B002CML1VG"],
+  "maquillaje": ["B08H3JPH74", "B08M58SWB1"],
+  "labios": ["B0DFMX8YWJ"]
+}
