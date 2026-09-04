@@ -92,10 +92,10 @@ export default function RankingConFiltros({ productos }: { productos: Producto[]
           role="tab"
           aria-selected={categoriaActiva === "todas"}
           onClick={() => setCategoriaActiva("todas")}
-          className={`rounded-full px-4 py-2 text-xs font-semibold uppercase tracking-wide transition-colors ${
+          className={`rounded-full px-4 py-2 text-xs font-semibold uppercase tracking-wide transition-all duration-200 active:scale-95 ${
             categoriaActiva === "todas"
-              ? "bg-line text-text-light"
-              : "bg-line-dim/60 text-text-dim hover:text-text-light"
+              ? "bg-line text-text-light shadow-md shadow-line/30"
+              : "bg-line-dim/60 text-text-dim hover:-translate-y-0.5 hover:bg-line-dim hover:text-text-light hover:shadow-sm"
           }`}
         >
           Todas
@@ -106,10 +106,10 @@ export default function RankingConFiltros({ productos }: { productos: Producto[]
             role="tab"
             aria-selected={categoriaActiva === categoria.slug}
             onClick={() => setCategoriaActiva(categoria.slug)}
-            className={`rounded-full px-4 py-2 text-xs font-semibold uppercase tracking-wide transition-colors ${
+            className={`rounded-full px-4 py-2 text-xs font-semibold uppercase tracking-wide transition-all duration-200 active:scale-95 ${
               categoriaActiva === categoria.slug
-                ? "bg-line text-text-light"
-                : "bg-line-dim/60 text-text-dim hover:text-text-light"
+                ? "bg-line text-text-light shadow-md shadow-line/30"
+                : "bg-line-dim/60 text-text-dim hover:-translate-y-0.5 hover:bg-line-dim hover:text-text-light hover:shadow-sm"
             }`}
           >
             {categoria.nombre}

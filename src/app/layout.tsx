@@ -38,12 +38,19 @@ export const metadata: Metadata = {
 export default function RootLayout({ children }: LayoutProps<"/">) {
   return (
     <html lang="es" className={`${jakarta.variable} h-full antialiased`}>
-      <body className="min-h-full flex flex-col bg-ink text-text-light">
-        <GoogleAnalytics />
-        <Header />
-        <main className="flex-1">{children}</main>
-        <Footer />
-        <AmazonDisclosureToast />
+      <body className="min-h-full bg-ink text-text-light">
+        <div id="site-bg" aria-hidden="true">
+          <span className="bg-blob blob-1" />
+          <span className="bg-blob blob-2" />
+          <span className="bg-blob blob-3" />
+        </div>
+        <div className="relative z-10 flex min-h-full flex-col">
+          <GoogleAnalytics />
+          <Header />
+          <main className="flex-1">{children}</main>
+          <Footer />
+          <AmazonDisclosureToast />
+        </div>
       </body>
     </html>
   );

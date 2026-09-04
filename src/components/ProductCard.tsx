@@ -88,13 +88,13 @@ export default function ProductCard({
   const cta = CTAS_AFILIADO[producto.ranking % CTAS_AFILIADO.length];
 
   return (
-    <article className="flex h-full flex-col overflow-hidden rounded-3xl border border-line-dim/60 bg-ink-2 shadow-xl shadow-black/20">
-      <div className="relative flex h-56 items-center justify-center bg-image-bg p-5 sm:h-64">
-        <span className="absolute left-4 top-4 flex h-10 w-10 items-center justify-center rounded-full bg-ink text-base font-extrabold text-text-light shadow-lg shadow-black/30">
+    <article className="group flex h-full flex-col overflow-hidden rounded-3xl border border-line-dim/60 bg-ink-2 shadow-xl shadow-black/20 transition-all duration-300 hover:-translate-y-1.5 hover:shadow-2xl hover:shadow-black/25">
+      <div className="relative flex h-56 items-center justify-center overflow-hidden bg-image-bg p-5 sm:h-64">
+        <span className="absolute left-4 top-4 z-10 flex h-10 w-10 items-center justify-center rounded-full bg-ink text-base font-extrabold text-text-light shadow-lg shadow-black/30">
           #{producto.ranking}
         </span>
         {(masVendido || mejorValorado) && (
-          <div className="absolute right-4 top-4 flex flex-col items-end gap-1.5">
+          <div className="absolute right-4 top-4 z-10 flex flex-col items-end gap-1.5">
             {masVendido && (
               <span className="rounded-full bg-accent-2 px-2.5 py-1 text-[11px] font-bold text-ink shadow-lg shadow-black/30">
                 🏆 Más vendido
@@ -112,7 +112,7 @@ export default function ProductCard({
           src={producto.imagen}
           alt={producto.nombre}
           loading="lazy"
-          className="h-full w-full object-contain"
+          className="h-full w-full object-contain transition-transform duration-500 ease-out group-hover:scale-110"
         />
       </div>
 
@@ -190,7 +190,7 @@ export default function ProductCard({
             target="_blank"
             rel="nofollow sponsored noopener noreferrer"
             onClick={() => registrarClicAfiliado(producto)}
-            className="flex items-center justify-center gap-2 rounded-2xl bg-accent px-5 py-4 text-base font-bold text-ink shadow-lg shadow-accent/30 transition-transform active:scale-[0.98]"
+            className="flex items-center justify-center gap-2 rounded-2xl bg-accent px-5 py-4 text-base font-bold text-ink shadow-lg shadow-accent/30 transition-all duration-200 hover:-translate-y-0.5 hover:shadow-xl hover:shadow-accent/40 active:translate-y-0 active:scale-[0.98]"
           >
             {cta}
             <IconoFlecha />
@@ -199,7 +199,7 @@ export default function ProductCard({
           {producto.guiaCompra && (
             <Link
               href={`/productos/${producto.asin}`}
-              className="block text-center text-xs font-semibold text-text-dim underline-offset-2 hover:text-text-light hover:underline"
+              className="block text-center text-xs font-semibold text-text-dim underline-offset-2 transition-colors hover:text-text-light hover:underline"
             >
               Ver guía de compra completa
             </Link>

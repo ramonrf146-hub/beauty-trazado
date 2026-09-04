@@ -21,7 +21,7 @@ export default async function HomePage() {
 
   return (
     <>
-      <section className="relative overflow-hidden border-b border-line-dim/60 bg-ink-2">
+      <section className="relative overflow-hidden border-b border-line-dim/60">
         <div className="relative mx-auto grid max-w-6xl gap-10 px-4 py-16 sm:px-6 lg:grid-cols-2 lg:items-center lg:py-24">
           <div>
             <p className="text-xs font-semibold uppercase tracking-wide text-line">
@@ -38,13 +38,13 @@ export default async function HomePage() {
             <div className="mt-8 flex flex-wrap gap-3">
               <a
                 href="#ranking"
-                className="rounded-full bg-accent px-6 py-3 text-sm font-bold text-white shadow-sm transition-colors hover:bg-[#1D4ED8]"
+                className="rounded-full bg-accent px-6 py-3 text-sm font-bold text-white shadow-sm transition-all duration-200 hover:-translate-y-0.5 hover:bg-[#1D4ED8] hover:shadow-lg active:translate-y-0 active:scale-[0.98]"
               >
                 Ver productos del mes
               </a>
               <a
                 href="#metodologia"
-                className="rounded-full border border-line-dim px-6 py-3 text-sm font-semibold text-text-light transition-colors hover:border-line"
+                className="rounded-full border border-line-dim bg-white/70 px-6 py-3 text-sm font-semibold text-text-light backdrop-blur-md transition-all duration-200 hover:-translate-y-0.5 hover:border-line hover:bg-white hover:shadow-md active:translate-y-0 active:scale-[0.98]"
               >
                 Cómo elegimos
               </a>
@@ -55,7 +55,7 @@ export default async function HomePage() {
                 (badge) => (
                   <span
                     key={badge}
-                    className="rounded-full bg-paper px-3 py-1.5 text-xs font-semibold text-[#0369A1]"
+                    className="rounded-full border border-line-dim/70 bg-white/85 px-3 py-1.5 text-xs font-semibold text-[#0369A1] shadow-sm backdrop-blur-md"
                   >
                     {badge}
                   </span>

@@ -19,27 +19,35 @@ const FOTOS = [
   },
 ];
 
+function FotoFlotante({
+  src,
+  alt,
+  className = "",
+}: {
+  src: string;
+  alt: string;
+  className?: string;
+}) {
+  return (
+    <div
+      className={`group overflow-hidden rounded-2xl bg-white/90 p-5 shadow-sm ring-1 ring-line-dim/60 backdrop-blur-sm transition-all duration-300 hover:-translate-y-1.5 hover:shadow-xl hover:ring-line/50 ${className}`}
+    >
+      {/* eslint-disable-next-line @next/next/no-img-element */}
+      <img
+        src={src}
+        alt={alt}
+        className="aspect-square w-full object-contain transition-transform duration-500 ease-out group-hover:scale-110"
+      />
+    </div>
+  );
+}
+
 export default function HeroDiagrama() {
   return (
     <div className="relative mx-auto grid w-full max-w-sm grid-cols-2 gap-4">
-      {/* eslint-disable-next-line @next/next/no-img-element */}
-      <img
-        src={FOTOS[0].src}
-        alt={FOTOS[0].alt}
-        className="col-span-2 aspect-4/3 w-full rounded-2xl bg-image-bg object-contain p-6 shadow-sm ring-1 ring-line-dim/60"
-      />
-      {/* eslint-disable-next-line @next/next/no-img-element */}
-      <img
-        src={FOTOS[1].src}
-        alt={FOTOS[1].alt}
-        className="aspect-square w-full translate-y-4 rounded-2xl bg-image-bg object-contain p-5 shadow-sm ring-1 ring-line-dim/60"
-      />
-      {/* eslint-disable-next-line @next/next/no-img-element */}
-      <img
-        src={FOTOS[2].src}
-        alt={FOTOS[2].alt}
-        className="aspect-square w-full rounded-2xl bg-image-bg object-contain p-5 shadow-sm ring-1 ring-line-dim/60"
-      />
+      <FotoFlotante src={FOTOS[0].src} alt={FOTOS[0].alt} className="col-span-2 aspect-4/3" />
+      <FotoFlotante src={FOTOS[1].src} alt={FOTOS[1].alt} className="aspect-square translate-y-4" />
+      <FotoFlotante src={FOTOS[2].src} alt={FOTOS[2].alt} className="aspect-square" />
     </div>
   );
 }

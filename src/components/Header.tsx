@@ -71,7 +71,7 @@ export default function Header() {
           </Link>
           <Link
             href="/#ranking"
-            className="rounded-full bg-accent px-4 py-2 text-white transition-colors hover:bg-[#1D4ED8]"
+            className="rounded-full bg-accent px-4 py-2 text-white shadow-sm transition-all duration-200 hover:-translate-y-0.5 hover:bg-[#1D4ED8] hover:shadow-md active:translate-y-0 active:scale-95"
           >
             Ver productos
           </Link>
