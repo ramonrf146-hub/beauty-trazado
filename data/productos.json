@@ -302,5 +302,33 @@
     "urlAfiliado": "https://www.amazon.com/dp/B07XXPHQZK?tag=beautylab02-20",
     "actualizadoEn": "2026-09-04",
     "activo": true
+  },
+  {
+    "asin": "B00464EC1E",
+    "nombre": "EltaMD UV Daily Face Sunscreen Moisturizer SPF 40",
+    "categoria": "proteccion-solar",
+    "precio": 41.0,
+    "moneda": "USD",
+    "imagen": "https://m.media-amazon.com/images/I/71fh71ZZOtL._SX466_.jpg",
+    "rating": 4.6,
+    "numResenas": 44832,
+    "ranking": 3,
+    "notaTecnica": "Protector solar 100% mineral (óxido de zinc) de EltaMD, la marca más recomendada por dermatólogos en encuestas de la industria en EE.UU. — más de 44.800 reseñas y 20.000+ compras el último mes. A diferencia de los otros dos protectores de este ranking (ISDIN con color, La Roche-Posay químico), este es untinted (sin color) y está formulado específicamente para piel seca/mixta, con ácido hialurónico que suma hidratación.",
+    "idealPara": "Piel seca o mixta que busca un protector 100% mineral sin color, de la marca más recomendada por dermatólogos, con un plus de hidratación.",
+    "guiaCompra": {
+      "queEsYParaQueSirve": "Es un protector solar 100% mineral (no químico) formulado específicamente para hidratar piel seca mientras protege del sol — a diferencia de un protector mineral genérico que puede sentirse pesado o resecar más, este suma ácido hialurónico para compensar.",
+      "ejemploHogar": "Lo aplicás como último paso de la rutina de la mañana si tenés piel seca o mixta — cumple doble función de hidratante y protector, sin necesitar un paso extra.",
+      "ejemploNegocio": "Una dermatóloga o esteticista lo recomienda específicamente a pacientes con piel seca o post-tratamiento que necesitan filtro mineral estricto sin que eso empeore la sequedad.",
+      "puntosClave": [
+        "Es untinted (sin color) — a diferencia del ISDIN con color de este ranking, no funciona como base de maquillaje, es protector puro.",
+        "Es más caro por onza que las otras dos opciones de protección solar de este catálogo — el precio corresponde a la formulación específica para piel seca, no conviene pagar de más si tu piel no es seca.",
+        "Es la marca #1 recomendada por dermatólogos según encuestas de la industria en EE.UU. — con 44.800+ reseñas es de los protectores mejor validados de todo Amazon."
+      ],
+      "consejoInversion": "Con casi 45.000 reseñas y 20.000+ compras el último mes, es de los protectores solares más probados del mercado — vale la inversión extra si tu piel es seca y necesitás que el protector también hidrate, en vez de sumar una crema aparte."
+    },
+    "tags": ["100% Mineral", "Piel seca", "Ácido hialurónico"],
+    "urlAfiliado": "https://www.amazon.com/dp/B00464EC1E?tag=beautylab02-20",
+    "actualizadoEn": "2026-09-04",
+    "activo": true
   }
 ]
