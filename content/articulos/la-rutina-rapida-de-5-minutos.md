@@ -31,13 +31,23 @@ Un toque de color con brillo cierra la rutina sin necesitar delineado ni precisi
 
 El [e.l.f. Glow Reviver Lip Oil](/productos/B0DFMX8YWJ) da color adaptado al tono natural de cada persona, con acabado brillante en vez de mate.
 
+## Si querés sumar un paso extra, sin romper los 5 minutos
+
+Esta rutina de 4 pasos es la base — pero hay 3 productos que suman valor real sin agregar más de un minuto:
+
+- **Antes del limpiador, un corrector**: el [Maybelline Instant Age Rewind](/productos/B004Y9GTOO) cubre ojeras en 15 segundos con un aplicador tipo esponja, sin necesitar brochas extra.
+- **Entre el limpiador y el protector solar, un serum**: el [CeraVe Hyaluronic Acid Serum](/productos/B07K3261ZD) suma hidratación profunda si tu piel es especialmente seca — se aplica en la piel todavía húmeda, antes del protector.
+- **A la noche, un tratamiento labial**: la [LANEIGE Lip Sleeping Mask](/productos/B07XXPHQZK) no es para esta rutina de la mañana, pero repara los labios mientras dormís — un buen complemento nocturno al paso 4.
+
+Si tu piel es seca todo el año, también podés reemplazar cualquier hidratante genérico por el [CeraVe Moisturizing Cream](/productos/B00TTD9BRC) como paso final antes de salir.
+
 ## Por qué esta rutina y no otra más larga
 
 Cada paso de esta rutina resuelve un problema real y visible (piel reseca, daño solar, cara de cansada, labios secos) — no está pensada para tratar acné, manchas o arrugas específicas, que necesitan productos activos y una rutina más larga y personalizada. Si tu piel tiene una necesidad puntual, esta es el punto de partida sobre el que sumar tratamientos, no el reemplazo de ellos.
 
 ## Nuestra recomendación del mes
 
-Mirá el ranking completo de [Cuidado Facial](/categorias/cuidado-facial) y [Protección Solar](/categorias/proteccion-solar) si querés comparar alternativas a cualquiera de estos 4 productos antes de armar tu propia versión de la rutina.
+Mirá el ranking completo de [Cuidado Facial](/categorias/cuidado-facial), [Protección Solar](/categorias/proteccion-solar), [Maquillaje](/categorias/maquillaje) y [Labios](/categorias/labios) si querés comparar alternativas a cualquiera de estos productos antes de armar tu propia versión de la rutina.
 
 ## Preguntas frecuentes
 

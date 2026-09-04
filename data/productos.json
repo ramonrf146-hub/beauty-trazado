@@ -190,5 +190,117 @@
     "urlAfiliado": "https://www.amazon.com/dp/B0DFMX8YWJ?tag=beautylab02-20",
     "actualizadoEn": "2026-09-02",
     "activo": true
+  },
+  {
+    "asin": "B00TTD9BRC",
+    "nombre": "CeraVe Moisturizing Cream 19oz — Hidratante Facial y Corporal",
+    "categoria": "cuidado-facial",
+    "precio": 18.96,
+    "moneda": "USD",
+    "imagen": "https://m.media-amazon.com/images/I/61EidjXUBrL._SY355_.jpg",
+    "rating": 4.7,
+    "numResenas": 148041,
+    "ranking": 2,
+    "notaTecnica": "Uno de los hidratantes más reseñados de todo Amazon (148.000+ reseñas). Contiene 3 ceramidas y ácido hialurónico, con tecnología MVE que libera hidratación de forma gradual durante 24 horas. Sirve para cara y cuerpo. Es una crema rica, no un gel — en piel muy oleosa o climas húmedos puede sentirse pesada.",
+    "idealPara": "Quien busca el paso final de hidratación de una rutina simple, para piel seca a normal, sin ingredientes activos agregados.",
+    "guiaCompra": {
+      "queEsYParaQueSirve": "Es el paso final de cualquier rutina — sella la hidratación después del limpiador (y del serum, si usás uno) con una crema rica en ceramidas que ayuda a reparar la barrera de la piel, en vez de solo cubrirla con una capa grasosa como hacen las cremas genéricas.",
+      "ejemploHogar": "Lo aplicás como último paso de la rutina de la mañana y de la noche — sirve tanto para la cara como para el cuerpo, así que un solo pote cubre ambos usos.",
+      "ejemploNegocio": "Una esteticista lo recomienda como hidratante de mantenimiento diario para clientes con piel seca, especialmente después de tratamientos que resecan la piel como peelings o láser.",
+      "puntosClave": [
+        "Viene en varios tamaños (8oz, 16oz, 19oz) — el de 19oz tiene el mejor precio por onza si ya sabés que te va a gustar.",
+        "Es una crema rica, no un gel — en climas muy húmedos o piel oleosa puede sentirse pesada; para esos casos existe la versión 'Ultra-Light Gel' de la misma marca.",
+        "Sirve para cara y cuerpo — no hace falta comprar un hidratante separado para cada zona."
+      ],
+      "consejoInversion": "A $1 por onza con 148.000+ reseñas de respaldo, es de los hidratantes de menor riesgo de toda la categoría — rara vez conviene pagar mucho más por una fórmula básica sin un ingrediente activo extra que este no tenga."
+    },
+    "tags": ["Ceramidas", "Fragrance-free", "Cara y cuerpo"],
+    "urlAfiliado": "https://www.amazon.com/dp/B00TTD9BRC?tag=beautylab02-20",
+    "actualizadoEn": "2026-09-04",
+    "activo": true
+  },
+  {
+    "asin": "B07K3261ZD",
+    "nombre": "CeraVe Hyaluronic Acid Serum — Serum Facial Hidratante",
+    "categoria": "cuidado-facial",
+    "precio": 18.39,
+    "moneda": "USD",
+    "imagen": "https://m.media-amazon.com/images/I/61LGrVlTaCL._SY355_.jpg",
+    "rating": 4.6,
+    "numResenas": 31122,
+    "ranking": 3,
+    "notaTecnica": "Serum liviano con ácido hialurónico, vitamina B5 y ceramidas, pensado para aplicarse antes del hidratante. Más de 31.000 reseñas. Fragrance-free y sin ácidos exfoliantes — es un paso de hidratación, no un tratamiento anti-acné o de manchas. Solo funciona bien si se sella con una crema encima.",
+    "idealPara": "Quien quiere sumar un paso extra de hidratación profunda a la rutina sin gastar en una marca de lujo.",
+    "guiaCompra": {
+      "queEsYParaQueSirve": "Es un serum liviano que se aplica entre el limpiador y el hidratante — el ácido hialurónico atrae agua hacia las capas superiores de la piel, dejándola más rellena y menos reseca antes de sellar con la crema.",
+      "ejemploHogar": "Lo aplicás con la piel todavía húmeda (recién lavada) antes de la crema — atrapa esa humedad en vez de dejar que se evapore.",
+      "ejemploNegocio": "Una maquilladora lo usa como preparación de piel antes de aplicar base, para que el maquillaje no se vea reseco ni marque líneas de expresión.",
+      "puntosClave": [
+        "Solo hidrata bien si lo sellás con una crema encima — usado solo, en ambientes secos, puede tener el efecto contrario y absorber humedad de la piel.",
+        "Es fragrance-free y no contiene ácidos exfoliantes — es un paso de hidratación, no un tratamiento para acné o manchas.",
+        "Rinde mucho — el frasco de 1oz dura varios meses con 2-3 gotas por uso."
+      ],
+      "consejoInversion": "Con más de 31.000 reseñas y 4.6 estrellas a menos de $20, es una forma económica de sumar el mismo ingrediente activo que serums de marcas de lujo cobran 3-4 veces más caro."
+    },
+    "tags": ["Ácido hialurónico", "Serum", "Fragrance-free"],
+    "urlAfiliado": "https://www.amazon.com/dp/B07K3261ZD?tag=beautylab02-20",
+    "actualizadoEn": "2026-09-04",
+    "activo": true
+  },
+  {
+    "asin": "B004Y9GTOO",
+    "nombre": "Maybelline Instant Age Rewind Eraser — Corrector Multiuso",
+    "categoria": "maquillaje",
+    "precio": 9.98,
+    "moneda": "USD",
+    "imagen": "https://m.media-amazon.com/images/I/615FqGYCHnL._SY879_.jpg",
+    "rating": 4.4,
+    "numResenas": 246305,
+    "ranking": 3,
+    "notaTecnica": "Uno de los correctores más reseñados de todo Amazon (246.000+ reseñas), Amazon's Choice en su categoría. Multiuso: ojeras, rojeces e imperfecciones puntuales, con aplicador tipo esponja. Acabado mate, no waterproof. El match de color por foto puede fallar — conviene revisar reseñas con fotos de tonos de piel similares antes de elegir el tono.",
+    "idealPara": "Quien busca un corrector económico y confiable para el paso de ojeras/imperfecciones de una rutina rápida de maquillaje.",
+    "guiaCompra": {
+      "queEsYParaQueSirve": "Es un corrector multiuso: cubre ojeras, rojeces e imperfecciones puntuales con un aplicador tipo esponja que facilita difuminar sin necesitar brochas extra.",
+      "ejemploHogar": "Lo aplicás en triángulo bajo los ojos y sobre cualquier imperfección antes de la base (o en vez de base, en un día rápido) — es el paso que más cambia la cara con menos esfuerzo.",
+      "ejemploNegocio": "Una maquilladora lo usa como corrector base en sesiones rápidas donde no hay tiempo de mezclar varios productos de alta gama.",
+      "puntosClave": [
+        "El match de color por foto puede fallar — conviene revisar las reseñas con fotos de tonos de piel similares al tuyo antes de elegir el tono.",
+        "Tiene acabado mate — en piel muy seca puede marcar líneas finas si no hidratás bien antes de aplicarlo.",
+        "No es waterproof — dura todo el día en uso normal, pero puede correrse con calor o sudor intenso."
+      ],
+      "consejoInversion": "A menos de $10 con casi 250.000 reseñas, es de los correctores de menor riesgo para probar shade — si el tono no te convence, perdiste poco comparado con un corrector de lujo mal elegido."
+    },
+    "tags": ["Multiuso", "Acabado mate", "Ojeras"],
+    "urlAfiliado": "https://www.amazon.com/dp/B004Y9GTOO?tag=beautylab02-20",
+    "actualizadoEn": "2026-09-04",
+    "activo": true
+  },
+  {
+    "asin": "B07XXPHQZK",
+    "nombre": "LANEIGE Lip Sleeping Mask Berry — Tratamiento Labial Nocturno",
+    "categoria": "labios",
+    "precio": 21.60,
+    "moneda": "USD",
+    "imagen": "https://m.media-amazon.com/images/I/51VfrPOslWL._SX466_.jpg",
+    "rating": 4.6,
+    "numResenas": 37372,
+    "ranking": 2,
+    "notaTecnica": "Tratamiento labial nocturno con manteca de karité y murumuru, vitamina C y antioxidantes. Amazon's Choice, más de 37.000 reseñas. Es un tratamiento para dormir, no un producto de uso diurno bajo maquillaje — textura espesa tipo ungüento. Sabor/aroma a berries; existen otras variantes de la misma fórmula base.",
+    "idealPara": "Quien tiene labios resecos o agrietados y quiere un tratamiento intensivo nocturno, no un producto de uso diurno.",
+    "guiaCompra": {
+      "queEsYParaQueSirve": "Es una máscara labial nocturna: una capa espesa de manteca de karité y murumuru que repara los labios mientras dormís, a diferencia de un bálsamo de uso diario que se reaplica cada pocas horas.",
+      "ejemploHogar": "Lo aplicás como último paso antes de dormir, en capa generosa — a la mañana los labios están notablemente menos resecos y agrietados.",
+      "ejemploNegocio": "Una esteticista lo recomienda como parte de un ritual nocturno de cuidado, sobre todo en climas secos o después de tratamientos labiales.",
+      "puntosClave": [
+        "Es un tratamiento nocturno, no un producto para usar de día bajo maquillaje — la textura es espesa tipo ungüento, no un gloss liviano.",
+        "Viene en varios sabores/tonos (Berry es el clásico) — todos comparten la misma fórmula base, solo cambia el aroma/tinte.",
+        "Un pote dura meses porque se usa en capa fina — no hace falta reponerlo seguido."
+      ],
+      "consejoInversion": "Con más de 37.000 reseñas y 4.6 estrellas, es de los tratamientos labiales más validados del mercado — el precio por uso termina siendo bajo porque un pote rinde varios meses de uso nocturno."
+    },
+    "tags": ["Tratamiento nocturno", "Manteca de karité", "Berry"],
+    "urlAfiliado": "https://www.amazon.com/dp/B07XXPHQZK?tag=beautylab02-20",
+    "actualizadoEn": "2026-09-04",
+    "activo": true
   }
 ]
