@@ -46,6 +46,12 @@ Si tu piel es seca todo el año, también podés reemplazar cualquier hidratante
 
 Cada paso de esta rutina resuelve un problema real y visible (piel reseca, daño solar, cara de cansada, labios secos) — no está pensada para tratar acné, manchas o arrugas específicas, que necesitan productos activos y una rutina más larga y personalizada. Si tu piel tiene una necesidad puntual, esta es el punto de partida sobre el que sumar tratamientos, no el reemplazo de ellos.
 
+## Video: la rutina en tiempo real
+
+<div class="not-prose my-6 overflow-hidden rounded-2xl border border-line-dim" style="aspect-ratio:16/9">
+<iframe width="100%" height="100%" src="https://www.youtube-nocookie.com/embed/tH4I1fnYq8U" title="5 minute makeup routine *EASY* — Leah Halton" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
 ## Nuestra recomendación del mes
 
 Mirá el ranking completo de [Cuidado Facial](/categorias/cuidado-facial), [Protección Solar](/categorias/proteccion-solar), [Maquillaje](/categorias/maquillaje) y [Labios](/categorias/labios) si querés comparar alternativas a cualquiera de estos productos antes de armar tu propia versión de la rutina.
