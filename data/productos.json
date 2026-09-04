@@ -358,5 +358,33 @@
     "urlAfiliado": "https://www.amazon.com/dp/B01MRH7MR4?tag=beautylab02-20",
     "actualizadoEn": "2026-09-04",
     "activo": true
+  },
+  {
+    "asin": "B01MDTVZTZ",
+    "nombre": "The Ordinary Niacinamide 10% + Zinc 1% — Serum Facial",
+    "categoria": "cuidado-facial",
+    "precio": 6.0,
+    "moneda": "USD",
+    "imagen": "https://m.media-amazon.com/images/I/612NxRjAoCL._SX466_.jpg",
+    "rating": 4.7,
+    "numResenas": 66004,
+    "ranking": 4,
+    "notaTecnica": "Serum icónico de The Ordinary — más de 100.000 compras el último mes, 66.000+ reseñas, 4.7 estrellas. Niacinamida al 10% + zinc 1%, formulado específicamente para piel con tendencia a granitos/poros dilatados — no es un hidratante ni un protector solar, es un tratamiento activo que se aplica antes de la crema. Puede generar hormigueo leve las primeras aplicaciones (normal en concentraciones altas de niacinamida) y no se recomienda combinar directo con vitamina C pura en la misma aplicación.",
+    "idealPara": "Piel con tendencia a granitos, poros dilatados o textura despareja, que busca un tratamiento activo económico y con muchísimo respaldo de reseñas.",
+    "guiaCompra": {
+      "queEsYParaQueSirve": "Es un serum concentrado que se aplica antes de la crema hidratante — la niacinamida ayuda a controlar el brillo excesivo y afinar la apariencia de los poros con el uso constante, a diferencia de un hidratante que solo da agua a la piel sin tratar nada puntual.",
+      "ejemploHogar": "Lo aplicás después del limpiador y antes del hidratante, de noche al principio (para ver cómo reacciona tu piel) y después mañana y noche si te va bien.",
+      "ejemploNegocio": "Una esteticista lo recomienda como primer paso de tratamiento activo para clientas con piel mixta a grasa que recién empiezan a incorporar activos a su rutina.",
+      "puntosClave": [
+        "Puede generar hormigueo leve las primeras veces que lo usás — es normal en concentraciones altas de niacinamida, no significa que te esté haciendo mal.",
+        "No se recomienda combinarlo directo con vitamina C pura en la misma aplicación — si usás ambos, alterná uno de mañana y otro de noche.",
+        "No reemplaza al hidratante ni al protector solar — es un tratamiento que se suma antes de esos pasos, no en su lugar."
+      ],
+      "consejoInversion": "A $6 con más de 66.000 reseñas y 100.000+ compras el último mes, es de las formas más baratas de probar un activo real sin arriesgar mucho dinero — es el punto de entrada más validado a rutinas con tratamiento activo."
+    },
+    "tags": ["Niacinamida 10%", "Piel grasa", "Tratamiento activo"],
+    "urlAfiliado": "https://www.amazon.com/dp/B01MDTVZTZ?tag=beautylab02-20",
+    "actualizadoEn": "2026-09-04",
+    "activo": true
   }
 ]
