@@ -58,13 +58,31 @@ body {
   position: fixed;
   inset: 0;
   z-index: 0;
+  overflow: hidden;
   pointer-events: none;
-  background-image:
-    linear-gradient(to bottom, rgba(255, 255, 255, 0.72) 0%, rgba(255, 255, 255, 0.55) 45%, rgba(255, 255, 255, 0.88) 100%),
-    url('/fondo-hero.jpg');
+}
+
+/* La foto va desenfocada y agrandada (para que el blur no deje bordes
+   transparentes) — así queda como textura ambiente, no como una foto
+   nítida compitiendo con el texto de la página. */
+#site-bg::before {
+  content: "";
+  position: absolute;
+  inset: -20px;
+  background-image: url('/fondo-hero.jpeg');
   background-size: cover;
-  background-position: center top;
+  background-position: center 30%;
   background-repeat: no-repeat;
+  filter: blur(14px) saturate(1.05);
+}
+
+/* Degradado blanco por encima de la foto (sin blur) para asegurar
+   contraste y legibilidad del texto real de la página. */
+#site-bg::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(to bottom, rgba(255, 255, 255, 0.86) 0%, rgba(255, 255, 255, 0.74) 45%, rgba(255, 255, 255, 0.92) 100%);
 }
 
 /* Gotas flotantes decorativas sobre el fondo, en los tonos de marca */
