@@ -330,5 +330,33 @@
     "urlAfiliado": "https://www.amazon.com/dp/B00464EC1E?tag=beautylab02-20",
     "actualizadoEn": "2026-09-04",
     "activo": true
+  },
+  {
+    "asin": "B01MRH7MR4",
+    "nombre": "Burt's Bees Lip Balm Classic Flavor Pack (4 tubos)",
+    "categoria": "labios",
+    "precio": 9.99,
+    "moneda": "USD",
+    "imagen": "https://m.media-amazon.com/images/I/819sSUmAR-L._SY355_PIbundle-4,TopRight,0,0_AA355SH20_.jpg",
+    "rating": 4.8,
+    "numResenas": 121496,
+    "ranking": 3,
+    "notaTecnica": "Es el bálsamo labial 'clásico' (no tintado, no tratamiento nocturno) — a diferencia del e.l.f. Lip Oil (con color) y el LANEIGE Lip Sleeping Mask (tratamiento nocturno intensivo) de este ranking, este es el básico de uso diario para reaplicar varias veces, formulado con cera de abeja. Viene en pack de 4 sabores clásicos. Es de los productos de belleza más reseñados de todo Amazon (121.000+ reseñas, 4.8 estrellas), Amazon's Choice.",
+    "idealPara": "El bálsamo de uso diario, de bolsillo, para reaplicar varias veces al día — no reemplaza al tratamiento nocturno ni al aceite con color de este ranking, los complementa.",
+    "guiaCompra": {
+      "queEsYParaQueSirve": "Es el bálsamo labial clásico de toda la vida: hidrata y protege los labios en segundos, para llevar en la cartera o el bolsillo y reaplicar cuantas veces haga falta durante el día — sin color, sin brillo especial, solo hidratación básica y confiable.",
+      "ejemploHogar": "Lo llevás en la cartera o el auto y lo usás varias veces al día, cada vez que sentís los labios secos — es el paso 'de emergencia' entre el tratamiento nocturno y el aceite con color de este ranking.",
+      "ejemploNegocio": "Una maquilladora lo usa como base neutra antes de aplicar cualquier labial, para que el producto final no se agriete sobre labios secos.",
+      "puntosClave": [
+        "No tiene color ni brillo — si buscás eso, el e.l.f. Glow Reviver Lip Oil de este ranking es la opción con color.",
+        "Viene en pack de 4 sabores clásicos — conveniente para tener uno en cada lugar (cartera, auto, casa) sin comprar por separado.",
+        "Con más de 121.000 reseñas y 4.8 estrellas, es directamente el bálsamo labial mejor evaluado de todo Amazon en su categoría."
+      ],
+      "consejoInversion": "A $2.50 por unidad (en el pack de 4), es la compra de menor riesgo de todo el catálogo — con ese respaldo de reseñas, no hay razón para probar una marca desconocida antes de este clásico."
+    },
+    "tags": ["Sin color", "Cera de abeja", "Pack de 4"],
+    "urlAfiliado": "https://www.amazon.com/dp/B01MRH7MR4?tag=beautylab02-20",
+    "actualizadoEn": "2026-09-04",
+    "activo": true
   }
 ]
