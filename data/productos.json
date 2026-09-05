@@ -554,5 +554,33 @@
     "urlAfiliado": "https://www.amazon.com/dp/B0FH7P1T2P?tag=beautylab02-20",
     "actualizadoEn": "2026-09-04",
     "activo": true
+  },
+  {
+    "asin": "B0B2RM68G2",
+    "nombre": "BIODANCE Bio-Collagen Real Deep Mask (4 unidades)",
+    "categoria": "cuidado-facial",
+    "precio": 16.15,
+    "moneda": "USD",
+    "imagen": "https://m.media-amazon.com/images/I/51ubxqzNGIL._SY355_.jpg",
+    "rating": 4.5,
+    "numResenas": 46852,
+    "ranking": 8,
+    "notaTecnica": "Es una mascarilla hidrogel (no una crema ni una arcilla como el Aztec Secret de este ranking) — una lámina gruesa y flexible que se pega a toda la cara, hecha en gran parte de agua y colágeno de bajo peso molecular. Es el producto coreano más viral del último par de años en TikTok/Sephora — 100.000+ compras el último mes, casi 47.000 reseñas, Amazon's Choice. Se usa como tratamiento puntual (no diario), 15-20 minutos u overnight, no reemplaza la rutina diaria.",
+    "idealPara": "Un tratamiento puntual de hidratación intensiva antes de un evento o como mimo semanal — no es para uso diario como un hidratante normal.",
+    "guiaCompra": {
+      "queEsYParaQueSirve": "A diferencia de la mascarilla de arcilla de este ranking (que limpia absorbiendo grasa), esta es una lámina de hidrogel que se pega a la cara y libera una dosis concentrada de colágeno e hidratación de una sola vez — el efecto 'plumping' (piel más rellena) que se ve inmediatamente al sacarla es real, aunque temporal.",
+      "ejemploHogar": "La noche antes de un evento importante, la aplicás 20 minutos (o dejás toda la noche) y a la mañana siguiente la piel se ve más rellena e hidratada — es el 'arma secreta' antes de una ocasión especial.",
+      "ejemploNegocio": "Una esteticista la usa como paso final de un facial premium, para que la clienta se vaya con el efecto 'glow' inmediato que se nota apenas se retira la máscara.",
+      "puntosClave": [
+        "Es hidrogel, no tela como una sheet mask común — es más gruesa, no se seca ni se pega tanto, y cubre mejor los contornos de la cara.",
+        "El efecto de piel 'rellena' es inmediato pero temporal (dura 1-2 días) — no es un tratamiento que cambie la piel a largo plazo por sí solo.",
+        "No es de uso diario — usala 1-2 veces por semana como máximo, o como tratamiento puntual antes de un evento."
+      ],
+      "consejoInversion": "Con casi 47.000 reseñas, Amazon's Choice y 100.000+ compras el último mes, es la mascarilla de hidrogel más validada del mercado coreano — a $4 por unidad en el pack de 4, es una forma accesible de probar el tratamiento antes de gastar en versiones más caras de otras marcas."
+    },
+    "tags": ["Hidrogel", "Colágeno", "Efecto plumping"],
+    "urlAfiliado": "https://www.amazon.com/dp/B0B2RM68G2?tag=beautylab02-20",
+    "actualizadoEn": "2026-09-04",
+    "activo": true
   }
 ]
