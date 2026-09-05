@@ -584,6 +584,34 @@
     "activo": true
   },
   {
+    "asin": "B0DCZSSG8B",
+    "nombre": "Bare Anatomy Ultra Smoothing Kit — Shampoo + Máscara + Serum",
+    "categoria": "cuidado-capilar",
+    "precio": 27.72,
+    "moneda": "USD",
+    "imagen": "https://m.media-amazon.com/images/I/31XtR8RXNTL._SY355_.jpg",
+    "rating": 4.8,
+    "numResenas": 303,
+    "ranking": 6,
+    "notaTecnica": "A diferencia de los productos sueltos de este ranking, es un kit de 3 pasos completo: shampoo (250ml) + máscara capilar (250g) + serum (100ml), todos con el mismo complejo de carbohidratos y niacinamida, pensado para pelo seco y con frizz. Sin parabenos ni sulfatos. Es una marca india (Bare Anatomy) con mucho menos historial en Amazon EE.UU. que CeraVe u Olaplex — 303 reseñas en el kit, bastante menos volumen que el resto de este ranking, así que conviene tenerlo en cuenta antes de comprar el combo completo de una vez.",
+    "idealPara": "Quien prefiere armar la rutina capilar completa (limpieza + tratamiento semanal + leave-in) de una sola marca y en un combo, en vez de comprar cada paso por separado.",
+    "guiaCompra": {
+      "queEsYParaQueSirve": "Es un kit de 3 pasos: el shampoo limpia sin sulfatos, la máscara es un tratamiento profundo semanal, y el serum es el leave-in final — los tres comparten el mismo activo (complejo de carbohidratos + niacinamida) pensado para restaurar suavidad en pelo seco y con frizz.",
+      "ejemploHogar": "Usás el shampoo en cada lavado, la máscara una vez por semana dejándola actuar unos minutos, y el serum como último paso en el pelo húmedo o seco — los tres pasos de una rutina capilar completa en una sola compra.",
+      "ejemploNegocio": "Un spa o salón que arma paquetes de tratamiento capilar puede ofrecer este kit completo a clientas con pelo seco, en vez de vender productos sueltos de distintas marcas.",
+      "puntosClave": [
+        "Es una marca con mucho menos historial en Amazon EE.UU. (303 reseñas en el kit) que otros productos de este ranking (CeraVe, Olaplex) — probalo primero si nunca usaste la marca.",
+        "Viene con los 3 pasos por separado (pueden llegar en envíos distintos) — no es un producto todo-en-uno.",
+        "Es sin parabenos ni sulfatos, similar en filosofía a las otras opciones sin sulfatos de este ranking (CeraVe)."
+      ],
+      "consejoInversion": "El combo sale un 23% más barato que comprar los 3 productos sueltos — tiene sentido si ya decidiste probar la rutina completa de la marca, pero con menos reseñas que el resto del catálogo, es más una apuesta que una elección segura como el resto de este ranking."
+    },
+    "tags": ["Kit 3 pasos", "Sin sulfatos", "Niacinamida"],
+    "urlAfiliado": "https://www.amazon.com/dp/B0DCZSSG8B?tag=beautylab02-20",
+    "actualizadoEn": "2026-09-04",
+    "activo": true
+  },
+  {
     "asin": "B0FH7P1T2P",
     "nombre": "Aztec Secret Indian Healing Clay 10oz — Mascarilla Facial de Arcilla",
     "categoria": "cuidado-facial",
