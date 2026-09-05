@@ -414,5 +414,61 @@
     "urlAfiliado": "https://www.amazon.com/dp/B006J44BSI?tag=beautylab02-20",
     "actualizadoEn": "2026-09-04",
     "activo": true
+  },
+  {
+    "asin": "B00PBX3L7K",
+    "nombre": "COSRX Snail Mucin 96% Repairing Serum",
+    "categoria": "cuidado-facial",
+    "precio": 18.5,
+    "moneda": "USD",
+    "imagen": "https://m.media-amazon.com/images/I/416kUGx2rQL._SY355_.jpg",
+    "rating": 4.6,
+    "numResenas": 106390,
+    "ranking": 5,
+    "notaTecnica": "Es uno de los productos coreanos más virales de TikTok/Reddit desde hace años — más de 106.000 reseñas, 4.6 estrellas, '40K+ compras el último mes'. Filtrado de secreción de caracol al 96%, formulado para hidratar y ayudar a la reparación de la barrera cutánea. Es un essence/serum liviano, no una crema — se aplica después del limpiador y antes de un hidratante más pesado. A pesar del nombre, no contiene caracol entero ni tiene olor fuerte una vez seco.",
+    "idealPara": "Piel opaca o con textura despareja que busca el efecto 'glass skin' viral en TikTok, sin gastar en tratamientos más caros.",
+    "guiaCompra": {
+      "queEsYParaQueSirve": "Es un essence coreano hecho con filtrado de secreción de caracol — suena raro, pero en la práctica es un hidratante liviano rico en glicoproteínas y ácido hialurónico que ayuda a la piel a retener agua y lucir más luminosa, el efecto que se hizo viral como 'glass skin'.",
+      "ejemploHogar": "Lo aplicás con las manos (dando palmaditas, no frotando) después del limpiador y antes de la crema — se siente pegajoso al principio pero se absorbe en menos de un minuto.",
+      "ejemploNegocio": "Una esteticista lo incorpora en un facial coreano de varios pasos como el paso de hidratación intermedia, antes del sellado final con crema.",
+      "puntosClave": [
+        "No es una crema — es un essence líquido/gel, se aplica en capas finas, no de una vez como si fuera hidratante.",
+        "El nombre genera dudas por 'mucina de caracol', pero el producto no tiene olor a caracol ni textura rara una vez aplicado y absorbido.",
+        "Es compatible con la mayoría de los activos (retinol, vitamina C, ácidos) — se puede usar en la misma rutina sin problema, a diferencia de otros tratamientos que necesitan alternarse."
+      ],
+      "consejoInversion": "Con más de 106.000 reseñas y 40.000+ compras el último mes, es de los pocos productos 'virales de TikTok' que efectivamente sostiene ese volumen de recompra — no es una moda pasajera, lleva años siendo bestseller real."
+    },
+    "tags": ["Snail mucin", "Glass skin", "K-beauty"],
+    "urlAfiliado": "https://www.amazon.com/dp/B00PBX3L7K?tag=beautylab02-20",
+    "actualizadoEn": "2026-09-04",
+    "activo": true
+  },
+  {
+    "asin": "B00949CTQQ",
+    "nombre": "Paula's Choice Skin Perfecting 2% BHA Liquid Exfoliant",
+    "categoria": "cuidado-facial",
+    "precio": 29.6,
+    "moneda": "USD",
+    "imagen": "https://m.media-amazon.com/images/I/61RHq4MT34L._SX466_.jpg",
+    "rating": 4.5,
+    "numResenas": 116462,
+    "ranking": 6,
+    "notaTecnica": "Exfoliante líquido con ácido salicílico (BHA) al 2%, distinto de un exfoliante físico con partículas — actúa disolviendo el exceso de grasa dentro del poro, por eso es el favorito viral en TikTok para puntos negros y poros dilatados. Amazon's Choice, 116.000+ reseñas, '50K+ compras el último mes'. Se usa de noche, empezando 2-3 veces por semana, y siempre con protector solar al día siguiente porque los ácidos exfoliantes aumentan la sensibilidad al sol.",
+    "idealPara": "Piel con puntos negros, poros dilatados o textura irregular — no para piel muy sensible sin probar antes en una zona chica.",
+    "guiaCompra": {
+      "queEsYParaQueSirve": "Es un líquido exfoliante que se aplica con un algodón o las manos después de limpiar la cara — a diferencia de un scrub físico que frota partículas sobre la piel, el ácido salicílico se mete dentro del poro y disuelve la grasa y células muertas que lo tapan desde adentro.",
+      "ejemploHogar": "Lo aplicás de noche, 2-3 veces por semana al principio, en toda la cara evitando el contorno de ojos — a las pocas semanas se nota menos textura y poros menos visibles.",
+      "ejemploNegocio": "Una esteticista lo recomienda como paso de mantenimiento entre faciales profesionales, para sostener resultados de limpieza de poros sin necesitar una extracción manual cada semana.",
+      "puntosClave": [
+        "Empezá con 2-3 veces por semana, no todos los días — usarlo a diario desde el principio es la causa más común de irritación y descamación.",
+        "Aumenta la sensibilidad al sol — es obligatorio usar protector solar al día siguiente de cada aplicación.",
+        "No se combina la misma noche con retinol o vitamina C pura — alterná noches distintas si usás ambos activos."
+      ],
+      "consejoInversion": "Con más de 116.000 reseñas, Amazon's Choice y 50.000+ compras el último mes, es el exfoliante líquido más validado del mercado — antes de probar una marca más barata sin ese respaldo, este es el punto de referencia contra el que se comparan todos los demás BHA."
+    },
+    "tags": ["Ácido salicílico 2%", "BHA", "Poros"],
+    "urlAfiliado": "https://www.amazon.com/dp/B00949CTQQ?tag=beautylab02-20",
+    "actualizadoEn": "2026-09-04",
+    "activo": true
   }
 ]
