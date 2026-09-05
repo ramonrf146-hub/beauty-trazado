@@ -54,7 +54,7 @@ No se aplican en el mismo paso ni necesariamente la misma noche:
 
 ## Nuestra recomendación del mes
 
-Mirá el ranking completo de [Cuidado Facial](/categorias/cuidado-facial) para comparar estos dos frente al resto del catálogo antes de sumarlos a tu rutina.
+Mirá el ranking completo de [Cuidado Facial](/categorias/cuidado-facial) para comparar estos dos frente al resto del catálogo antes de sumarlos a tu rutina. Si buscás algo para el fin de semana (no diario), la [guía de mascarillas faciales](/articulos/guia-mascarillas-faciales) explica cuándo conviene arcilla, hidrogel o peel-off.
 
 ## Preguntas frecuentes
 

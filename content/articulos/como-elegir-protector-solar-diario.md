@@ -32,7 +32,7 @@ Un protector pensado para cuerpo suele ser más pesado y menos cuidadoso con la 
 
 ## Nuestra recomendación del mes
 
-Mirá el ranking de [Protección Solar](/categorias/proteccion-solar) — comparamos mineral vs. químico y facial vs. corporal en la nota técnica de cada producto, para que no tengas que adivinar leyendo la etiqueta en la farmacia.
+Mirá el ranking de [Protección Solar](/categorias/proteccion-solar) — comparamos mineral vs. químico y facial vs. corporal en la nota técnica de cada producto, para que no tengas que adivinar leyendo la etiqueta en la farmacia. Si tu rutina nocturna incluye ácidos exfoliantes o retinol (ver la [guía de skincare viral en TikTok](/articulos/skincare-viral-en-tiktok) y el [ranking de Cuidado Facial](/categorias/cuidado-facial)), el protector solar del día siguiente deja de ser opcional.
 
 ## Preguntas frecuentes
 
@@ -41,3 +41,6 @@ Sí, si hay ventanas cerca — los rayos UVA atraviesan el vidrio. No necesitás
 
 **¿Un maquillaje con SPF reemplaza al protector solar?**
 No, salvo que te apliques una cantidad mucho mayor de la que normalmente usarías de base — la mayoría de los maquillajes con SPF no llegan a la cantidad de producto necesaria para lograr el SPF que dice la etiqueta.
+
+**¿Uso protector solar distinto si tengo una rutina con retinol?**
+No necesitás uno distinto, pero sí es más importante no saltearlo. El retinol (como el del [RoC Retinol Correxion Value Set](/productos/B00PKO2FD6) del ranking de Cuidado Facial) aumenta la sensibilidad al sol — cualquiera de los protectores de este ranking sirve, lo que no podés hacer es omitirlo la mañana después de usar retinol.

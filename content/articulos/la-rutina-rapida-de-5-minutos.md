@@ -55,7 +55,7 @@ Cada paso de esta rutina resuelve un problema real y visible (piel reseca, daño
 
 ## Nuestra recomendación del mes
 
-Mirá el ranking completo de [Cuidado Facial](/categorias/cuidado-facial), [Protección Solar](/categorias/proteccion-solar), [Maquillaje](/categorias/maquillaje) y [Labios](/categorias/labios) si querés comparar alternativas a cualquiera de estos productos antes de armar tu propia versión de la rutina.
+Mirá el ranking completo de [Cuidado Facial](/categorias/cuidado-facial), [Protección Solar](/categorias/proteccion-solar), [Maquillaje](/categorias/maquillaje), [Labios](/categorias/labios) y [Cuidado Capilar](/categorias/cuidado-capilar) si querés comparar alternativas a cualquiera de estos productos antes de armar tu propia versión de la rutina. Si además querés sumar un tratamiento semanal (no diario), mirá la [guía de mascarillas faciales](/articulos/guia-mascarillas-faciales) o la [rutina capilar básica](/articulos/rutina-capilar-basica) para el pelo.
 
 ## Preguntas frecuentes
 

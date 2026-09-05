@@ -21,6 +21,10 @@ const GUIA_POR_CATEGORIA: Record<string, { href: string; texto: string }> = {
     href: "/articulos/como-elegir-protector-solar-diario",
     texto: "📖 Guía: cómo elegir protector solar de uso diario",
   },
+  "cuidado-capilar": {
+    href: "/articulos/rutina-capilar-basica",
+    texto: "📖 Guía: rutina capilar básica, el orden correcto de cada paso",
+  },
 };
 
 function IconoChevron({ direccion }: { direccion: "izquierda" | "derecha" }) {
