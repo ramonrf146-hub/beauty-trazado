@@ -470,5 +470,61 @@
     "urlAfiliado": "https://www.amazon.com/dp/B00949CTQQ?tag=beautylab02-20",
     "actualizadoEn": "2026-09-04",
     "activo": true
+  },
+  {
+    "asin": "B07VR1NDSQ",
+    "nombre": "Olaplex N°.7 Bonding Hair Oil — Protección Térmica 450°F",
+    "categoria": "cuidado-capilar",
+    "precio": 32.0,
+    "moneda": "USD",
+    "imagen": "https://m.media-amazon.com/images/I/71ACqtMWo2L._SX466_.jpg",
+    "rating": 4.7,
+    "numResenas": 61415,
+    "ranking": 2,
+    "notaTecnica": "A diferencia del serum anti-frizz de este ranking (que sella la cutícula desde afuera), este es un aceite 'bonding' — contiene la misma tecnología de reconstrucción de enlaces que hizo famoso a Olaplex en salones, en formato de aceite liviano. Protege del calor hasta 450°F/232°C, se usa en cabello mojado (antes de planchar/secar) o seco (como toque final). Amazon's Choice, 61.000+ reseñas, '20K+ compras el último mes'.",
+    "idealPara": "Quien usa plancha o secador seguido y necesita protección térmica real, además de brillo — no reemplaza un tratamiento reparador profundo si el daño ya está hecho.",
+    "guiaCompra": {
+      "queEsYParaQueSirve": "A diferencia de un aceite de brillo común, este contiene la tecnología 'bonding' de Olaplex que ayuda a reconstruir los enlaces internos del cabello dañado, además de proteger del calor de planchas y secadores hasta 450°F.",
+      "ejemploHogar": "Lo aplicás en el cabello mojado antes de secar o planchar — protege del calor y además le da brillo, dos pasos en uno.",
+      "ejemploNegocio": "Una peluquera lo usa antes de cualquier herramienta de calor (plancha, secador, tenaza) para reducir el daño acumulado en clientas que se peinan con calor seguido.",
+      "puntosClave": [
+        "Se aplica en cabello mojado ANTES de usar calor — usarlo después no da la misma protección térmica.",
+        "También funciona en cabello seco como toque final de brillo, en cantidad mínima (2-3 gotas).",
+        "No reemplaza un tratamiento reparador profundo (como el Olaplex No.3) si el cabello ya está muy dañado — este es prevención, no reparación intensiva."
+      ],
+      "consejoInversion": "Con más de 61.000 reseñas, Amazon's Choice y 20.000+ compras el último mes, es de los protectores térmicos con más respaldo real del mercado — si usás calor en el pelo casi todos los días, la inversión se justifica por el daño que evita a largo plazo."
+    },
+    "tags": ["Protección térmica 450°F", "Bonding", "Brillo"],
+    "urlAfiliado": "https://www.amazon.com/dp/B07VR1NDSQ?tag=beautylab02-20",
+    "actualizadoEn": "2026-09-04",
+    "activo": true
+  },
+  {
+    "asin": "B07MGZ6X2Q",
+    "nombre": "Batiste Original Dry Shampoo 200ml",
+    "categoria": "cuidado-capilar",
+    "precio": 6.95,
+    "moneda": "USD",
+    "imagen": "https://m.media-amazon.com/images/I/61L0ybN5sAL._SY355_.jpg",
+    "rating": 4.5,
+    "numResenas": 15669,
+    "ranking": 3,
+    "notaTecnica": "A diferencia de los tratamientos de este ranking (serum, aceite), este es un shampoo en polvo que se rocía en seco para absorber grasa del cuero cabelludo sin lavar el pelo — no reemplaza el lavado real, es para extender un peinado 1-2 días entre lavados. '6K+ compras el último mes', 15.600+ reseñas. Puede dejar residuo blanco visible en cabello oscuro si se aplica muy cerca de la raíz o en exceso.",
+    "idealPara": "Extender un peinado o disimular grasa del cuero cabelludo entre lavados, sin reemplazar el lavado real — no es un tratamiento, es una solución rápida puntual.",
+    "guiaCompra": {
+      "queEsYParaQueSirve": "Es un polvo en aerosol que absorbe la grasa del cuero cabelludo sin agua — como un 'papel secante' para el pelo, dejándolo con aspecto recién lavado sin ducharse.",
+      "ejemploHogar": "Te despertás tarde y no tenés tiempo de lavarte el pelo — lo rociás en las raíces, esperás unos minutos y cepillás, y el pelo luce fresco.",
+      "ejemploNegocio": "Una peluquera lo usa para dar volumen y textura rápida antes de un peinado, además de su función de absorber grasa.",
+      "puntosClave": [
+        "Aplicalo a 15-20 cm de distancia de la raíz, no directo encima — muy cerca deja residuo blanco visible, sobre todo en cabello oscuro.",
+        "Esperá 1-2 minutos después de rociar y cepillá bien — ahí es cuando se activa la absorción de grasa y desaparece el residuo blanco.",
+        "No es un reemplazo del lavado real — usarlo todos los días sin lavar el pelo con agua puede tapar los folículos con el tiempo."
+      ],
+      "consejoInversion": "A menos de $7 con más de 15.600 reseñas y 6.000+ compras el último mes, es la solución de menor costo para estirar un peinado entre lavados — mucho más barato y rápido que un lavado completo con secado."
+    },
+    "tags": ["Shampoo en seco", "Sin enjuague", "Absorbe grasa"],
+    "urlAfiliado": "https://www.amazon.com/dp/B07MGZ6X2Q?tag=beautylab02-20",
+    "actualizadoEn": "2026-09-04",
+    "activo": true
   }
 ]
