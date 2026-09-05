@@ -778,5 +778,61 @@
     "urlAfiliado": "https://www.amazon.com/dp/B00PKO2FD6?tag=beautylab02-20",
     "actualizadoEn": "2026-09-05",
     "activo": true
+  },
+  {
+    "asin": "B0GF8BZ1FW",
+    "nombre": "BIODANCE Caviar PDRN Jelly Serum Mist — Bruma Facial Hidratante",
+    "categoria": "cuidado-facial",
+    "precio": 14.82,
+    "moneda": "USD",
+    "imagen": "https://m.media-amazon.com/images/I/51BaFbNDArL._SY355_.jpg",
+    "rating": 4.6,
+    "numResenas": 4342,
+    "ranking": 13,
+    "notaTecnica": "Es una bruma en formato 'jelly' (gel líquido) de la misma marca coreana que la mascarilla hidrogel más viral del catálogo (BIODANCE Bio-Collagen), pensada para un boost rápido de hidratación en cualquier momento del día. Contiene caviar water, ADN de salmón y una combinación de 6 tipos de ácido hialurónico. Más de 5.000 compras el último mes, 4,342 reseñas con 4,6 estrellas. No reemplaza un hidratante — es un paso adicional, no el paso final de la rutina.",
+    "idealPara": "Quien quiere un boost de hidratación rápido durante el día (después del aire acondicionado, viajando, o antes del maquillaje) sin los pasos completos de una rutina.",
+    "guiaCompra": {
+      "queEsYParaQueSirve": "Es una bruma facial de textura gel (no agua) que se aplica en spray y se absorbe dejando la piel hidratada y con un efecto 'glow' inmediato — pensada para reforzar hidratación en cualquier momento, no solo en la rutina de mañana o noche.",
+      "ejemploHogar": "La tenés en el escritorio o la cartera para aplicar cuando la piel se siente reseca por el aire acondicionado o la calefacción, sin necesitar rehacer toda la rutina.",
+      "ejemploNegocio": "Una maquilladora la usa entre pasos del maquillaje para reactivar productos que empiezan a verse secos, sin tener que remover el maquillaje ya aplicado.",
+      "puntosClave": [
+        "Es formato jelly (más espeso que una bruma de agua común) — sale en spray fino pese a la textura de gel en el envase.",
+        "Existe también en versión 'Collagen' (rosa) de la misma línea — ambas son intercambiables según preferencia, no una mejora de la otra.",
+        "No sirve como preparación de maquillaje si se aplica justo antes de la base — puede hacer que pille (se formen bolitas); mejor dejar unos minutos de absorción."
+      ],
+      "consejoInversion": "A menos de $15 y con más de 4.300 reseñas sostenidas, es una forma económica de sumar un paso extra de hidratación sin comprometerse a una rutina completa nueva — buen complemento a la mascarilla hidrogel BIODANCE de este mismo ranking."
+    },
+    "tags": ["Bruma facial", "Hidratación rápida", "Coreano"],
+    "urlAfiliado": "https://www.amazon.com/dp/B0GF8BZ1FW?tag=beautylab02-20",
+    "actualizadoEn": "2026-09-05",
+    "activo": true
+  },
+  {
+    "asin": "B0GF86QJK7",
+    "nombre": "BIODANCE Collagen Peptides Jelly Serum Mist — Bruma Facial Anti-Edad",
+    "categoria": "cuidado-facial",
+    "precio": 14.82,
+    "moneda": "USD",
+    "imagen": "https://m.media-amazon.com/images/I/51CRssUhs5L._SY355_.jpg",
+    "rating": 4.6,
+    "numResenas": 4342,
+    "ranking": 14,
+    "notaTecnica": "Es la versión 'Collagen' de la misma línea de brumas jelly de BIODANCE, formulada con péptidos de colágeno en vez de caviar water — pensada para un efecto plumping (relleno) además de la hidratación. Con más de 20.000 compras el último mes (el doble que la versión Caviar), es la variante más popular de las dos. Mismas 4,342 reseñas y 4,6 estrellas que la versión Caviar, ya que Amazon las agrupa bajo la misma ficha de reseñas.",
+    "idealPara": "Quien busca el mismo boost de hidratación rápida que la versión Caviar, pero prioriza un efecto anti-edad/plumping por sobre el enfoque puramente hidratante.",
+    "guiaCompra": {
+      "queEsYParaQueSirve": "Misma bruma en formato jelly que la versión Caviar de este ranking, pero con péptidos de colágeno como ingrediente principal en vez de caviar water — el objetivo es sumar un efecto de firmeza/relleno visible además de la hidratación inmediata.",
+      "ejemploHogar": "La alternás con la versión Caviar según lo que buscás ese día: esta para un día donde priorizás verte más 'rellena' y firme, la Caviar para hidratación pura.",
+      "ejemploNegocio": "Un salón de belleza puede ofrecer ambas variantes como parte de un menú de 'mini-tratamientos' express antes de un evento, dejando que la clienta elija según el efecto que busca.",
+      "puntosClave": [
+        "Es la variante más vendida de las dos (20K+ compras/mes vs 5K+ de la Caviar) — buen punto de partida si es tu primera compra de esta línea.",
+        "El efecto plumping es temporal (horas), no un tratamiento de colágeno a largo plazo — no reemplaza tratamientos con retinol para arrugas profundas.",
+        "Combina bien con la mascarilla hidrogel BIODANCE Bio-Collagen de este mismo ranking, ya que comparten la misma familia de ingredientes."
+      ],
+      "consejoInversion": "Mismo precio que la versión Caviar (~$15) pero con mayor volumen de compra sostenido — si tenés que elegir solo una de las dos brumas para empezar, esta es la opción más probada por el volumen de recompra."
+    },
+    "tags": ["Bruma facial", "Colágeno", "Coreano"],
+    "urlAfiliado": "https://www.amazon.com/dp/B0GF86QJK7?tag=beautylab02-20",
+    "actualizadoEn": "2026-09-05",
+    "activo": true
   }
 ]
