@@ -4,7 +4,7 @@ import Header from "@/components/Header";
 import Footer from "@/components/Footer";
 import GoogleAnalytics from "@/components/GoogleAnalytics";
 import AmazonDisclosureToast from "@/components/AmazonDisclosureToast";
-import "./globals.css";
+import "../globals.css";
 
 const jakarta = Plus_Jakarta_Sans({
   variable: "--font-inter",
@@ -20,22 +20,18 @@ export const metadata: Metadata = {
     default: "BeautyLab — Rutinas de belleza probadas, sin relleno",
     template: "%s | BeautyLab",
   },
-  description:
-    "Recomendaciones honestas de skincare, protección solar, maquillaje, labios y cabello — productos reales probados, sin publicidad disfrazada de reseña.",
-  openGraph: {
-    type: "website",
-    locale: "es_ES",
-    siteName: "BeautyLab",
-    title: "BeautyLab — Rutinas de belleza probadas, sin relleno",
-    description:
-      "Recomendaciones honestas de skincare, protección solar, maquillaje, labios y cabello, evaluadas con criterio real de uso diario.",
-  },
-  verification: {
-    google: "cHAXwgMf7nei0wj-akoVC6iukswd9dwuqYZORPvSh0A",
-  },
+  robots: { index: false, follow: false },
 };
 
-export default function RootLayout({ children }: LayoutProps<"/">) {
+/**
+ * Layout propio para /admin: el layout raíz vive ahora en
+ * `src/app/[lang]/layout.tsx` (solo aplica a rutas localizadas), así que
+ * /admin —que no está bajo [lang] y debe permanecer en español, sin
+ * selector de idioma— necesita su propio <html>/<body>. Es una copia
+ * intencional del layout raíz original: misma fuente, mismos estilos
+ * globales, mismos componentes de shell. No usar `t()`/`withLocale` acá.
+ */
+export default function AdminLayout({ children }: LayoutProps<"/admin">) {
   return (
     <html lang="es" className={`${jakarta.variable} h-full antialiased`}>
       <body className="min-h-full bg-ink text-text-light">
@@ -46,9 +42,9 @@ export default function RootLayout({ children }: LayoutProps<"/">) {
         </div>
         <div className="relative z-10 flex min-h-full flex-col">
           <GoogleAnalytics />
-          <Header />
+          <Header locale="es" />
           <main className="flex-1">{children}</main>
-          <Footer />
+          <Footer locale="es" />
           <AmazonDisclosureToast />
         </div>
       </body>
