@@ -528,6 +528,62 @@
     "activo": true
   },
   {
+    "asin": "B0DV44KXW4",
+    "nombre": "CeraVe 2 en 1 Shampoo y Acondicionador Anticaspa Hidratante",
+    "categoria": "cuidado-capilar",
+    "precio": 9.97,
+    "moneda": "USD",
+    "imagen": "https://m.media-amazon.com/images/I/615sBTe290L._SY355_.jpg",
+    "rating": 4.5,
+    "numResenas": 3689,
+    "ranking": 4,
+    "notaTecnica": "A diferencia de los productos de peinado de este ranking (serum, aceite), este es un shampoo 2 en 1 (limpia y acondiciona en un solo paso) formulado específicamente para caspa, con 1% de piritionato de zinc — el mismo ingrediente activo que usan las marcas anticaspa reconocidas. Sin sulfatos, con las ceramidas típicas de CeraVe para no resecar el cuero cabelludo mientras trata la caspa. '9K+ compras el último mes'.",
+    "idealPara": "Cuero cabelludo con caspa o picazón que necesita tratamiento activo, sin resecar el pelo como suelen hacer los anticaspa tradicionales con sulfatos.",
+    "guiaCompra": {
+      "queEsYParaQueSirve": "Es un shampoo y acondicionador en un solo paso, con un ingrediente activo real contra la caspa (piritionato de zinc al 1%) — a diferencia de un shampoo 'para caspa' que solo lava fuerte sin tratar la causa, este ataca el exceso de descamación del cuero cabelludo mientras hidrata.",
+      "ejemploHogar": "Lo usás en cada lavado en reemplazo de tu shampoo normal si tenés caspa recurrente o picazón en el cuero cabelludo — no hace falta un producto aparte para acondicionar.",
+      "ejemploNegocio": "Una peluquería puede recomendarlo a clientes que llegan con quejas de caspa visible en la ropa, como primera línea de tratamiento antes de derivar a un dermatólogo.",
+      "puntosClave": [
+        "El ingrediente activo es piritionato de zinc al 1% — confirmá que no seas alérgico si nunca usaste productos con ese ingrediente.",
+        "Es 2 en 1 (shampoo + acondicionador) — no necesitás sumar otro acondicionador aparte para uso diario.",
+        "Es sin sulfatos, así que no vas a sentir la misma espuma abundante de un shampoo tradicional — es normal, no significa que no esté limpiando."
+      ],
+      "consejoInversion": "A menos de $10 con 9.000+ compras el último mes y el respaldo de ceramidas de CeraVe, es una alternativa más suave a los anticaspa tradicionales que resecan el pelo — vale la pena probarlo antes de saltar a un tratamiento dermatológico más caro."
+    },
+    "tags": ["Piritionato de zinc 1%", "2 en 1", "Anticaspa"],
+    "urlAfiliado": "https://www.amazon.com/dp/B0DV44KXW4?tag=beautylab02-20",
+    "actualizadoEn": "2026-09-04",
+    "activo": true
+  },
+  {
+    "asin": "B0FWVVDNML",
+    "nombre": "CeraVe Gentle Hydrating Conditioner",
+    "categoria": "cuidado-capilar",
+    "precio": 12.97,
+    "moneda": "USD",
+    "imagen": "https://m.media-amazon.com/images/I/61WpuCc85cL._SX355_.jpg",
+    "rating": 4.6,
+    "numResenas": 4102,
+    "ranking": 5,
+    "notaTecnica": "A diferencia del shampoo anticaspa de este ranking (pensado para un problema puntual), este es un acondicionador de hidratación general para cualquier tipo de cabello y cuero cabelludo, con ácido hialurónico, niacinamida y ceramidas — la misma filosofía de ingredientes que hizo conocida a CeraVe en skincare, aplicada al cabello. Amazon's Choice, 4.100+ reseñas, '7K+ compras el último mes'.",
+    "idealPara": "Uso diario de hidratación general, para cualquier tipo de cabello — no es un tratamiento para un problema específico como caspa o daño por calor.",
+    "guiaCompra": {
+      "queEsYParaQueSirve": "Es un acondicionador de uso diario que hidrata el cabello y el cuero cabelludo con los mismos ingredientes que CeraVe usa en su skincare (ácido hialurónico, ceramidas, niacinamida) — pensado para complementar cualquier shampoo, no solo los de la misma marca.",
+      "ejemploHogar": "Lo usás después de cualquier shampoo, incluido el anticaspa de este ranking, en cada lavado — es el paso de hidratación de rutina, no un tratamiento puntual.",
+      "ejemploNegocio": "Un salón puede recomendarlo como acondicionador base para clientes con cuero cabelludo sensible, ya que la fórmula está pensada para no irritar.",
+      "puntosClave": [
+        "Sirve para todo tipo de cabello y cuero cabelludo — no es específico para un problema como caspa o cabello dañado.",
+        "Es sin sulfatos y color-safe — no vas a perder color de tinte por usarlo.",
+        "Se puede combinar con el shampoo anticaspa de este ranking sin problema — es un buen complemento si ese shampoo te resulta demasiado básico como acondicionador."
+      ],
+      "consejoInversion": "Con Amazon's Choice, 4.100+ reseñas y 7.000+ compras el último mes, es una opción confiable y barata para sumar hidratación diaria sin gastar en marcas de salón — la misma filosofía de ingredientes que ya conocés de CeraVe en skincare, aplicada al pelo."
+    },
+    "tags": ["Ácido hialurónico", "Ceramidas", "Sin sulfatos"],
+    "urlAfiliado": "https://www.amazon.com/dp/B0FWVVDNML?tag=beautylab02-20",
+    "actualizadoEn": "2026-09-04",
+    "activo": true
+  },
+  {
     "asin": "B0FH7P1T2P",
     "nombre": "Aztec Secret Indian Healing Clay 10oz — Mascarilla Facial de Arcilla",
     "categoria": "cuidado-facial",
