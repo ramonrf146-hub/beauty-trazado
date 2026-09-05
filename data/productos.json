@@ -722,5 +722,61 @@
     "urlAfiliado": "https://www.amazon.com/dp/B0D1G8MZMF?tag=beautylab02-20",
     "actualizadoEn": "2026-09-05",
     "activo": true
+  },
+  {
+    "asin": "B0GVRKF3KN",
+    "nombre": "BIODANCE Caviar PDRN Capsule Cream — Hidratante Facial",
+    "categoria": "cuidado-facial",
+    "precio": 18.85,
+    "moneda": "USD",
+    "imagen": "https://m.media-amazon.com/images/I/51IdT47v+GL._SY355_.jpg",
+    "rating": 4.6,
+    "numResenas": 258,
+    "ranking": 11,
+    "notaTecnica": "Es un hidratante (crema), no un tratamiento puntual como los serums o mascarillas de este ranking — de la misma marca que la mascarilla hidrogel viral (BIODANCE) ya en el catálogo. Contiene PDRN (ADN de salmón, un ingrediente coreano en tendencia por su función regeneradora) encapsulado en 'cápsulas de caviar' que se rompen al aplicar. '2K+ compras el último mes', 258 reseñas — bastante menos que la mascarilla de la misma marca (46.800+), es un lanzamiento más reciente dentro de la línea.",
+    "idealPara": "Quien ya usa o le gustó la mascarilla BIODANCE de este ranking y busca un hidratante diario de la misma línea de ingredientes (PDRN/caviar).",
+    "guiaCompra": {
+      "queEsYParaQueSirve": "Es una crema hidratante con microcápsulas que contienen PDRN (un derivado de ADN de salmón usado en skincare coreano por su función regeneradora) — al aplicar, las cápsulas se rompen liberando el activo directo sobre la piel, a diferencia de una crema donde todo el ingrediente ya está mezclado desde la fábrica.",
+      "ejemploHogar": "Lo usás como último paso de la rutina, de día o de noche, en vez de tu hidratante habitual — las cápsulas se sienten al tacto y se rompen al masajear.",
+      "ejemploNegocio": "Una esteticista lo recomienda como hidratante de mantenimiento entre sesiones de tratamientos de colágeno/PDRN más intensivos, como la mascarilla de la misma marca.",
+      "puntosClave": [
+        "Es un hidratante de uso diario, no un tratamiento puntual como la mascarilla de la misma marca en este ranking — cumplen roles distintos en la rutina.",
+        "Tiene bastantes menos reseñas (258) que la mascarilla BIODANCE de este ranking (46.800+) — es un producto más nuevo dentro de la línea, con menos historial todavía.",
+        "Las microcápsulas son parte del diseño del producto, no un defecto — se sienten al tacto y se rompen al aplicar, liberando el PDRN."
+      ],
+      "consejoInversion": "Con 2.000+ compras el último mes y buen rating (4.6), está siguiendo la estela de éxito de la mascarilla de la misma marca — todavía es pronto para saber si sostiene el volumen a largo plazo, pero el respaldo de la marca ya validada en este catálogo reduce el riesgo de probarlo."
+    },
+    "tags": ["PDRN", "Microcápsulas", "Hidratante diario"],
+    "urlAfiliado": "https://www.amazon.com/dp/B0GVRKF3KN?tag=beautylab02-20",
+    "actualizadoEn": "2026-09-05",
+    "activo": true
+  },
+  {
+    "asin": "B00PKO2FD6",
+    "nombre": "RoC Retinol Correxion Value Set — Crema Facial + Contorno de Ojos",
+    "categoria": "cuidado-facial",
+    "precio": 35.99,
+    "moneda": "USD",
+    "imagen": "https://m.media-amazon.com/images/I/6128k0gFpwL._SY450_.jpg",
+    "rating": 4.5,
+    "numResenas": 9384,
+    "ranking": 12,
+    "notaTecnica": "Es un dúo de rostro + contorno de ojos con una marca de décadas de trayectoria en anti-edad con retinol — RoC es una de las marcas farmacéuticas más establecidas en esta categoría. Amazon's Choice, casi 9.400 reseñas, '3K+ compras el último mes'. Contiene retinol (un derivado de vitamina A con evidencia clínica real para arrugas), a diferencia de sets de marca desconocida que listan ingredientes de moda sin respaldo comprobado.",
+    "idealPara": "Quien busca un tratamiento anti-edad de cara y contorno de ojos con ingrediente activo real (retinol) y trayectoria de marca comprobada.",
+    "guiaCompra": {
+      "queEsYParaQueSirve": "Es un dúo de dos cremas con retinol: una para toda la cara de noche (arrugas profundas) y otra específica para el contorno de ojos (más sensible, formulada distinto) — el retinol es de los pocos ingredientes anti-edad con evidencia clínica real, no solo marketing.",
+      "ejemploHogar": "Usás la crema de ojos en el contorno (mañana y/o noche) y la crema facial de noche en el resto de la cara, como rutina anti-edad de dos pasos simple.",
+      "ejemploNegocio": "Un spa o dermatólogo puede recomendarlo como punto de entrada accesible al retinol para pacientes que nunca usaron un activo anti-edad, antes de pasar a concentraciones recetadas más fuertes.",
+      "puntosClave": [
+        "El retinol puede generar irritación o sequedad las primeras semanas — empezá con 2-3 veces por semana antes de pasar a uso diario.",
+        "Usá protector solar durante el día — el retinol aumenta la sensibilidad al sol, igual que los ácidos exfoliantes de este catálogo.",
+        "No incluye crema de cuello — si buscás tratar esa zona específicamente, es un producto aparte que no viene en este dúo."
+      ],
+      "consejoInversion": "Con casi 9.400 reseñas, Amazon's Choice y décadas de trayectoria de la marca RoC en retinol, es una alternativa mucho más confiable que un set de marca desconocida con apenas un puñado de reseñas — el ingrediente activo también tiene respaldo clínico real, no solo la palabra 'anti-aging' en el empaque."
+    },
+    "tags": ["Retinol", "Rostro + ojos", "Marca establecida"],
+    "urlAfiliado": "https://www.amazon.com/dp/B00PKO2FD6?tag=beautylab02-20",
+    "actualizadoEn": "2026-09-05",
+    "activo": true
   }
 ]
