@@ -526,5 +526,33 @@
     "urlAfiliado": "https://www.amazon.com/dp/B07MGZ6X2Q?tag=beautylab02-20",
     "actualizadoEn": "2026-09-04",
     "activo": true
+  },
+  {
+    "asin": "B0FH7P1T2P",
+    "nombre": "Aztec Secret Indian Healing Clay 10oz — Mascarilla Facial de Arcilla",
+    "categoria": "cuidado-facial",
+    "precio": 13.95,
+    "moneda": "USD",
+    "imagen": "https://m.media-amazon.com/images/I/61bjVUf7GwL._SX355_.jpg",
+    "rating": 4.6,
+    "numResenas": 99686,
+    "ranking": 7,
+    "notaTecnica": "Es una arcilla bentonita 100% natural, no una mascarilla con textura de crema — se mezcla con vinagre de manzana o agua hasta formar una pasta antes de aplicar. Limpieza profunda real (se seca y 'tira' de las impurezas al secarse), no un tratamiento hidratante. Con casi 100.000 reseñas y Amazon's Choice, es de las mascarillas más vendidas de Amazon desde hace más de una década — no es una moda pasajera, aunque también se hizo viral en TikTok.",
+    "idealPara": "Piel grasa o con puntos negros que necesita una limpieza profunda semanal — no es para piel seca o sensible sin diluir bien o sin probar antes.",
+    "guiaCompra": {
+      "queEsYParaQueSirve": "Es una arcilla en polvo que se activa mezclándola con líquido (vinagre de manzana o agua) hasta formar una pasta — al secarse sobre la piel, la arcilla se contrae y 'tira' hacia afuera el exceso de grasa e impurezas de los poros, algo que ningún limpiador líquido logra igual.",
+      "ejemploHogar": "Una vez por semana, mezclás una cucharada con vinagre de manzana en un bowl no metálico, aplicás una capa fina, dejás secar 10-15 minutos y enjuagás — sentís la piel visiblemente más limpia.",
+      "ejemploNegocio": "Una esteticista la usa como paso de limpieza profunda en un facial mensual para pieles grasas o con congestión, antes de cualquier extracción.",
+      "puntosClave": [
+        "Se mezcla con líquido antes de usar — no viene lista para aplicar, es polvo puro que hay que activar vos mismo.",
+        "Usá un bowl y cuchara NO metálicos — la arcilla reacciona con el metal y pierde parte de su efecto.",
+        "Es intensa: para piel seca o sensible, diluila más (menos arcilla, más líquido) o probá primero en una zona chica antes de aplicar en toda la cara."
+      ],
+      "consejoInversion": "Con casi 100.000 reseñas y Amazon's Choice, a $1.40 por onza es una de las mascarillas de limpieza profunda más económicas y con más historial real del mercado — un jarro de 10oz rinde meses de uso semanal."
+    },
+    "tags": ["Arcilla bentonita", "Limpieza profunda", "Piel grasa"],
+    "urlAfiliado": "https://www.amazon.com/dp/B0FH7P1T2P?tag=beautylab02-20",
+    "actualizadoEn": "2026-09-04",
+    "activo": true
   }
 ]
