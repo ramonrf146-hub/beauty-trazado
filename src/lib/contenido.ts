@@ -3,6 +3,7 @@ import fs from "node:fs";
 import path from "node:path";
 import matter from "gray-matter";
 import { remark } from "remark";
+import remarkGfm from "remark-gfm";
 import remarkHtml from "remark-html";
 import type {
   Articulo,
@@ -18,7 +19,10 @@ async function markdownAHtml(markdown: string): Promise<string> {
   // sanitize:false permite HTML crudo (embeds de YouTube) en los .md —
   // seguro acá porque el contenido lo escribimos nosotros, no es
   // input de usuarios.
-  const resultado = await remark().use(remarkHtml, { sanitize: false }).process(markdown);
+  const resultado = await remark()
+    .use(remarkGfm)
+    .use(remarkHtml, { sanitize: false })
+    .process(markdown);
   return resultado.toString();
 }
 
