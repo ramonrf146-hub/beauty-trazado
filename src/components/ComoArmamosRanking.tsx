@@ -1,39 +1,26 @@
-const PASOS = [
-  {
-    numero: "01",
-    titulo: "Consultamos datos de venta reales",
-    texto:
-      "Cada mes consultamos la Amazon Product Advertising API para las categorías del sitio: precio, rating y volumen de reseñas actualizados.",
-  },
-  {
-    numero: "02",
-    titulo: "Filtramos por criterio real",
-    texto:
-      "Descartamos productos con reseñas insuficientes o con problemas repetidos reportados por compradores (fragancia no declarada, cambios de fórmula, tono que no coincide).",
-  },
-  {
-    numero: "03",
-    titulo: "Sumamos nota editorial",
-    texto:
-      "Escribimos a mano una nota técnica por producto — este texto no viene de ninguna API, es criterio propio revisado manualmente.",
-  },
-  {
-    numero: "04",
-    titulo: "Publicamos el ranking del mes",
-    texto:
-      "El resultado se regenera y publica el día 1 de cada mes, preservando las notas técnicas ya escritas para cada ASIN.",
-  },
-];
+import { getDictionary, type Locale } from "@/lib/i18n";
 
-export default function ComoArmamosRanking() {
+function pasos(dict: ReturnType<typeof getDictionary>) {
+  return [
+    { numero: "01", titulo: dict["metodologia.paso1Titulo"], texto: dict["metodologia.paso1Texto"] },
+    { numero: "02", titulo: dict["metodologia.paso2Titulo"], texto: dict["metodologia.paso2Texto"] },
+    { numero: "03", titulo: dict["metodologia.paso3Titulo"], texto: dict["metodologia.paso3Texto"] },
+    { numero: "04", titulo: dict["metodologia.paso4Titulo"], texto: dict["metodologia.paso4Texto"] },
+  ];
+}
+
+export default function ComoArmamosRanking({ locale }: { locale: Locale }) {
+  const dict = getDictionary(locale);
+  const PASOS = pasos(dict);
+
   return (
     <section className="border-y border-line-dim/40 bg-ink-2">
       <div className="mx-auto max-w-6xl px-4 py-16 sm:px-6">
         <p className="font-mono text-xs uppercase tracking-wide text-accent">
-          Metodología
+          {dict["metodologia.eyebrow"]}
         </p>
         <h2 className="mt-2 text-2xl font-semibold text-text-light sm:text-3xl">
-          Cómo armamos el ranking
+          {dict["metodologia.titulo"]}
         </h2>
 
         <div className="mt-10 grid grid-cols-1 gap-px overflow-hidden border border-line-dim/40 bg-line-dim/40 sm:grid-cols-2 lg:grid-cols-4">

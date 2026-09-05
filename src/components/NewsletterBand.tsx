@@ -1,14 +1,16 @@
 "use client";
 
 import { useState } from "react";
+import { getDictionary, type Locale } from "@/lib/i18n";
 
 /**
  * El "regalo" se entrega como descarga directa apenas se completa el
  * form — el alta en Buttondown (vía /api/suscribirse) es best-effort y
  * nunca bloquea la descarga si falla o tarda.
  */
-export default function NewsletterBand() {
+export default function NewsletterBand({ locale }: { locale: Locale }) {
   const [estado, setEstado] = useState<"idle" | "enviado">("idle");
+  const dict = getDictionary(locale);
 
   function manejarEnvio(evento: React.FormEvent<HTMLFormElement>) {
     evento.preventDefault();
@@ -26,28 +28,24 @@ export default function NewsletterBand() {
       <div className="mx-auto flex max-w-6xl flex-col items-start gap-6 px-4 py-14 sm:flex-row sm:items-center sm:justify-between sm:px-6">
         <div>
           <p className="text-xs font-semibold uppercase tracking-wide text-[#0369A1]">
-            Para pegar al lado del espejo
+            {dict["newsletter.eyebrow"]}
           </p>
           <h2 className="mt-2 max-w-md text-xl font-bold sm:text-2xl">
-            Llevate la rutina de 5 minutos en una sola hoja
+            {dict["newsletter.titulo"]}
           </h2>
-          <p className="mt-2 max-w-md text-sm text-text-dim">
-            Los 4 pasos de la rutina rápida, con el producto exacto de cada
-            paso — lista para imprimir, sin tener que volver a buscarla en
-            el sitio cada mañana.
-          </p>
+          <p className="mt-2 max-w-md text-sm text-text-dim">{dict["newsletter.descripcion"]}</p>
         </div>
 
         {estado === "enviado" ? (
           <div className="flex flex-col items-start gap-2">
-            <p className="text-sm font-semibold text-accent">Listo, ya es tuya.</p>
+            <p className="text-sm font-semibold text-accent">{dict["newsletter.enviadoMensaje"]}</p>
             <a
               href="/plantillas/rutina-5-minutos.html"
               target="_blank"
               rel="noopener noreferrer"
               className="whitespace-nowrap rounded-full bg-accent px-4 py-2.5 text-xs font-bold uppercase tracking-wide text-white transition-colors hover:bg-[#1D4ED8]"
             >
-              Abrir la rutina
+              {dict["newsletter.abrirRutina"]}
             </a>
           </div>
         ) : (
@@ -56,21 +54,21 @@ export default function NewsletterBand() {
             className="flex w-full max-w-sm flex-col gap-2 sm:flex-row"
           >
             <label htmlFor="newsletter-email" className="sr-only">
-              Correo electrónico
+              {dict["newsletter.emailLabel"]}
             </label>
             <input
               id="newsletter-email"
               name="email"
               type="email"
               required
-              placeholder="tu@correo.com"
+              placeholder={dict["newsletter.emailPlaceholder"]}
               className="w-full rounded-full border border-line-dim bg-white px-4 py-2.5 text-sm text-text-light placeholder:text-text-dim/60 focus:border-line focus:outline-none"
             />
             <button
               type="submit"
               className="whitespace-nowrap rounded-full bg-accent px-4 py-2.5 text-xs font-bold uppercase tracking-wide text-white transition-colors hover:bg-[#1D4ED8]"
             >
-              Quiero la rutina gratis
+              {dict["newsletter.boton"]}
             </button>
           </form>
         )}

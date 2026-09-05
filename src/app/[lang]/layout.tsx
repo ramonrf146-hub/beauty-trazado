@@ -4,7 +4,7 @@ import Header from "@/components/Header";
 import Footer from "@/components/Footer";
 import GoogleAnalytics from "@/components/GoogleAnalytics";
 import AmazonDisclosureToast from "@/components/AmazonDisclosureToast";
-import type { Locale } from "@/lib/i18n";
+import { normalizarLocale } from "@/lib/i18n";
 import "../globals.css";
 
 const jakarta = Plus_Jakarta_Sans({
@@ -38,10 +38,6 @@ export const metadata: Metadata = {
 
 export async function generateStaticParams() {
   return [{ lang: "es" }, { lang: "en" }];
-}
-
-function normalizarLocale(lang: string): Locale {
-  return lang === "en" ? "en" : "es";
 }
 
 export default async function RootLayout({

@@ -2,27 +2,50 @@ import type { Metadata } from "next";
 import Link from "next/link";
 import { getArticulos } from "@/lib/contenido";
 import { getCategoriaPorSlug } from "@/lib/categorias";
+import { getDictionary, t, withLocale, normalizarLocale } from "@/lib/i18n";
 
-export const metadata: Metadata = {
-  title: "Guías y artículos",
-  description:
-    "Guías prácticas de belleza y cuidado personal: cómo elegir protector solar, rutinas rápidas y qué significan los términos de la etiqueta.",
-  alternates: { canonical: "/articulos" },
-};
+const SITE_URL = process.env.NEXT_PUBLIC_SITE_URL || "https://beautylab.com";
 
-export default async function ArticulosPage() {
-  const articulos = await getArticulos();
+interface Props {
+  params: Promise<{ lang: string }>;
+}
+
+export async function generateMetadata({ params }: Props): Promise<Metadata> {
+  const { lang } = await params;
+  const locale = normalizarLocale(lang);
+
+  return {
+    title: locale === "en" ? "Guides and articles" : "Guías y artículos",
+    description:
+      locale === "en"
+        ? "Practical beauty and personal-care guides: how to choose a daily sunscreen, quick routines, and what the label terms actually mean."
+        : "Guías prácticas de belleza y cuidado personal: cómo elegir protector solar, rutinas rápidas y qué significan los términos de la etiqueta.",
+    alternates: {
+      canonical: "/articulos",
+      languages: {
+        es: `${SITE_URL}/articulos`,
+        en: `${SITE_URL}/en/articulos`,
+        "x-default": `${SITE_URL}/articulos`,
+      },
+    },
+  };
+}
+
+export default async function ArticulosPage({ params }: Props) {
+  const { lang } = await params;
+  const locale = normalizarLocale(lang);
+  const dict = getDictionary(locale);
+  const articulos = await getArticulos(locale);
 
   return (
     <div className="mx-auto max-w-3xl px-4 py-12 sm:px-6">
-      <p className="font-mono text-xs uppercase tracking-wide text-accent">Guías</p>
-      <h1 className="mt-2 text-3xl font-semibold text-text-light">
-        Artículos y guías técnicas
-      </h1>
-      <p className="mt-3 text-sm leading-relaxed text-text-dim">
-        Explicaciones honestas para armar tu rutina y elegir bien cada
-        producto, sin promesas de marketing de por medio.
+      <p className="font-mono text-xs uppercase tracking-wide text-accent">
+        {dict["articulos.eyebrow"]}
       </p>
+      <h1 className="mt-2 text-3xl font-semibold text-text-light">
+        {dict["articulos.titulo"]}
+      </h1>
+      <p className="mt-3 text-sm leading-relaxed text-text-dim">{dict["articulos.descripcion"]}</p>
 
       <ul className="mt-10 divide-y divide-line-dim/30 border-y border-line-dim/40">
         {articulos.map((articulo) => {
@@ -32,10 +55,10 @@ export default async function ArticulosPage() {
 
           return (
             <li key={articulo.slug} className="py-6">
-              <Link href={`/articulos/${articulo.slug}`} className="group block">
+              <Link href={withLocale(`/articulos/${articulo.slug}`, locale)} className="group block">
                 {categoria && (
                   <span className="font-mono text-[11px] uppercase tracking-wide text-line">
-                    {categoria.nombre}
+                    {t(categoria.nombre, categoria.nombreEn, locale)}
                   </span>
                 )}
                 <h2 className="mt-1 text-lg font-semibold text-text-light group-hover:text-line">

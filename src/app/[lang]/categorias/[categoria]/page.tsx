@@ -3,10 +3,13 @@ import { notFound } from "next/navigation";
 import Link from "next/link";
 import { CATEGORIAS, getCategoriaPorSlug } from "@/lib/categorias";
 import { getProductosPorCategoria } from "@/lib/productos";
+import { getDictionary, t, withLocale, normalizarLocale } from "@/lib/i18n";
 import GridDeProductos from "@/components/GridDeProductos";
 
+const SITE_URL = process.env.NEXT_PUBLIC_SITE_URL || "https://beautylab.com";
+
 interface Props {
-  params: Promise<{ categoria: string }>;
+  params: Promise<{ lang: string; categoria: string }>;
 }
 
 export function generateStaticParams() {
@@ -14,34 +17,52 @@ export function generateStaticParams() {
 }
 
 export async function generateMetadata({ params }: Props): Promise<Metadata> {
-  const { categoria: slug } = await params;
+  const { lang, categoria: slug } = await params;
+  const locale = normalizarLocale(lang);
   const categoria = getCategoriaPorSlug(slug);
   if (!categoria) return {};
 
+  const nombre = t(categoria.nombre, categoria.nombreEn, locale);
+  const descripcion = t(categoria.descripcion, categoria.descripcionEn, locale);
+
   return {
-    title: `Ranking de ${categoria.nombre}`,
-    description: `Ranking mensual de ${categoria.nombre.toLowerCase()}: ${categoria.descripcion}`,
-    alternates: { canonical: `/categorias/${categoria.slug}` },
+    title: locale === "en" ? `${nombre} Ranking` : `Ranking de ${nombre}`,
+    description:
+      locale === "en"
+        ? `Monthly ranking of ${nombre.toLowerCase()}: ${descripcion}`
+        : `Ranking mensual de ${nombre.toLowerCase()}: ${descripcion}`,
+    alternates: {
+      canonical: `/categorias/${categoria.slug}`,
+      languages: {
+        es: `${SITE_URL}/categorias/${categoria.slug}`,
+        en: `${SITE_URL}/en/categorias/${categoria.slug}`,
+        "x-default": `${SITE_URL}/categorias/${categoria.slug}`,
+      },
+    },
   };
 }
 
 export default async function CategoriaPage({ params }: Props) {
-  const { categoria: slug } = await params;
+  const { lang, categoria: slug } = await params;
+  const locale = normalizarLocale(lang);
+  const dict = getDictionary(locale);
   const categoria = getCategoriaPorSlug(slug);
   if (!categoria) notFound();
 
   const productos = await getProductosPorCategoria(categoria.slug);
+  const nombre = t(categoria.nombre, categoria.nombreEn, locale);
+  const descripcion = t(categoria.descripcion, categoria.descripcionEn, locale);
 
   const itemListJsonLd = {
     "@context": "https://schema.org",
     "@type": "ItemList",
-    name: `Ranking de ${categoria.nombre} — BeautyLab`,
+    name: `${nombre} Ranking — BeautyLab`,
     itemListElement: productos.map((p, i) => ({
       "@type": "ListItem",
       position: i + 1,
       item: {
         "@type": "Product",
-        name: p.nombre,
+        name: t(p.nombre, p.nombreEn, locale),
         sku: p.asin,
         aggregateRating: {
           "@type": "AggregateRating",
@@ -75,28 +96,22 @@ export default async function CategoriaPage({ params }: Props) {
       />
 
       <nav className="font-mono text-xs uppercase tracking-wide text-text-dim">
-        <Link href="/" className="hover:text-line">
-          Inicio
+        <Link href={withLocale("/", locale)} className="hover:text-line">
+          {dict["nav.inicio"]}
         </Link>{" "}
-        / {categoria.nombre}
+        / {nombre}
       </nav>
 
       <p className="mt-4 font-mono text-xs uppercase tracking-wide text-accent">
-        Ranking del mes
+        {dict["categoria.rankingDelMes"]}
       </p>
-      <h1 className="mt-2 text-3xl font-semibold text-text-light">
-        {categoria.nombre}
-      </h1>
-      <p className="mt-3 max-w-2xl text-sm leading-relaxed text-text-dim">
-        {categoria.descripcion}
-      </p>
+      <h1 className="mt-2 text-3xl font-semibold text-text-light">{nombre}</h1>
+      <p className="mt-3 max-w-2xl text-sm leading-relaxed text-text-dim">{descripcion}</p>
 
       {productos.length === 0 ? (
-        <p className="mt-10 text-sm text-text-dim">
-          Aún no hay productos rankeados en esta categoría.
-        </p>
+        <p className="mt-10 text-sm text-text-dim">{dict["categoria.sinProductos"]}</p>
       ) : (
-        <GridDeProductos productos={productos} />
+        <GridDeProductos productos={productos} locale={locale} />
       )}
     </div>
   );

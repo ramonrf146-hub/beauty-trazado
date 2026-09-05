@@ -1,20 +1,38 @@
 import type { Metadata } from "next";
 import { notFound } from "next/navigation";
 import { getPagina } from "@/lib/contenido";
+import { normalizarLocale } from "@/lib/i18n";
 
-export async function generateMetadata(): Promise<Metadata> {
-  const pagina = await getPagina("acerca-de");
+const SITE_URL = process.env.NEXT_PUBLIC_SITE_URL || "https://beautylab.com";
+
+interface Props {
+  params: Promise<{ lang: string }>;
+}
+
+export async function generateMetadata({ params }: Props): Promise<Metadata> {
+  const { lang } = await params;
+  const locale = normalizarLocale(lang);
+  const pagina = await getPagina("acerca-de", locale);
   if (!pagina) return {};
 
   return {
     title: pagina.titulo,
     description: pagina.descripcion,
-    alternates: { canonical: "/acerca-de" },
+    alternates: {
+      canonical: "/acerca-de",
+      languages: {
+        es: `${SITE_URL}/acerca-de`,
+        en: `${SITE_URL}/en/acerca-de`,
+        "x-default": `${SITE_URL}/acerca-de`,
+      },
+    },
   };
 }
 
-export default async function AcercaDePage() {
-  const pagina = await getPagina("acerca-de");
+export default async function AcercaDePage({ params }: Props) {
+  const { lang } = await params;
+  const locale = normalizarLocale(lang);
+  const pagina = await getPagina("acerca-de", locale);
   if (!pagina) notFound();
 
   return (

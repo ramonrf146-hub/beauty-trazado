@@ -1,20 +1,38 @@
 import type { Metadata } from "next";
 import { notFound } from "next/navigation";
 import { getPagina } from "@/lib/contenido";
+import { normalizarLocale } from "@/lib/i18n";
 
-export async function generateMetadata(): Promise<Metadata> {
-  const pagina = await getPagina("privacidad");
+const SITE_URL = process.env.NEXT_PUBLIC_SITE_URL || "https://beautylab.com";
+
+interface Props {
+  params: Promise<{ lang: string }>;
+}
+
+export async function generateMetadata({ params }: Props): Promise<Metadata> {
+  const { lang } = await params;
+  const locale = normalizarLocale(lang);
+  const pagina = await getPagina("privacidad", locale);
   if (!pagina) return {};
 
   return {
     title: pagina.titulo,
     description: pagina.descripcion,
-    alternates: { canonical: "/privacidad" },
+    alternates: {
+      canonical: "/privacidad",
+      languages: {
+        es: `${SITE_URL}/privacidad`,
+        en: `${SITE_URL}/en/privacidad`,
+        "x-default": `${SITE_URL}/privacidad`,
+      },
+    },
   };
 }
 
-export default async function PrivacidadPage() {
-  const pagina = await getPagina("privacidad");
+export default async function PrivacidadPage({ params }: Props) {
+  const { lang } = await params;
+  const locale = normalizarLocale(lang);
+  const pagina = await getPagina("privacidad", locale);
   if (!pagina) notFound();
 
   return (

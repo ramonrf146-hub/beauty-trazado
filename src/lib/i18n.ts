@@ -2,6 +2,11 @@ export type Locale = "es" | "en";
 
 export const LOCALES: Locale[] = ["es", "en"];
 
+/** Normaliza el `lang` crudo de params a un Locale válido, con "es" como fallback. */
+export function normalizarLocale(lang: string): Locale {
+  return lang === "en" ? "en" : "es";
+}
+
 /** Español es siempre el fallback: nunca renderizamos un campo vacío por
  * falta de traducción, aunque el objetivo es traducir todo el contenido. */
 export function t(es: string, en: string | undefined, locale: Locale): string {
@@ -37,6 +42,7 @@ const es = {
   "nav.guias": "Guías",
   "nav.guiasYArticulos": "Guías y artículos",
   "nav.verRanking": "Ver ranking",
+  "nav.verProductos": "Ver productos",
   "nav.abrirMenu": "Abrir menú",
   "nav.cerrarMenu": "Cerrar menú",
   "nav.inicio": "Inicio",
@@ -183,6 +189,7 @@ const en: Dictionary = {
   "nav.guias": "Guides",
   "nav.guiasYArticulos": "Guides & articles",
   "nav.verRanking": "See ranking",
+  "nav.verProductos": "See products",
   "nav.abrirMenu": "Open menu",
   "nav.cerrarMenu": "Close menu",
   "nav.inicio": "Home",

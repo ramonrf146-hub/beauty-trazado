@@ -6,26 +6,29 @@ import type { Producto } from "@/lib/tipos";
 import { CATEGORIAS } from "@/lib/categorias";
 import { useComparador } from "@/lib/useComparador";
 import { calcularInsigniasCatalogo } from "@/lib/insignias";
+import { getDictionary, t, withLocale, type Locale } from "@/lib/i18n";
 import ProductCard from "./ProductCard";
 import ComparadorModal from "./ComparadorModal";
 
 const PASO_SCROLL = 400; // ancho de tarjeta (380px) + gap (20px) en desktop
 
 /** Guía de caso de uso relacionada, mostrada debajo del slider (nunca adentro) para no interferir con el swipe. */
-const GUIA_POR_CATEGORIA: Record<string, { href: string; texto: string }> = {
-  "cuidado-facial": {
-    href: "/articulos/la-rutina-rapida-de-5-minutos",
-    texto: "📖 Guía: la rutina rápida de 5 minutos para el día a día",
-  },
-  "proteccion-solar": {
-    href: "/articulos/como-elegir-protector-solar-diario",
-    texto: "📖 Guía: cómo elegir protector solar de uso diario",
-  },
-  "cuidado-capilar": {
-    href: "/articulos/rutina-capilar-basica",
-    texto: "📖 Guía: rutina capilar básica, el orden correcto de cada paso",
-  },
-};
+function guiaPorCategoria(dict: ReturnType<typeof getDictionary>): Record<string, { href: string; texto: string }> {
+  return {
+    "cuidado-facial": {
+      href: "/articulos/la-rutina-rapida-de-5-minutos",
+      texto: dict["ranking.guiaCuidadoFacial"],
+    },
+    "proteccion-solar": {
+      href: "/articulos/como-elegir-protector-solar-diario",
+      texto: dict["ranking.guiaProteccionSolar"],
+    },
+    "cuidado-capilar": {
+      href: "/articulos/rutina-capilar-basica",
+      texto: dict["ranking.guiaCuidadoCapilar"],
+    },
+  };
+}
 
 function IconoChevron({ direccion }: { direccion: "izquierda" | "derecha" }) {
   return (
@@ -35,12 +38,20 @@ function IconoChevron({ direccion }: { direccion: "izquierda" | "derecha" }) {
   );
 }
 
-export default function RankingConFiltros({ productos }: { productos: Producto[] }) {
+export default function RankingConFiltros({
+  productos,
+  locale,
+}: {
+  productos: Producto[];
+  locale: Locale;
+}) {
   const [categoriaActiva, setCategoriaActiva] = useState<string>("todas");
   const sliderRef = useRef<HTMLDivElement>(null);
   const comparador = useComparador();
   const [puedeIzquierda, setPuedeIzquierda] = useState(false);
   const [puedeDerecha, setPuedeDerecha] = useState(false);
+  const dict = getDictionary(locale);
+  const GUIA_POR_CATEGORIA = useMemo(() => guiaPorCategoria(dict), [dict]);
 
   const productosFiltrados = useMemo(() => {
     if (categoriaActiva === "todas") return productos;
@@ -89,7 +100,7 @@ export default function RankingConFiltros({ productos }: { productos: Producto[]
     <div>
       <div
         role="tablist"
-        aria-label="Filtrar por categoría"
+        aria-label={dict["nav.categoriasAria"]}
         className="flex flex-wrap gap-2"
       >
         <button
@@ -102,7 +113,7 @@ export default function RankingConFiltros({ productos }: { productos: Producto[]
               : "bg-line-dim/60 text-text-dim hover:-translate-y-0.5 hover:bg-line-dim hover:text-text-light hover:shadow-sm"
           }`}
         >
-          Todas
+          {dict["ranking.todas"]}
         </button>
         {CATEGORIAS.map((categoria) => (
           <button
@@ -116,15 +127,13 @@ export default function RankingConFiltros({ productos }: { productos: Producto[]
                 : "bg-line-dim/60 text-text-dim hover:-translate-y-0.5 hover:bg-line-dim hover:text-text-light hover:shadow-sm"
             }`}
           >
-            {categoria.nombre}
+            {t(categoria.nombre, categoria.nombreEn, locale)}
           </button>
         ))}
       </div>
 
       {productosFiltrados.length === 0 ? (
-        <p className="mt-8 text-sm text-text-dim">
-          Aún no hay productos rankeados en esta categoría.
-        </p>
+        <p className="mt-8 text-sm text-text-dim">{dict["ranking.sinProductos"]}</p>
       ) : (
         <>
           <div className="relative mt-6">
@@ -140,6 +149,7 @@ export default function RankingConFiltros({ productos }: { productos: Producto[]
                 >
                   <ProductCard
                     producto={producto}
+                    locale={locale}
                     comparando={comparador.estaSeleccionado(producto)}
                     comparadorBloqueado={comparador.estaBloqueado(producto)}
                     onToggleComparar={() => comparador.toggleSeleccion(producto)}
@@ -154,7 +164,7 @@ export default function RankingConFiltros({ productos }: { productos: Producto[]
               <button
                 type="button"
                 onClick={() => desplazar("izquierda")}
-                aria-label="Ver producto anterior"
+                aria-label={dict["ranking.verProductoAnterior"]}
                 className="absolute left-0 top-1/2 hidden -translate-x-1/2 -translate-y-1/2 items-center justify-center rounded-full border border-line-dim bg-ink p-2.5 text-text-light shadow-lg transition-colors hover:border-line hover:text-line sm:flex"
               >
                 <IconoChevron direccion="izquierda" />
@@ -164,7 +174,7 @@ export default function RankingConFiltros({ productos }: { productos: Producto[]
               <button
                 type="button"
                 onClick={() => desplazar("derecha")}
-                aria-label="Ver producto siguiente"
+                aria-label={dict["ranking.verProductoSiguiente"]}
                 className="absolute right-0 top-1/2 hidden translate-x-1/2 -translate-y-1/2 items-center justify-center rounded-full border border-line-dim bg-ink p-2.5 text-text-light shadow-lg transition-colors hover:border-line hover:text-line sm:flex"
               >
                 <IconoChevron direccion="derecha" />
@@ -172,13 +182,13 @@ export default function RankingConFiltros({ productos }: { productos: Producto[]
             )}
           </div>
           <p className="mt-1 text-center text-xs text-text-dim/70 sm:hidden">
-            Deslizá para ver el siguiente →
+            {dict["ranking.deslizar"]}
           </p>
 
           {GUIA_POR_CATEGORIA[categoriaActiva] && (
             <p className="mt-3 text-center text-sm">
               <Link
-                href={GUIA_POR_CATEGORIA[categoriaActiva].href}
+                href={withLocale(GUIA_POR_CATEGORIA[categoriaActiva].href, locale)}
                 className="font-semibold text-line hover:underline"
               >
                 {GUIA_POR_CATEGORIA[categoriaActiva].texto}
@@ -191,19 +201,19 @@ export default function RankingConFiltros({ productos }: { productos: Producto[]
       {comparador.seleccionados.length >= 2 && !comparador.modalAbierto && (
         <div className="fixed bottom-4 left-1/2 z-40 flex -translate-x-1/2 items-center gap-3 rounded-full border border-line-dim bg-ink-2 py-2 pl-4 pr-2 shadow-xl">
           <span className="text-sm text-text-light">
-            {comparador.seleccionados.length} seleccionados
+            {comparador.seleccionados.length} {dict["ranking.seleccionados"]}
           </span>
           <button
             type="button"
             onClick={() => comparador.setModalAbierto(true)}
             className="rounded-full bg-accent-2 px-4 py-2 text-xs font-bold text-ink transition-opacity hover:opacity-90"
           >
-            Comparar
+            {dict["ranking.comparar"]}
           </button>
           <button
             type="button"
             onClick={comparador.limpiar}
-            aria-label="Cancelar comparación"
+            aria-label={dict["ranking.cancelarComparacion"]}
             className="flex h-8 w-8 items-center justify-center rounded-full text-text-dim hover:text-text-light"
           >
             ✕
@@ -212,7 +222,11 @@ export default function RankingConFiltros({ productos }: { productos: Producto[]
       )}
 
       {comparador.modalAbierto && (
-        <ComparadorModal productos={comparador.seleccionados} onCerrar={comparador.limpiar} />
+        <ComparadorModal
+          productos={comparador.seleccionados}
+          locale={locale}
+          onCerrar={comparador.limpiar}
+        />
       )}
     </div>
   );
