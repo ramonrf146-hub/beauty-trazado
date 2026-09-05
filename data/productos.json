@@ -666,5 +666,61 @@
     "urlAfiliado": "https://www.amazon.com/dp/B0B2RM68G2?tag=beautylab02-20",
     "actualizadoEn": "2026-09-04",
     "activo": true
+  },
+  {
+    "asin": "B0FLQ3DCH2",
+    "nombre": "medicube Wrapping Mask Collagen Glazed Milky Glow — Mascarilla Peel-Off",
+    "categoria": "cuidado-facial",
+    "precio": 19.0,
+    "moneda": "USD",
+    "imagen": "https://m.media-amazon.com/images/I/61J-Kp2W3DL._SY355_.jpg",
+    "rating": 4.5,
+    "numResenas": 1511,
+    "ranking": 9,
+    "notaTecnica": "A diferencia de la BIODANCE (hidrogel que se pega a la cara) y la Aztec Secret (arcilla que se seca), esta es una mascarilla peel-off: se aplica como una crema espesa, forma una película al secar (10-15 minutos) y se despega entera de una vez. Contiene glutatión y niacinamida. Es Amazon's Choice, con '9K+ compras el último mes' pero todavía relativamente pocas reseñas (1.511) comparado con otros productos de este ranking — medicube es una marca coreana que se volvió viral recientemente, con menos historial que CeraVe o COSRX.",
+    "idealPara": "Un tratamiento rápido de efecto inmediato antes de un evento, con el 'ritual' extra de despegarla entera — distinto de una mascarilla que se enjuaga.",
+    "guiaCompra": {
+      "queEsYParaQueSirve": "Es una mascarilla que se aplica en capa gruesa, forma una película elástica al secarse en 10-15 minutos, y se despega entera de la cara (no se enjuaga) — a diferencia de la arcilla o el hidrogel de este ranking, el 'ritual' de despegarla es parte de la experiencia, muy viral en video por eso mismo.",
+      "ejemploHogar": "La aplicás una vez por semana, esperás que seque completamente (se pone rígida al tacto) y la despegás de a poco desde los bordes — deja la piel visiblemente más luminosa al instante.",
+      "ejemploNegocio": "Una esteticista la puede usar como cierre vistoso de un facial exprés, porque el efecto 'reveal' al despegarla genera una buena reacción inmediata en la clienta.",
+      "puntosClave": [
+        "Hay que esperar a que seque completamente (10-15 min) antes de despegar — si la sacás antes de tiempo, se rompe en pedazos en vez de salir entera.",
+        "Es una marca coreana que se volvió viral hace poco — tiene menos historial de reseñas (1.511) que otras opciones más establecidas de este ranking.",
+        "No reemplaza una limpieza profunda como la arcilla de este ranking — es más un tratamiento de luminosidad puntual que de limpieza de poros."
+      ],
+      "consejoInversion": "Con Amazon's Choice y 9.000+ compras el último mes a pesar de ser una marca relativamente nueva en Amazon, está ganando tracción rápido — si te gusta el formato peel-off por sobre el hidrogel o la arcilla, vale la pena probarla."
+    },
+    "tags": ["Peel-off", "Colágeno", "Niacinamida"],
+    "urlAfiliado": "https://www.amazon.com/dp/B0FLQ3DCH2?tag=beautylab02-20",
+    "actualizadoEn": "2026-09-05",
+    "activo": true
+  },
+  {
+    "asin": "B0D1G8MZMF",
+    "nombre": "medicube Collagen Glow Booster Milk Twist & Click Serum",
+    "categoria": "cuidado-facial",
+    "precio": 19.8,
+    "moneda": "USD",
+    "imagen": "https://m.media-amazon.com/images/I/51wb6gg04rL._SY355_.jpg",
+    "rating": 4.6,
+    "numResenas": 1673,
+    "ranking": 10,
+    "notaTecnica": "Serum con colágeno hidrolizado y extracto de proteína de leche, en un envase 'twist & click' (un dispensador que mezcla la fórmula fresca con cada uso, típico de ingredientes activos inestables si se mezclan de fábrica). '3K+ compras el último mes', 1.673 reseñas, 4.6 estrellas. Es de la misma marca que la mascarilla peel-off de este ranking — juntos forman parte de la línea 'Collagen Glow' de medicube.",
+    "idealPara": "Piel opaca que busca luminosidad inmediata con colágeno, en un formato de dispensador que mantiene la fórmula fresca hasta el momento de usarla.",
+    "guiaCompra": {
+      "queEsYParaQueSirve": "Es un serum con colágeno que viene en un envase especial 'twist & click' — girás la base antes de cada uso para liberar una dosis fresca de la fórmula activa, en vez de que esos ingredientes estén mezclados y perdiendo efectividad desde que se fabricó el frasco.",
+      "ejemploHogar": "Antes de aplicarlo, girás la base del envase (eso libera y mezcla el ingrediente activo), aplicás unas gotas después del limpiador y antes del hidratante.",
+      "ejemploNegocio": "Una esteticista lo recomienda como serum de mantenimiento entre tratamientos de colágeno más intensivos, como la mascarilla peel-off de la misma marca.",
+      "puntosClave": [
+        "El mecanismo 'twist & click' no es solo estético — girá la base antes de CADA uso para activar la dosis fresca, no alcanza con girarlo una sola vez al comprarlo.",
+        "Es de la misma línea que la mascarilla peel-off de este ranking — usados juntos siguen la misma filosofía de ingredientes (colágeno + luminosidad).",
+        "Rinde poco por envase (0.50oz) porque se usa en gotas — no esperes que dure meses de uso diario intensivo."
+      ],
+      "consejoInversion": "Con 1.673 reseñas y 4.6 estrellas, más 3.000+ compras el último mes, tiene buen respaldo para ser una marca relativamente nueva en Amazon — el mecanismo de dosificación fresca es un diferencial real frente a un serum de frasco común con bomba."
+    },
+    "tags": ["Colágeno hidrolizado", "Twist & Click", "Luminosidad"],
+    "urlAfiliado": "https://www.amazon.com/dp/B0D1G8MZMF?tag=beautylab02-20",
+    "actualizadoEn": "2026-09-05",
+    "activo": true
   }
 ]
