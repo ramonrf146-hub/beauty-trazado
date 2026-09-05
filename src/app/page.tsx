@@ -9,7 +9,7 @@ import NewsletterBand from "@/components/NewsletterBand";
 
 export const metadata: Metadata = {
   description:
-    "Rutinas de belleza prácticas y recomendaciones honestas: skincare, protección solar, maquillaje y labios, con productos reales y probados de Amazon.",
+    "Rutinas de belleza prácticas y recomendaciones honestas: skincare, protección solar, maquillaje, labios y cabello, con productos reales y probados de Amazon.",
   alternates: { canonical: "/" },
 };
 
@@ -31,9 +31,9 @@ export default async function HomePage() {
               Simplificá tu rutina diaria con lo que de verdad funciona
             </h1>
             <p className="mt-5 max-w-lg text-base leading-relaxed text-text-dim">
-              Skincare, protección solar, maquillaje y labios — seleccionados
-              por reseñas reales y probados en el día a día, no por quién
-              paga más publicidad.
+              Skincare, protección solar, maquillaje, labios y cabello —
+              seleccionados por reseñas reales y probados en el día a día, no
+              por quién paga más publicidad.
             </p>
             <div className="mt-8 flex flex-wrap gap-3">
               <a

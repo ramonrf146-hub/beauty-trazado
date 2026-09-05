@@ -25,6 +25,11 @@ export const CATEGORIAS: Categoria[] = [
     nombre: "Labios",
     descripcion: "Aceites, bálsamos y tratamientos labiales con reseñas reales, no promesas de marketing.",
   },
+  {
+    slug: "cuidado-capilar",
+    nombre: "Cuidado Capilar",
+    descripcion: "Serums, tratamientos y productos de peinado probados para el día a día.",
+  },
 ];
 
 export function getCategoriaPorSlug(slug: string): Categoria | undefined {

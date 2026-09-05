@@ -21,14 +21,14 @@ export const metadata: Metadata = {
     template: "%s | BeautyLab",
   },
   description:
-    "Recomendaciones honestas de skincare, protección solar, maquillaje y labios — productos reales probados, sin publicidad disfrazada de reseña.",
+    "Recomendaciones honestas de skincare, protección solar, maquillaje, labios y cabello — productos reales probados, sin publicidad disfrazada de reseña.",
   openGraph: {
     type: "website",
     locale: "es_ES",
     siteName: "BeautyLab",
     title: "BeautyLab — Rutinas de belleza probadas, sin relleno",
     description:
-      "Recomendaciones honestas de skincare, protección solar, maquillaje y labios, evaluadas con criterio real de uso diario.",
+      "Recomendaciones honestas de skincare, protección solar, maquillaje, labios y cabello, evaluadas con criterio real de uso diario.",
   },
   verification: {
     google: "cHAXwgMf7nei0wj-akoVC6iukswd9dwuqYZORPvSh0A",

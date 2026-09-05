@@ -2,7 +2,8 @@ export type CategoriaSlug =
   | "cuidado-facial"
   | "proteccion-solar"
   | "maquillaje"
-  | "labios";
+  | "labios"
+  | "cuidado-capilar";
 
 export interface Categoria {
   slug: CategoriaSlug;

@@ -39,6 +39,7 @@ Esta rutina de 4 pasos es la base — pero hay algunos productos que suman valor
 - **Entre el limpiador y el protector solar, un serum**: el [CeraVe Hyaluronic Acid Serum](/productos/B07K3261ZD) suma hidratación profunda si tu piel es especialmente seca, o el [The Ordinary Niacinamide 10% + Zinc 1%](/productos/B01MDTVZTZ) si tu piel es mixta a grasa y buscás afinar poros en vez de hidratar más.
 - **A la noche, un tratamiento labial**: la [LANEIGE Lip Sleeping Mask](/productos/B07XXPHQZK) no es para esta rutina de la mañana, pero repara los labios mientras dormís — un buen complemento nocturno al paso 4.
 - **Para reaplicar durante el día**: el [Burt's Bees Lip Balm](/productos/B01MRH7MR4) es el bálsamo sin color que llevás en la cartera para reaplicar cuando sea, sin depender del aceite con color del paso 4.
+- **Antes de salir, control de frizz**: el [Garnier Fructis Anti-Frizz Serum](/productos/B006J44BSI) son un par de gotas de más antes de peinar, si tu pelo se encrespa con la humedad.
 
 Si tu piel es seca todo el año, también podés reemplazar cualquier hidratante genérico por el [CeraVe Moisturizing Cream](/productos/B00TTD9BRC) como paso final antes de salir.
 

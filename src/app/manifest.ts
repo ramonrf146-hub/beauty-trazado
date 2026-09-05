@@ -5,7 +5,7 @@ export default function manifest(): MetadataRoute.Manifest {
     name: "BeautyLab — Rutinas de belleza probadas",
     short_name: "BeautyLab",
     description:
-      "Recomendaciones honestas de skincare, protección solar, maquillaje y labios — productos reales probados.",
+      "Recomendaciones honestas de skincare, protección solar, maquillaje, labios y cabello — productos reales probados.",
     start_url: "/",
     display: "standalone",
     background_color: "#ffffff",
