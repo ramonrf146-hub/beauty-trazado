@@ -115,6 +115,10 @@ const es = {
   "comparador.masResenado": "🏆 Más reseñado",
   "comparador.idealPara": "Ideal para: ",
   "comparador.especificaciones": "Especificaciones",
+  "comparador.enComun": "Lo que tienen en común",
+  "comparador.diferencias": "En qué se diferencian",
+  "comparador.rankingEnCategoria": "Puesto en su categoría",
+  "comparador.sinDiferenciasDeSpecs": "No se cargaron tags técnicos distintos para comparar.",
 
   "metodologia.eyebrow": "Metodología",
   "metodologia.titulo": "Cómo armamos el ranking",
@@ -262,6 +266,10 @@ const en: Dictionary = {
   "comparador.masResenado": "🏆 Most reviewed",
   "comparador.idealPara": "Best for: ",
   "comparador.especificaciones": "Specifications",
+  "comparador.enComun": "What they have in common",
+  "comparador.diferencias": "How they differ",
+  "comparador.rankingEnCategoria": "Rank within its category",
+  "comparador.sinDiferenciasDeSpecs": "No differing spec tags were loaded to compare.",
 
   "metodologia.eyebrow": "Methodology",
   "metodologia.titulo": "How we build the ranking",
