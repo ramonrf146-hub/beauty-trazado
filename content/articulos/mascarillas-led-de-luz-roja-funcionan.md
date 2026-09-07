@@ -13,6 +13,12 @@ La terapia de luz roja y casi infrarroja (fotobiomodulación, si querés el nomb
 
 Lo que la evidencia **no** dice es que vayas a ver un cambio dramático en una semana, ni que reemplace tratamientos con ingredientes activos comprobados (retinol, ácidos exfoliantes). Es una herramienta de mantenimiento gradual, no una varita mágica.
 
+<div class="not-prose my-6 overflow-hidden rounded-2xl border border-line-dim" style="aspect-ratio:16/9">
+<iframe width="100%" height="100%" src="https://www.youtube-nocookie.com/embed/b07m7MreHiI" title="Dermatologist Explains Red Light Therapy at Home: Worth it for Anti-Aging? Best Devices? — Dr. Sam Ellis" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
+Una dermatóloga (Dr. Sam Ellis) explica en este video exactamente el mismo punto medio que buscamos acá: hay evidencia real detrás de la luz roja, pero los resultados son graduales y dependen de la constancia — no del dispositivo más caro del mercado.
+
 ## Los 3 tipos de luz, explicados sin jerga
 
 - **Luz roja:** la más estudiada para colágeno y textura de piel. Penetra las capas superficiales de la piel.
