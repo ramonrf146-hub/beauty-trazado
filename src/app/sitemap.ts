@@ -4,7 +4,7 @@ import { getArticulos } from "@/lib/contenido";
 import { getProductos } from "@/lib/productos";
 import { withLocale } from "@/lib/i18n";
 
-const SITE_URL = process.env.NEXT_PUBLIC_SITE_URL || "https://beautylab.com";
+const SITE_URL = process.env.NEXT_PUBLIC_SITE_URL || "https://beautylab.getfastfalcon.com";
 
 /** Emite la entrada española (sin prefijo) y su equivalente /en para cada ruta. */
 function entradasBilingues(

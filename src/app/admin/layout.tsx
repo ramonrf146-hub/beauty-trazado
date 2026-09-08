@@ -12,7 +12,7 @@ const jakarta = Plus_Jakarta_Sans({
   weight: ["400", "500", "600", "700", "800"],
 });
 
-const SITE_URL = process.env.NEXT_PUBLIC_SITE_URL || "https://beautylab.com";
+const SITE_URL = process.env.NEXT_PUBLIC_SITE_URL || "https://beautylab.getfastfalcon.com";
 
 export const metadata: Metadata = {
   metadataBase: new URL(SITE_URL),

@@ -6,7 +6,7 @@ import { getProductos, getProductoPorAsin } from "@/lib/productos";
 import { getDictionary, t, withLocale, normalizarLocale } from "@/lib/i18n";
 import GlosarioDeCampo from "@/components/GlosarioDeCampo";
 
-const SITE_URL = process.env.NEXT_PUBLIC_SITE_URL || "https://beautylab.com";
+const SITE_URL = process.env.NEXT_PUBLIC_SITE_URL || "https://beautylab.getfastfalcon.com";
 
 interface Props {
   params: Promise<{ lang: string; asin: string }>;

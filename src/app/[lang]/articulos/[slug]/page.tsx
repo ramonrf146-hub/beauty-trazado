@@ -7,7 +7,7 @@ import { getProductosPorCategoria } from "@/lib/productos";
 import { getDictionary, t, withLocale, normalizarLocale } from "@/lib/i18n";
 import GridDeProductos from "@/components/GridDeProductos";
 
-const SITE_URL = process.env.NEXT_PUBLIC_SITE_URL || "https://beautylab.com";
+const SITE_URL = process.env.NEXT_PUBLIC_SITE_URL || "https://beautylab.getfastfalcon.com";
 
 interface Props {
   params: Promise<{ lang: string; slug: string }>;

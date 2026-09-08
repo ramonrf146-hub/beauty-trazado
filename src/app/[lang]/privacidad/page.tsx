@@ -3,7 +3,7 @@ import { notFound } from "next/navigation";
 import { getPagina } from "@/lib/contenido";
 import { normalizarLocale } from "@/lib/i18n";
 
-const SITE_URL = process.env.NEXT_PUBLIC_SITE_URL || "https://beautylab.com";
+const SITE_URL = process.env.NEXT_PUBLIC_SITE_URL || "https://beautylab.getfastfalcon.com";
 
 interface Props {
   params: Promise<{ lang: string }>;

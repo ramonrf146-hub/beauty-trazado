@@ -4,7 +4,7 @@ import { getArticulos } from "@/lib/contenido";
 import { getCategoriaPorSlug } from "@/lib/categorias";
 import { getDictionary, t, withLocale, normalizarLocale } from "@/lib/i18n";
 
-const SITE_URL = process.env.NEXT_PUBLIC_SITE_URL || "https://beautylab.com";
+const SITE_URL = process.env.NEXT_PUBLIC_SITE_URL || "https://beautylab.getfastfalcon.com";
 
 interface Props {
   params: Promise<{ lang: string }>;
