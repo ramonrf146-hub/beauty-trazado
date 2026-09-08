@@ -13,6 +13,12 @@ Red and near-infrared light therapy (photobiomodulation, if you want the technic
 
 What the evidence does **not** say is that you'll see a dramatic change in a week, or that it replaces treatments with proven active ingredients (retinol, exfoliating acids). It's a gradual maintenance tool, not a magic wand.
 
+<div class="not-prose my-6 overflow-hidden rounded-2xl border border-line-dim" style="aspect-ratio:16/9">
+<iframe width="100%" height="100%" src="https://www.youtube-nocookie.com/embed/b07m7MreHiI" title="Dermatologist Explains Red Light Therapy at Home: Worth it for Anti-Aging? Best Devices? — Dr. Sam Ellis" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
+A dermatologist (Dr. Sam Ellis) makes exactly the same middle-ground point in this video that we're making here: there's real evidence behind red light, but the results are gradual and depend on consistency — not on buying the most expensive device on the market.
+
 ## The 3 types of light, explained without jargon
 
 - **Red light:** the most studied for collagen and skin texture. Penetrates the surface layers of skin.
