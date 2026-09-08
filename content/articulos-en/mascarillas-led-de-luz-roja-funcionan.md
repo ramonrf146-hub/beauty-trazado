@@ -33,6 +33,8 @@ This is where most people get disappointed by misplaced expectations: the studie
 
 **It makes sense if:** you've already got the basics of your routine covered (cleansing, hydration, sun protection) and want to add a maintenance treatment on top, with expectations of gradual improvement, not transformation.
 
+If you'd rather use a topical treatment instead of (or alongside) a device, [CeraVe's Super Boost Anti-Aging Serum](/en/productos/B0GVTLNWXQ) targets the same goals (wrinkles, firmness, brightness) with peptides and ceramides instead of light — unlike retinol or acids, there's no known restriction on using it the same day as an LED mask. It's a very recent release on Amazon (few reviews so far), so if you'd rather go with something with more track record, [CeraVe's Hyaluronic Acid Serum](/en/productos/B07K3261ZD) covers the hydration side with thousands of reviews behind it, though it doesn't specifically target wrinkles.
+
 **Not yet, if:** you're just starting to build your routine from scratch. In that case, your budget goes further on the basics — check out the [5-minute routine](/en/articulos/la-rutina-rapida-de-5-minutos) or the products in this catalog with more review history before adding a $100 device that works better as an extra layer than as a foundation.
 
 ## Our pick this month

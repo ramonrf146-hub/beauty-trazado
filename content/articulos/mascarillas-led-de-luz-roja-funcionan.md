@@ -39,6 +39,8 @@ Acá es donde más gente se decepciona por expectativas mal puestas: los estudio
 
 **Tiene sentido si:** ya resolviste los básicos de tu rutina (limpieza, hidratación, protección solar) y buscás sumar un tratamiento de mantenimiento adicional, con expectativas de mejora gradual, no de transformación.
 
+Si preferís un tratamiento tópico en vez de (o además de) un dispositivo, el [CeraVe Super Boost Serum Anti-Edad](/productos/B0GVTLNWXQ) ataca lo mismo (arrugas, firmeza, luminosidad) con péptidos y ceramidas en vez de luz — a diferencia del retinol o los ácidos, no hay ninguna restricción conocida de uso el mismo día que la mascarilla LED. Es un producto muy reciente en Amazon (pocas reseñas todavía), así que si preferís algo con más historial, el [Serum de Ácido Hialurónico de CeraVe](/productos/B07K3261ZD) cubre la parte de hidratación con miles de reseñas de respaldo, aunque no ataca arrugas de forma específica.
+
 **Todavía no, si:** estás recién armando tu rutina desde cero. En ese caso, el presupuesto rinde más en los básicos — mirá la [rutina de 5 minutos](/articulos/la-rutina-rapida-de-5-minutos) o los productos con más historial de reseñas de este catálogo antes de sumar un dispositivo de $100 que funciona mejor como capa adicional que como base.
 
 ## Nuestra recomendación del mes

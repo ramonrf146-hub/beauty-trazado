@@ -1528,5 +1528,55 @@
       "FDA-Cleared",
       "456 LEDs"
     ]
+  },
+  {
+    "asin": "B0GVTLNWXQ",
+    "nombre": "CeraVe Super Boost Serum Anti-Edad — con Péptidos, Ácido Hialurónico y Ceramidas",
+    "categoria": "cuidado-facial",
+    "precio": 24.97,
+    "moneda": "USD",
+    "imagen": "https://m.media-amazon.com/images/I/713NTwR-GbL._SY355_.jpg",
+    "rating": 4.6,
+    "numResenas": 6,
+    "ranking": 16,
+    "notaTecnica": "Es la versión anti-edad completa del Serum de Ácido Hialurónico de CeraVe de este catálogo (ranking #3): en vez de un solo activo, combina péptidos, ceramidas, niacinamida, vitamina B12 y LHA para atacar arrugas, firmeza y luminosidad a la vez. Textura lechosa (no líquida) y color rosado natural por la vitamina B12. Es un lanzamiento muy reciente (solo 6 reseñas) y contiene siliconas, que según una reseña real puede obstruir poros en piel propensa al acné.",
+    "idealPara": "Quien ya tiene una rutina básica resuelta y quiere sumar un tratamiento anti-edad más completo (arrugas, firmeza, luminosidad), no solo hidratación — y no tiene piel muy propensa al acné.",
+    "guiaCompra": {
+      "queEsYParaQueSirve": "Es un serum de tratamiento (no solo hidratación) que combina 5 ingredientes anti-edad —ácido hialurónico, péptidos, niacinamida, vitamina B12 y LHA— junto con 3 ceramidas para reforzar la barrera de la piel mientras ataca arrugas y falta de firmeza.",
+      "ejemploHogar": "Se aplica de noche, después de limpiar la piel y antes del hidratante, como paso de tratamiento — no reemplaza al limpiador ni a la crema.",
+      "ejemploNegocio": "Una esteticista lo puede recomendar a clientas mayores de 35 años que ya tienen resuelta la rutina básica y buscan sumar un tratamiento anti-edad de marca confiable sin saltar a precios de lujo.",
+      "puntosClave": [
+        "Es un producto muy nuevo en Amazon (6 reseñas) — no tiene el historial del Serum de Ácido Hialurónico de CeraVe (31.000+ reseñas) de esta misma categoría.",
+        "Contiene siliconas: una reseñadora real con piel propensa al acné reportó que le obstruía los poros en el rostro y terminó usándolo en las piernas — si tenés piel grasa o con tendencia al acné, probalo primero en una zona pequeña.",
+        "La ficha de Amazon no incluye la lista completa de ingredientes en el listado — una reseñadora tuvo que subir una foto del envase para mostrarla."
+      ],
+      "consejoInversion": "A unos $25 (frasco de 2.82oz) cuesta más que el Serum de Ácido Hialurónico de CeraVe de este catálogo, pero suma péptidos y niacinamida que ese no tiene — tiene sentido si ya tenés la hidratación resuelta y buscás dar el salto a un tratamiento anti-edad más completo, no como primer serum de la rutina."
+    },
+    "tags": [
+      "Péptidos",
+      "Anti-edad",
+      "Ceramidas"
+    ],
+    "urlAfiliado": "https://www.amazon.com/dp/B0GVTLNWXQ?tag=beautylab02-20",
+    "actualizadoEn": "2026-09-08",
+    "nombreEn": "CeraVe Super Boost Anti-Aging Serum — with Peptides, Hyaluronic Acid & Ceramides",
+    "notaTecnicaEn": "It's the full anti-aging step up from CeraVe's Hyaluronic Acid Serum in this catalog (ranking #3): instead of one active ingredient, it combines peptides, ceramides, niacinamide, vitamin B12, and LHA to target wrinkles, firmness, and brightness at once. Milky (not liquid) texture with a natural pink tint from vitamin B12. It's a very recent release (only 6 reviews) and contains silicones, which one real review flagged as pore-clogging on acne-prone skin.",
+    "idealParaEn": "Anyone who already has a basic routine covered and wants to add a more complete anti-aging treatment (wrinkles, firmness, brightness), not just hydration — and doesn't have very acne-prone skin.",
+    "guiaCompraEn": {
+      "queEsYParaQueSirve": "It's a treatment serum (not just hydration) that combines 5 anti-aging ingredients — hyaluronic acid, peptides, niacinamide, vitamin B12, and LHA — along with 3 ceramides to reinforce the skin barrier while targeting wrinkles and loss of firmness.",
+      "ejemploHogar": "You apply it at night, after cleansing and before moisturizer, as a treatment step — it doesn't replace your cleanser or cream.",
+      "ejemploNegocio": "An esthetician might recommend it to clients over 35 who already have a basic routine covered and want to add an anti-aging treatment from a trusted brand without jumping to luxury prices.",
+      "puntosClave": [
+        "It's a very new product on Amazon (6 reviews) — it doesn't have the track record of CeraVe's Hyaluronic Acid Serum (31,000+ reviews) in this same category.",
+        "It contains silicones: one real reviewer with acne-prone skin reported it clogged her facial pores and ended up using it on her legs instead — if you have oily or acne-prone skin, patch-test a small area first.",
+        "The Amazon listing doesn't include the full ingredient list — one reviewer had to upload a photo of the packaging to show it."
+      ],
+      "consejoInversion": "At around $25 (2.82oz bottle) it costs more than CeraVe's Hyaluronic Acid Serum in this catalog, but it adds peptides and niacinamide that one doesn't have — it makes sense if you already have hydration covered and want to step up to a more complete anti-aging treatment, not as your first serum."
+    },
+    "tagsEn": [
+      "Peptides",
+      "Anti-aging",
+      "Ceramides"
+    ]
   }
 ]
