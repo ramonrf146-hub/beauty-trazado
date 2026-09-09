@@ -1728,5 +1728,56 @@
       "Mineral powder",
       "Built-in brush"
     ]
+  },
+  {
+    "asin": "B08CMS8P67",
+    "nombre": "Anua Heartleaf 77% Soothing Toner",
+    "categoria": "cuidado-facial",
+    "precio": 19.69,
+    "moneda": "USD",
+    "imagen": "https://m.media-amazon.com/images/I/51AeF0suKmL._SX342_.jpg",
+    "rating": 4.5,
+    "numResenas": 14490,
+    "ranking": 17,
+    "notaTecnica": "Tónico coreano con 77% de extracto de heartleaf (Houttuynia cordata), centella, pantenol y ácido hialurónico — uno de los productos de K-beauty más virales de TikTok desde 2023, todavía sostenido en 2026. Llena un hueco real de este catálogo: hasta ahora no había ningún tónico/toner listado, solo limpiador, sérums e hidratante. Textura acuosa tipo 'agua', pensada para el paso entre limpiar e hidratar, no como tratamiento intensivo.",
+    "idealPara": "Piel sensible, irritada o con rojeces que busca un paso calmante entre el limpiador y el sérum/hidratante, sin sumar otro producto con activos fuertes.",
+    "guiaCompra": {
+      "queEsYParaQueSirve": "Es un tónico facial — un líquido acuoso (no una crema) que se aplica con la mano o un algodón justo después de lavarte la cara, para 'rehidratar de golpe' la piel antes de los siguientes pasos, como cuando le das la primera pasada de agua a una esponja seca antes de usarla. La 'heartleaf' es una planta con fama de calmar la piel irritada, similar en el rol a la centella asiática.",
+      "ejemploHogar": "Lo aplicás con las manos, dando palmaditas suaves, inmediatamente después de lavarte la cara y antes del sérum o la crema — reemplaza el paso de 'splash de agua' con algo que además calma la piel.",
+      "ejemploNegocio": "Una esteticista lo usa como primer paso de hidratación en un facial coreano de varios pasos, antes del essence y el sérum, para calmar la piel recién limpiada (sobre todo después de una extracción o exfoliación).",
+      "puntosClave": [
+        "No es un exfoliante ni tiene ácidos activos — si buscás un tónico exfoliante, esto no lo reemplaza, es puramente calmante e hidratante.",
+        "Se aplica siempre sobre piel recién lavada y antes de cualquier sérum o crema, nunca como último paso.",
+        "Es apto para alternar con el BHA o el snail mucin de este mismo ranking sin conflicto — de hecho es una buena base calmante las noches que usás el exfoliante."
+      ],
+      "consejoInversion": "A menos de $20 por un producto con más de 14.000 reseñas y 4.5 estrellas sostenidas por años (no un pico de dos semanas), es una inversión de bajo riesgo frente a tónicos genéricos con fragancia o alcohol que resecan la piel a mediano plazo en vez de calmarla."
+    },
+    "tags": [
+      "K-beauty",
+      "Tónico calmante",
+      "TikTok viral"
+    ],
+    "urlAfiliado": "https://www.amazon.com/dp/B08CMS8P67?tag=beautylab02-20",
+    "actualizadoEn": "2026-09-09",
+    "activo": true,
+    "nombreEn": "Anua Heartleaf 77% Soothing Toner",
+    "notaTecnicaEn": "Korean toner with 77% heartleaf extract (Houttuynia cordata), centella, panthenol and hyaluronic acid — one of the most viral K-beauty products on TikTok since 2023, still going strong in 2026. Fills a real gap in this catalog: until now there was no toner listed at all, only cleanser, serums and moisturizer. Watery texture, meant for the step between cleansing and moisturizing, not as an intensive treatment.",
+    "idealParaEn": "Sensitive, irritated, or redness-prone skin looking for a calming step between cleanser and serum/moisturizer, without adding another product with strong actives.",
+    "guiaCompraEn": {
+      "queEsYParaQueSirve": "It's a facial toner — a watery liquid (not a cream) applied by hand or with a cotton pad right after washing your face, to 'rehydrate' the skin before the next steps, like giving a dry sponge its first pass of water before using it. 'Heartleaf' is a plant known for calming irritated skin, similar in role to centella asiatica.",
+      "ejemploHogar": "You apply it with your hands, gently patting, right after washing your face and before serum or cream — it replaces the 'splash of water' step with something that also calms the skin.",
+      "ejemploNegocio": "An esthetician uses it as the first hydration step in a multi-step Korean facial, before essence and serum, to calm freshly cleansed skin (especially after extractions or exfoliation).",
+      "puntosClave": [
+        "It's not an exfoliant and has no active acids — if you're looking for an exfoliating toner, this doesn't replace that, it's purely calming and hydrating.",
+        "Always apply it on freshly washed skin and before any serum or cream, never as a last step.",
+        "It's fine to alternate with this ranking's BHA or snail mucin without conflict — in fact it's a good calming base on the nights you use the exfoliant."
+      ],
+      "consejoInversion": "At under $20 for a product with 14,000+ reviews and 4.5 stars sustained for years (not a two-week spike), it's a low-risk buy next to generic fragranced or alcohol-based toners that dry out skin over time instead of calming it."
+    },
+    "tagsEn": [
+      "K-beauty",
+      "Soothing toner",
+      "TikTok viral"
+    ]
   }
 ]

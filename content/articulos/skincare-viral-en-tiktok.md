@@ -1,11 +1,11 @@
 ---
 titulo: "Skincare viral en TikTok: lo que realmente sostiene el hype"
 fecha: "2026-09-04"
-descripcion: "Dos productos que llevan años siendo virales en TikTok, revisados por un dermatólogo y una química cosmética — no solo por creadoras de contenido sin formación."
+descripcion: "Tres productos que llevan años siendo virales en TikTok, revisados por un dermatólogo y una química cosmética — no solo por creadoras de contenido sin formación."
 categoria: "cuidado-facial"
 ---
 
-TikTok recomienda skincare todos los días — la mayoría son modas de dos semanas que desaparecen. Estos dos productos son la excepción: llevan años virales, tienen cientos de miles de reseñas reales en Amazon, y además de las creadoras de belleza, los revisan profesionales con formación (dermatólogos, químicos cosméticos). Esa combinación — viralidad sostenida en el tiempo + respaldo profesional — es la que usamos para decidir qué entra en este ranking y qué no.
+TikTok recomienda skincare todos los días — la mayoría son modas de dos semanas que desaparecen. Estos tres productos son la excepción: llevan años (o, en el caso del tercero, varias temporadas seguidas) siendo virales, tienen cientos de miles de reseñas reales en Amazon, y además de las creadoras de belleza, los revisan profesionales con formación (dermatólogos, químicos cosméticos). Esa combinación — viralidad sostenida en el tiempo + respaldo profesional — es la que usamos para decidir qué entra en este ranking y qué no.
 
 ## 1. COSRX Snail Mucin — el essence del "glass skin"
 
@@ -38,19 +38,36 @@ El otro producto que aparece una y otra vez en TikTok bajo el hashtag #skintok e
 
 El [Paula's Choice Skin Perfecting 2% BHA Liquid Exfoliant](/productos/B00949CTQQ) de este ranking tiene más de 116.000 reseñas y es Amazon's Choice en su categoría — el mismo que menciona el video.
 
-## Por qué estos dos y no otros virales de TikTok
+## 3. Anua Heartleaf 77% — el tónico calmante que le faltaba a este ranking
 
-Miles de productos se vuelven virales por dos semanas y desaparecen. Estos dos llevan años sosteniendo el volumen de recompra (40K y 50K+ compras respectivamente, cada mes, no una vez) y tienen revisiones de profesionales con formación real (dermatólogo, química cosmética) — no solo testimonios de "a mí me funcionó". Esa combinación es la que buscamos antes de sumar cualquier producto "viral" a este sitio.
+Es el tónico coreano que más se repite en TikTok bajo #skintok desde 2023 — a diferencia de los dos anteriores, todavía no lleva una década sostenido, pero sí varias temporadas seguidas de volumen real de recompra, no un pico de dos semanas. Hasta ahora este ranking no tenía ningún tónico listado, solo limpiador, sérums e hidratante.
+
+<div class="not-prose my-6 flex justify-center">
+<blockquote class="tiktok-embed" cite="https://www.tiktok.com/@bintharun._/video/7340186268204109062" data-video-id="7340186268204109062" style="max-width: 605px;min-width: 325px;">
+  <section>
+    <a target="_blank" title="@bintharun._" href="https://www.tiktok.com/@bintharun._?refer=embed">@bintharun._</a>
+    <p>First impression of the viral @anua_kr heartleaf 77% soothing toner 🤍 #review #skincarereview #fypシ゚viral #skincare</p>
+  </section>
+</blockquote>
+<script async src="https://www.tiktok.com/embed.js"></script>
+</div>
+
+El [Anua Heartleaf 77% Soothing Toner](/productos/B08CMS8P67) de este ranking tiene más de 14.000 reseñas y 4.5 estrellas. A diferencia del BHA de arriba (un exfoliante con ácido activo) y del snail mucin (un essence espeso), este es un tónico acuoso puramente calmante — no exfolia ni trata nada puntual, solo re-hidrata y calma la piel recién lavada antes de los pasos siguientes. Como con cualquier extracto nuevo, las reseñas no son unánimes: la mayoría lo describe como calmante, pero un grupo minoritario con piel muy reactiva reporta irritación — vale la pena probarlo primero en una zona chica de la cara.
+
+## Por qué estos tres y no otros virales de TikTok
+
+Miles de productos se vuelven virales por dos semanas y desaparecen. Estos tres sostienen volumen real de recompra en el tiempo (40K, 50K+ y varias temporadas seguidas, respectivamente) y tienen revisiones de profesionales o al menos miles de reseñas verificadas sostenidas — no solo testimonios de "a mí me funcionó". Esa combinación es la que buscamos antes de sumar cualquier producto "viral" a este sitio.
 
 ## Cómo usarlos juntos sin problema
 
 No se aplican en el mismo paso ni necesariamente la misma noche:
 
 1. Limpiador
-2. **Paula's Choice 2% BHA** (noches alternadas, 2-3 veces por semana al empezar)
-3. **COSRX Snail Mucin** (se puede usar todas las noches, incluso las noches que no usás el BHA)
-4. Hidratante
-5. Protector solar (a la mañana siguiente, sin excepción, si usaste el BHA)
+2. **Anua Heartleaf 77%** (tónico, todas las noches, sobre piel recién lavada)
+3. **Paula's Choice 2% BHA** (noches alternadas, 2-3 veces por semana al empezar)
+4. **COSRX Snail Mucin** (se puede usar todas las noches, incluso las noches que no usás el BHA)
+5. Hidratante
+6. Protector solar (a la mañana siguiente, sin excepción, si usaste el BHA)
 
 ## Nuestra recomendación del mes
 

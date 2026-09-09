@@ -1,11 +1,11 @@
 ---
 titulo: "Viral TikTok skincare: what actually holds up the hype"
 fecha: "2026-09-04"
-descripcion: "Two products that have been viral on TikTok for years, reviewed by a dermatologist and a cosmetic chemist — not just by content creators with no training."
+descripcion: "Three products that have been viral on TikTok for years, reviewed by a dermatologist and a cosmetic chemist — not just by content creators with no training."
 categoria: "cuidado-facial"
 ---
 
-TikTok recommends skincare every day — most of it is a two-week fad that disappears. These two products are the exception: they've been viral for years, have hundreds of thousands of real reviews on Amazon, and beyond beauty creators, they're reviewed by trained professionals (dermatologists, cosmetic chemists). That combination — viral staying power over time plus professional backing — is what we use to decide what makes it into this ranking and what doesn't.
+TikTok recommends skincare every day — most of it is a two-week fad that disappears. These three products are the exception: they've been viral for years (or, in the third case, several straight seasons), have hundreds of thousands of real reviews on Amazon, and beyond beauty creators, they're reviewed by trained professionals (dermatologists, cosmetic chemists). That combination — viral staying power over time plus professional backing — is what we use to decide what makes it into this ranking and what doesn't.
 
 ## 1. COSRX Snail Mucin — the "glass skin" essence
 
@@ -38,19 +38,36 @@ The other product that keeps showing up on TikTok under the #skintok hashtag is 
 
 The [Paula's Choice Skin Perfecting 2% BHA Liquid Exfoliant](/en/productos/B00949CTQQ) in this ranking has over 116,000 reviews and is Amazon's Choice in its category — the same one mentioned in the video.
 
-## Why these two and not other TikTok virals
+## 3. Anua Heartleaf 77% — the soothing toner this ranking was missing
 
-Thousands of products go viral for two weeks and disappear. These two have sustained repurchase volume for years (40K and 50K+ purchases respectively, every month, not once) and have reviews from professionals with real training (dermatologist, cosmetic chemist) — not just "it worked for me" testimonials. That combination is what we look for before adding any "viral" product to this site.
+It's the Korean toner that comes up most on TikTok under #skintok since 2023 — unlike the two above, it hasn't held on for a decade yet, but it does have several straight seasons of real repurchase volume, not a two-week spike. Until now this ranking had no toner listed at all, only cleanser, serums and moisturizer.
+
+<div class="not-prose my-6 flex justify-center">
+<blockquote class="tiktok-embed" cite="https://www.tiktok.com/@bintharun._/video/7340186268204109062" data-video-id="7340186268204109062" style="max-width: 605px;min-width: 325px;">
+  <section>
+    <a target="_blank" title="@bintharun._" href="https://www.tiktok.com/@bintharun._?refer=embed">@bintharun._</a>
+    <p>First impression of the viral @anua_kr heartleaf 77% soothing toner 🤍 #review #skincarereview #fypシ゚viral #skincare</p>
+  </section>
+</blockquote>
+<script async src="https://www.tiktok.com/embed.js"></script>
+</div>
+
+The [Anua Heartleaf 77% Soothing Toner](/en/productos/B08CMS8P67) in this ranking has over 14,000 reviews and 4.5 stars. Unlike the BHA above (an exfoliant with an active acid) and the snail mucin (a thicker essence), this is a purely calming watery toner — it doesn't exfoliate or treat anything specific, it just re-hydrates and calms freshly washed skin before the next steps. As with any new extract, reviews aren't unanimous: most describe it as calming, but a minority with very reactive skin report irritation — worth patch-testing on a small area first.
+
+## Why these three and not other TikTok virals
+
+Thousands of products go viral for two weeks and disappear. These three sustain real repurchase volume over time (40K, 50K+, and several straight seasons, respectively) and have reviews from professionals or at least thousands of sustained verified reviews — not just "it worked for me" testimonials. That combination is what we look for before adding any "viral" product to this site.
 
 ## How to use them together without issue
 
 They're not applied in the same step or necessarily the same night:
 
 1. Cleanser
-2. **Paula's Choice 2% BHA** (alternating nights, 2-3 times a week when starting out)
-3. **COSRX Snail Mucin** (can be used every night, even the nights you don't use the BHA)
-4. Moisturizer
-5. Sunscreen (the next morning, no exceptions, if you used the BHA)
+2. **Anua Heartleaf 77%** (toner, every night, on freshly washed skin)
+3. **Paula's Choice 2% BHA** (alternating nights, 2-3 times a week when starting out)
+4. **COSRX Snail Mucin** (can be used every night, even the nights you don't use the BHA)
+5. Moisturizer
+6. Sunscreen (the next morning, no exceptions, if you used the BHA)
 
 ## Our pick this month
 
