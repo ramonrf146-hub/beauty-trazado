@@ -36,6 +36,8 @@ The [e.l.f. Glow Reviver Lip Oil](/en/productos/B0DFMX8YWJ) gives color adapted 
 This 4-step routine is the base — but a few products add real value without adding more than a minute:
 
 - **Before the cleanser, a concealer**: the [Maybelline Instant Age Rewind](/en/productos/B004Y9GTOO) covers dark circles in 15 seconds with a sponge-tip applicator, no extra brushes needed.
+- **After the concealer, a hint of color**: the [e.l.f. Sheer For It Blush Tint](/en/productos/B0GVG4S4X9) applies with your fingers on your cheeks in seconds, without adding the brush step of a traditional blush.
+- **If you notice your makeup shifting by mid-morning**: the [Maybelline Fit Me Translucent Pressed Powder](/en/productos/B00PFCSNWA) sets your concealer and blush without adding extra color — a maintenance step, not mandatory in the base routine.
 - **Between cleanser and sunscreen, a serum**: the [CeraVe Hyaluronic Acid Serum](/en/productos/B07K3261ZD) adds deep hydration if your skin is especially dry, or [The Ordinary Niacinamide 10% + Zinc 1%](/en/productos/B01MDTVZTZ) if your skin is combination to oily and you want to refine pores instead of adding more hydration.
 - **At night, a lip treatment**: the [LANEIGE Lip Sleeping Mask](/en/productos/B07XXPHQZK) isn't for this morning routine, but it repairs lips while you sleep — a good nighttime complement to step 4.
 - **To reapply during the day**: the [Burt's Bees Lip Balm](/en/productos/B01MRH7MR4) is the untinted balm you carry in your bag to reapply whenever, without relying on the tinted oil from step 4.

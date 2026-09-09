@@ -36,6 +36,8 @@ El [e.l.f. Glow Reviver Lip Oil](/productos/B0DFMX8YWJ) da color adaptado al ton
 Esta rutina de 4 pasos es la base — pero hay algunos productos que suman valor real sin agregar más de un minuto:
 
 - **Antes del limpiador, un corrector**: el [Maybelline Instant Age Rewind](/productos/B004Y9GTOO) cubre ojeras en 15 segundos con un aplicador tipo esponja, sin necesitar brochas extra.
+- **Después del corrector, un toque de color**: el [e.l.f. Sheer For It Blush Tint](/productos/B0GVG4S4X9) se aplica con los dedos sobre las mejillas en segundos, sin sumar el paso de brocha de un blush tradicional.
+- **Si notás que el maquillaje se corre a media mañana**: el [Maybelline Fit Me Polvo Compacto Translúcido](/productos/B00PFCSNWA) fija el corrector y el blush sin agregar color extra — es un paso de mantenimiento, no obligatorio en la rutina base.
 - **Entre el limpiador y el protector solar, un serum**: el [CeraVe Hyaluronic Acid Serum](/productos/B07K3261ZD) suma hidratación profunda si tu piel es especialmente seca, o el [The Ordinary Niacinamide 10% + Zinc 1%](/productos/B01MDTVZTZ) si tu piel es mixta a grasa y buscás afinar poros en vez de hidratar más.
 - **A la noche, un tratamiento labial**: la [LANEIGE Lip Sleeping Mask](/productos/B07XXPHQZK) no es para esta rutina de la mañana, pero repara los labios mientras dormís — un buen complemento nocturno al paso 4.
 - **Para reaplicar durante el día**: el [Burt's Bees Lip Balm](/productos/B01MRH7MR4) es el bálsamo sin color que llevás en la cartera para reaplicar cuando sea, sin depender del aceite con color del paso 4.
