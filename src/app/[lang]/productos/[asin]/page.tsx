@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import { notFound } from "next/navigation";
 import Link from "next/link";
 import { getCategoriaPorSlug } from "@/lib/categorias";
+import { getArticulos } from "@/lib/contenido";
 import { getProductos, getProductoPorAsin } from "@/lib/productos";
 import { getDictionary, t, withLocale, normalizarLocale } from "@/lib/i18n";
 import GlosarioDeCampo from "@/components/GlosarioDeCampo";
@@ -58,6 +59,16 @@ export default async function ProductoPage({ params }: Props) {
   const nombre = t(producto.nombre, producto.nombreEn, locale);
   const notaTecnica = t(producto.notaTecnica, producto.notaTecnicaEn, locale);
   const guia = locale === "en" && producto.guiaCompraEn ? producto.guiaCompraEn : producto.guiaCompra;
+
+  const todosLosArticulos = await getArticulos(locale);
+  const rutaProducto = withLocale(`/productos/${producto.asin}`, locale);
+  const articulosQueLoMencionan = todosLosArticulos.filter((a) =>
+    a.contenidoHtml.includes(rutaProducto)
+  );
+  const articulosRelacionados =
+    articulosQueLoMencionan.length > 0
+      ? articulosQueLoMencionan.slice(0, 3)
+      : todosLosArticulos.filter((a) => a.categoria === producto.categoria).slice(0, 2);
 
   const productoJsonLd = {
     "@context": "https://schema.org",
@@ -228,6 +239,21 @@ export default async function ProductoPage({ params }: Props) {
       >
         {dict["producto.verPrecioActual"]}
       </a>
+
+      {articulosRelacionados.length > 0 && (
+        <section className="mt-10 border-t border-line-dim/40 pt-8">
+          <h2 className="text-lg font-bold text-text-light">{dict["producto.articulosRelacionados"]}</h2>
+          <ul className="mt-2 space-y-2 text-sm leading-relaxed">
+            {articulosRelacionados.map((a) => (
+              <li key={a.slug}>
+                <Link href={withLocale(`/articulos/${a.slug}`, locale)} className="text-line hover:underline">
+                  {a.titulo}
+                </Link>
+              </li>
+            ))}
+          </ul>
+        </section>
+      )}
 
       <GlosarioDeCampo producto={producto} locale={locale} />
     </div>

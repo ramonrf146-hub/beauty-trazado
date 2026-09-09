@@ -187,6 +187,8 @@ const es = {
   "articulo.productosRelacionados": "Productos relacionados",
   "articulo.verRankingCompleto": "Ver ranking completo →",
 
+  "producto.articulosRelacionados": "Guías relacionadas",
+
   "categoria.rankingDelMes": "Ranking del mes",
   "categoria.sinProductos": "Aún no hay productos rankeados en esta categoría.",
   "categoria.guiaDeCompra": "Guía de compra",
@@ -341,6 +343,8 @@ const en: Dictionary = {
 
   "articulo.productosRelacionados": "Related products",
   "articulo.verRankingCompleto": "See full ranking →",
+
+  "producto.articulosRelacionados": "Related guides",
 
   "categoria.rankingDelMes": "This month's ranking",
   "categoria.sinProductos": "No products ranked in this category yet.",
