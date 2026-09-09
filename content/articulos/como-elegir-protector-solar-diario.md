@@ -9,7 +9,7 @@ El mejor protector solar no es el de mayor SPF — es el que realmente te vas a 
 
 ## 1. SPF: la diferencia entre 30, 50 y 60 es más chica de lo que parece
 
-SPF 30 filtra cerca del 97% de los rayos UVB. SPF 50 filtra cerca del 98%. SPF 60 no llega mucho más lejos. La diferencia real en protección entre esos números es marginal — lo que sí importa mucho más es reaplicar cada 2 horas de exposición directa, algo que casi nadie hace.
+SPF 30 filtra cerca del 97% de los rayos UVB. SPF 50 filtra cerca del 98%. SPF 60 no llega mucho más lejos. La diferencia real en protección entre esos números es marginal — lo que sí importa mucho más es reaplicar cada 2 horas de exposición directa, algo que casi nadie hace porque implica arruinar el maquillaje con un protector líquido. El [polvo mineral Hawaiian Tropic con brocha](/productos/B09GXF7KVD) de este ranking resuelve justamente esa fricción — se reaplica directo sobre el maquillaje, aunque como refuerzo del protector de la mañana, no como única protección del día.
 
 ## 2. Amplio espectro no es opcional
 

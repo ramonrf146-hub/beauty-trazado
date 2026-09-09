@@ -9,7 +9,7 @@ The best sunscreen isn't the one with the highest SPF — it's the one you'll ac
 
 ## 1. SPF: the difference between 30, 50, and 60 is smaller than it looks
 
-SPF 30 filters around 97% of UVB rays. SPF 50 filters around 98%. SPF 60 doesn't get much further. The real difference in protection between those numbers is marginal — what matters far more is reapplying every 2 hours of direct exposure, something almost nobody does.
+SPF 30 filters around 97% of UVB rays. SPF 50 filters around 98%. SPF 60 doesn't get much further. The real difference in protection between those numbers is marginal — what matters far more is reapplying every 2 hours of direct exposure, something almost nobody does because it means ruining your makeup with a liquid sunscreen. The [Hawaiian Tropic mineral powder with brush](/en/productos/B09GXF7KVD) in this ranking solves exactly that friction — it reapplies right over makeup, though as a booster on top of the morning's sunscreen, not as the day's only protection.
 
 ## 2. Broad spectrum isn't optional
 

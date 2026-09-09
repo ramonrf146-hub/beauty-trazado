@@ -1678,5 +1678,55 @@
       "Mattifying",
       "Setting"
     ]
+  },
+  {
+    "asin": "B09GXF7KVD",
+    "nombre": "Hawaiian Tropic Polvo Mineral SPF 30 con Brocha (Reaplicación sobre Maquillaje)",
+    "categoria": "proteccion-solar",
+    "precio": 15.99,
+    "moneda": "USD",
+    "imagen": "https://m.media-amazon.com/images/I/61PpnlbEGFL._SY355_.jpg",
+    "rating": 4.2,
+    "numResenas": 6966,
+    "ranking": 4,
+    "notaTecnica": "Polvo mineral con brocha incorporada, pensado específicamente para reaplicar protector solar sobre el maquillaje ya puesto — la guía de protección solar de este catálogo señala que reaplicar cada 2 horas \"es algo que casi nadie hace\", y este producto existe justamente para bajar esa fricción. Marca reconocida (Hawaiian Tropic), 8.000+ compras el último mes. Limitación real de todo el formato polvo: para llegar al SPF que dice la etiqueta hace falta aplicar bastante más producto del que la mayoría usa con la brocha — funciona mejor como refuerzo de una base ya aplicada a la mañana, no como única protección del día.",
+    "idealPara": "Reaplicar protección solar durante el día sin arruinar el maquillaje — no reemplaza el protector líquido o crema de la mañana, lo refuerza.",
+    "guiaCompra": {
+      "queEsYParaQueSirve": "Es un polvo mineral (óxido de zinc) con una brocha incorporada en la tapa — se aplica directo sobre el maquillaje ya puesto, a diferencia de un protector líquido o crema que arruinaría la base o el corrector si se reaplica encima.",
+      "ejemploHogar": "Lo llevás en la cartera y te lo pasás por la cara al mediodía o después de comer afuera, sin necesitar espejo grande ni desarmar el maquillaje para reaplicar.",
+      "ejemploNegocio": "Una esteticista lo recomienda a clientas que preguntan cómo reaplicar protector solar en la oficina sin verse \"recién maquilladas\" de nuevo cada vez.",
+      "puntosClave": [
+        "Para alcanzar el SPF 30 que indica la etiqueta hace falta aplicar más cantidad de la que la mayoría usa con la brocha — es un refuerzo real, pero no reemplaza un protector líquido bien aplicado a la mañana.",
+        "Formato de viaje (0.15oz) — pensado para llevar encima, no como el frasco principal de la rutina.",
+        "Acabado translúcido mate — no dejan tono blanco ni corta el maquillaje como puede pasar con un protector líquido reaplicado sobre base."
+      ],
+      "consejoInversion": "A $15.99 no reemplaza a ninguno de los protectores líquidos de este catálogo — es el complemento que resuelve el problema real de reaplicar sin arruinar el maquillaje, algo que ningún protector tradicional de este ranking resuelve bien."
+    },
+    "tags": [
+      "Reaplicación",
+      "Polvo mineral",
+      "Con brocha"
+    ],
+    "urlAfiliado": "https://www.amazon.com/dp/B09GXF7KVD?tag=beautylab02-20",
+    "actualizadoEn": "2026-09-08",
+    "nombreEn": "Hawaiian Tropic Mineral Powder SPF 30 Brush (Reapply Over Makeup)",
+    "notaTecnicaEn": "A mineral powder with a built-in brush, made specifically for reapplying sunscreen over makeup that's already on — this catalog's sunscreen guide notes that reapplying every 2 hours \"is something almost nobody does,\" and this product exists to lower that friction. Recognized brand (Hawaiian Tropic), 8,000+ bought in the past month. Real limitation of the powder format in general: reaching the SPF stated on the label requires applying a lot more product than most people use with the brush — it works best as a booster on top of a sunscreen already applied in the morning, not as the day's only protection.",
+    "idealParaEn": "Reapplying sun protection during the day without ruining your makeup — it doesn't replace the morning's liquid or cream sunscreen, it reinforces it.",
+    "guiaCompraEn": {
+      "queEsYParaQueSirve": "It's a mineral (zinc oxide) powder with a brush built into the cap — you apply it directly over makeup that's already on, unlike a liquid or cream sunscreen, which would ruin your foundation or concealer if reapplied on top.",
+      "ejemploHogar": "You carry it in your bag and brush it on at midday or after eating outside, without needing a big mirror or taking your makeup apart to reapply.",
+      "ejemploNegocio": "An esthetician recommends it to clients who ask how to reapply sunscreen at the office without looking \"freshly made-up\" all over again each time.",
+      "puntosClave": [
+        "To reach the SPF 30 stated on the label you need to apply more product than most people use with the brush — it's a real booster, but it doesn't replace a well-applied liquid sunscreen in the morning.",
+        "Travel size (0.15oz) — built to carry with you, not as the main bottle of your routine.",
+        "Translucent matte finish — it doesn't leave a white cast or disrupt makeup the way reapplying a liquid sunscreen over foundation can."
+      ],
+      "consejoInversion": "At $15.99 it doesn't replace any of the liquid sunscreens in this catalog — it's the complement that solves the real problem of reapplying without ruining makeup, something none of the traditional sunscreens in this ranking solve well."
+    },
+    "tagsEn": [
+      "Reapplication",
+      "Mineral powder",
+      "Built-in brush"
+    ]
   }
 ]
