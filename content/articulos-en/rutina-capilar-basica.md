@@ -29,6 +29,12 @@ This is where accumulated damage gets repaired, not where day-to-day maintenance
 
 This step is applied to **wet** hair, **before** any heat tool — using it afterward protects nothing. The [Olaplex N°.7 Bonding Hair Oil](/en/productos/B07VR1NDSQ) in this ranking protects up to 450°F and adds shine too.
 
+That protectant matters even more when the "heat tool" in question is the [TYMO Hair Straightener Brush Ionic Plus](/en/productos/B0BL34CGLM), the straightening brush that went viral on TikTok and just joined this ranking: it combines combing and straightening in one step (no clamping section by section like a traditional flat iron), but that doesn't make it any gentler on your hair — the Olaplex oil is still the required step before, not an optional extra. With 16 heat settings and bristles spaced for thick or curly hair, it's a faster everyday alternative to a flat iron, not a replacement for the weekly treatment in Step 3.
+
+<div class="not-prose my-6 overflow-hidden rounded-2xl border border-line-dim" style="aspect-ratio:16/9">
+<iframe width="100%" height="100%" src="https://www.youtube-nocookie.com/embed/1zUTOtMLk8Q" title="How do we feel about Hair Straightening Brushes??? | TYMO Ionic Plus Review — Bethany Robertson" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
 ## Step 5: Frizz and shine (on wet or dry hair, as a finishing touch)
 
 The [Garnier Fructis Anti-Frizz Serum](/en/productos/B006J44BSI) in this ranking seals the cuticle to control frizz in humid climates — used in minimal drops, too much weighs hair down.

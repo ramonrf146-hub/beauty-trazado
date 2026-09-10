@@ -29,6 +29,12 @@ Acá es donde se repara el daño acumulado, no donde se mantiene el día a día.
 
 Este paso se aplica en cabello **mojado, antes** de cualquier herramienta de calor — usarlo después no protege nada. El [Olaplex N°.7 Bonding Hair Oil](/productos/B07VR1NDSQ) de este ranking protege hasta 450°F y además da brillo.
 
+Ese protector cobra más sentido todavía si la "herramienta de calor" en cuestión es el [TYMO Hair Straightener Brush Ionic Plus](/productos/B0BL34CGLM), el cepillo alisador que se volvió viral en TikTok y que acaba de sumarse a este ranking: combina cepillado y alisado en un solo paso (sin mechón por mechón como una plancha plana tradicional), pero eso no lo exime de dañar el pelo con el calor — el Olaplex sigue siendo el paso obligatorio antes, no un "por si acaso". Con 16 niveles de temperatura y cerdas espaciadas para pelo grueso o rizado, es una alternativa más rápida a la plancha plana para el día a día, no un reemplazo del tratamiento semanal del Paso 3.
+
+<div class="not-prose my-6 overflow-hidden rounded-2xl border border-line-dim" style="aspect-ratio:16/9">
+<iframe width="100%" height="100%" src="https://www.youtube-nocookie.com/embed/1zUTOtMLk8Q" title="How do we feel about Hair Straightening Brushes??? | TYMO Ionic Plus Review — Bethany Robertson" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
 ## Paso 5: Frizz y brillo (en cabello húmedo o seco, como toque final)
 
 El [Garnier Fructis Anti-Frizz Serum](/productos/B006J44BSI) de este ranking sella la cutícula para controlar el encrespamiento en climas húmedos — se usa en gotas mínimas, el exceso apelmaza.
