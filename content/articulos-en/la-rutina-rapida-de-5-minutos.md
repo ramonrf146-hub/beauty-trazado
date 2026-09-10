@@ -35,6 +35,7 @@ The [e.l.f. Glow Reviver Lip Oil](/en/productos/B0DFMX8YWJ) gives color adapted 
 
 This 4-step routine is the base — but a few products add real value without adding more than a minute:
 
+- **If there's no sink nearby (travel, the gym)**: the [Neutrogena Micellar Makeup Remover Wipes](/en/productos/B00U2VQZDS) replace step 1 with no water needed — they don't clean as thoroughly as the CeraVe with water, but they solve the day you have nowhere to wash up.
 - **Before the cleanser, a concealer**: the [Maybelline Instant Age Rewind](/en/productos/B004Y9GTOO) covers dark circles in 15 seconds with a sponge-tip applicator, no extra brushes needed.
 - **After the concealer, a hint of color**: the [e.l.f. Sheer For It Blush Tint](/en/productos/B0GVG4S4X9) applies with your fingers on your cheeks in seconds, without adding the brush step of a traditional blush.
 - **If you notice your makeup shifting by mid-morning**: the [Maybelline Fit Me Translucent Pressed Powder](/en/productos/B00PFCSNWA) sets your concealer and blush without adding extra color — a maintenance step, not mandatory in the base routine.

@@ -35,6 +35,7 @@ El [e.l.f. Glow Reviver Lip Oil](/productos/B0DFMX8YWJ) da color adaptado al ton
 
 Esta rutina de 4 pasos es la base — pero hay algunos productos que suman valor real sin agregar más de un minuto:
 
+- **Si no tenés pileta cerca (viaje, gimnasio)**: las [toallitas desmaquillantes Neutrogena](/productos/B00U2VQZDS) reemplazan el paso 1 sin necesitar agua — no limpian tan a fondo como el CeraVe con agua, pero resuelven el día que no tenés dónde lavarte.
 - **Antes del limpiador, un corrector**: el [Maybelline Instant Age Rewind](/productos/B004Y9GTOO) cubre ojeras en 15 segundos con un aplicador tipo esponja, sin necesitar brochas extra.
 - **Después del corrector, un toque de color**: el [e.l.f. Sheer For It Blush Tint](/productos/B0GVG4S4X9) se aplica con los dedos sobre las mejillas en segundos, sin sumar el paso de brocha de un blush tradicional.
 - **Si notás que el maquillaje se corre a media mañana**: el [Maybelline Fit Me Polvo Compacto Translúcido](/productos/B00PFCSNWA) fija el corrector y el blush sin agregar color extra — es un paso de mantenimiento, no obligatorio en la rutina base.
