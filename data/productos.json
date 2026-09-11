@@ -1880,5 +1880,56 @@
       "Micellar",
       "Alcohol-free"
     ]
+  },
+  {
+    "asin": "B07N7PK9QK",
+    "nombre": "Mielle Organics Rosemary Mint Scalp & Hair Strengthening Oil — Aceite de Romero con Biotina",
+    "categoria": "cuidado-capilar",
+    "precio": 8.97,
+    "moneda": "USD",
+    "imagen": "https://m.media-amazon.com/images/I/61JBgQvsWtL._SY355_.jpg",
+    "rating": 4.5,
+    "numResenas": 122053,
+    "ranking": 8,
+    "notaTecnica": "Es el aceite capilar más viral de TikTok bajo el hashtag #rosemaryoilforhair (miles de millones de vistas acumuladas) — a diferencia del Olaplex N°.7 de este ranking, que protege del calor de planchas y secadores, este es un aceite pre-lavado para el cuero cabelludo, sin tecnología 'bonding' ni función de brillo. Con aceite de romero, menta y biotina, tiene más de 122.000 reseñas y 4.5 estrellas — más de 60.000 compras el mes pasado. Para ser honestos: la evidencia científica es preliminar (estudios chicos comparándolo con minoxidil, no concluyentes), y en 2023-2024 hubo un caso viral en TikTok donde varias personas reportaron pérdida de cabello tras uso muy frecuente — dermatólogos lo atribuyeron a dermatitis de contacto irritativa o alérgica por los aceites esenciales (romero, menta) en cuero cabelludo sensible, no a un defecto del producto en sí. Como con cualquier aceite esencial, conviene probarlo primero en una zona chica.",
+    "idealPara": "Quien quiere sumar un ritual de masaje y cuidado del cuero cabelludo antes del lavado — no es un tratamiento médico contra la caída de cabello con evidencia fuerte, es un complemento de bajo costo con evidencia preliminar.",
+    "guiaCompra": {
+      "queEsYParaQueSirve": "Es un aceite que se aplica ANTES de lavarte el pelo (no después, no como leave-in) con romero, menta y biotina — la idea es masajearlo en el cuero cabelludo para estimular la circulación de esa zona, algo parecido a cómo un masaje ayuda a relajar un músculo, y dejarlo actuar antes de lavar con shampoo normal.",
+      "ejemploHogar": "Un par de veces por semana, te lo aplicás directo en el cuero cabelludo con las yemas de los dedos, masajeás 2-3 minutos repartiendo por toda la cabeza, y lo dejás actuar 15-30 minutos (o toda la noche con una toalla) antes de lavar con el shampoo de este ranking.",
+      "ejemploNegocio": "Una peluquería lo puede ofrecer como paso de 'scalp treatment' previo al lavado, sumando el masaje como un momento de spa antes del corte o peinado — un servicio de bajo costo que suma valor percibido sin equipo especial.",
+      "puntosClave": [
+        "No es un tratamiento médico contra la caída de cabello — la evidencia es preliminar (estudios chicos), no reemplaza un diagnóstico ni tratamiento dermatológico si la caída es real y notoria.",
+        "Contiene aceites esenciales (romero, menta) que en cuero cabelludo sensible pueden generar irritación o dermatitis de contacto con uso muy frecuente — probalo primero en una zona chica antes de aplicarlo en toda la cabeza, y espaciá las aplicaciones si notás picazón o ardor.",
+        "Es pre-lavado, no leave-in — se aplica antes de meterte a la ducha, no como toque final en cabello seco (para eso, el Olaplex N°.7 o el serum anti-frizz de Garnier de este ranking cumplen esa función)."
+      ],
+      "consejoInversion": "A menos de $9 por un frasco que rinde meses de uso, es de las formas más baratas de sumar el ritual de masaje capilar a la rutina — pero justamente por ese precio bajo, no tiene sentido esperar un resultado tipo tratamiento dermatológico: es un complemento de bajo riesgo si tu cuero cabelludo lo tolera bien, no un sustituto de minoxidil si la caída de cabello es un problema médico real que ya estás tratando con un profesional."
+    },
+    "tags": [
+      "Aceite de romero",
+      "Pre-lavado",
+      "Cuero cabelludo"
+    ],
+    "urlAfiliado": "https://www.amazon.com/dp/B07N7PK9QK?tag=beautylab02-20",
+    "actualizadoEn": "2026-09-11",
+    "activo": true,
+    "nombreEn": "Mielle Organics Rosemary Mint Scalp & Hair Strengthening Oil — Rosemary Hair Oil with Biotin",
+    "notaTecnicaEn": "It's the most viral hair oil on TikTok under the #rosemaryoilforhair hashtag (billions of cumulative views) — unlike the Olaplex N°.7 in this ranking, which protects hair from flat-iron and blow-dryer heat, this is a pre-wash scalp oil with no bonding technology or shine function. With rosemary oil, mint, and biotin, it has over 122,000 reviews and 4.5 stars — over 60,000 bought last month. To be upfront: the scientific evidence is preliminary (small, inconclusive studies comparing it to minoxidil), and in 2023-2024 there was a viral TikTok controversy where several people reported hair loss after very frequent use — dermatologists attributed it to irritant or allergic contact dermatitis from the essential oils (rosemary, mint) on sensitive scalps, not a defect in the product itself. As with any essential oil, patch-test a small area first.",
+    "idealParaEn": "Anyone who wants to add a scalp massage and care ritual before washing — it's not a medical treatment for hair loss with strong evidence behind it, it's a low-cost complement with preliminary evidence.",
+    "guiaCompraEn": {
+      "queEsYParaQueSirve": "It's an oil applied BEFORE you wash your hair (not after, not as a leave-in) with rosemary, mint, and biotin — the idea is to massage it into the scalp to stimulate circulation in that area, similar to how a massage helps relax a muscle, and let it sit before washing with regular shampoo.",
+      "ejemploHogar": "A couple of times a week, you apply it directly to your scalp with your fingertips, massage for 2-3 minutes across your whole head, and let it sit for 15-30 minutes (or overnight under a towel) before washing with the shampoo in this ranking.",
+      "ejemploNegocio": "A salon can offer it as a pre-wash 'scalp treatment' step, adding the massage as a spa-like moment before a cut or blowout — a low-cost service that adds perceived value without special equipment.",
+      "puntosClave": [
+        "It's not a medical hair-loss treatment — the evidence is preliminary (small studies), it doesn't replace a dermatological diagnosis or treatment if hair loss is real and noticeable.",
+        "It contains essential oils (rosemary, mint) that can cause irritation or contact dermatitis on sensitive scalps with very frequent use — patch-test a small area first before applying it to your whole scalp, and space out applications if you notice itching or burning.",
+        "It's pre-wash, not leave-in — it's applied before you shower, not as a finishing touch on dry hair (for that, the Olaplex N°.7 or Garnier anti-frizz serum in this ranking do that job)."
+      ],
+      "consejoInversion": "At under $9 for a bottle that lasts months, it's one of the cheapest ways to add a scalp-massage ritual to your routine — but precisely because it's so cheap, it's not worth expecting a dermatological-treatment-level result: it's a low-risk complement if your scalp tolerates it well, not a substitute for minoxidil if hair loss is a real medical issue you're already treating with a professional."
+    },
+    "tagsEn": [
+      "Rosemary oil",
+      "Pre-wash",
+      "Scalp care"
+    ]
   }
 ]

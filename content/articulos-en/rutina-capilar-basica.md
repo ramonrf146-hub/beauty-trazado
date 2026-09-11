@@ -11,6 +11,18 @@ Unlike a skincare routine (where order gets debated a lot), the most common mist
 <iframe width="100%" height="100%" src="https://www.youtube-nocookie.com/embed/BP9F-yiFsx4" title="How to Build a Haircare Routine That WORKS — Abbey Yung" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
+## Step 0: Before you wash (optional, not a required step)
+
+This step isn't required like the next six, but it's the one that went most viral on TikTok in recent years under the #rosemaryoilforhair hashtag: an oil massaged into the scalp **before** you get in the shower, not after.
+
+The [Mielle Organics Rosemary Mint Scalp & Hair Strengthening Oil](/en/productos/B07N7PK9QK) is the most-reviewed product in this category (122,000+ reviews, 4.5 stars) — with rosemary, mint, and biotin, you massage it into your scalp for 2-3 minutes and let it sit before washing with the shampoo from Step 1. To set the right expectations (and be upfront about the other side of the virality): the scientific evidence is still preliminary, and in 2023-2024 a viral TikTok video sparked a wave of hair-loss reports from very frequent use, which dermatologists attributed to irritation from the essential oils on sensitive scalps, not a flaw in the product itself. That's why it's worth patch-testing a small area first, as with any new essential oil.
+
+<div class="not-prose my-6 overflow-hidden rounded-2xl border border-line-dim" style="aspect-ratio:16/9">
+<iframe width="100%" height="100%" src="https://www.youtube-nocookie.com/embed/mzHMXQ96ZIs" title="Rosemary Oil for Hair Growth: Does It Actually Work? (Derm Explains) — Dr. Jenny Liu" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
+Dermatologist Dr. Jenny Liu makes exactly the middle-ground point we're going for here: there are real signals behind rosemary oil, but it's not a substitute for medical treatment if hair loss is already a noticeable problem.
+
 ## Step 1: Cleansing (every wash)
 
 If you have dandruff or an itchy scalp, don't use a generic shampoo — you need a real active ingredient. The [CeraVe 2-in-1 Dandruff Shampoo & Conditioner](/en/productos/B0DV44KXW4) in this ranking has 1% pyrithione zinc, and already comes with conditioner included.
@@ -49,7 +61,7 @@ None of these steps replaces another, but you also don't need to use all of them
 
 - **Every day:** cleansing + conditioning (steps 1-2)
 - **Before heat:** heat protection (step 4)
-- **1-2 times a week:** deep treatment (step 3)
+- **1-2 times a week:** deep treatment (step 3) or the optional pre-wash oil (step 0) — not necessarily the same day
 - **When needed:** frizz control (step 5) or dry shampoo between washes (step 6)
 
 ## Our pick this month
@@ -63,3 +75,6 @@ Yes — the 2-in-1 shampoo already includes conditioner, but if your scalp ends 
 
 **Does the heat-protecting oil replace the anti-frizz serum?**
 Not entirely — the oil prioritizes heat protection and shine, the serum prioritizes frizz control in humid climates. You can use both: the oil before heat, the serum as a finishing touch.
+
+**Is the pre-wash rosemary oil safe for everyone?**
+For most people, yes, used 1-2 times a week. But if you have a sensitive scalp or notice itching, burning, or irritation, space out applications or stop using it — the viral 2023-2024 case that linked this type of product to hair loss was explained by contact dermatitis on reactive skin, not a problem with the oil itself. And if your hair loss is a real medical issue, this oil is a complement, not a treatment that replaces a dermatologist.
