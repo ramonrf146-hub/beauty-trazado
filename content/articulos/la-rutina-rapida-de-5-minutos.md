@@ -37,7 +37,7 @@ Esta rutina de 4 pasos es la base — pero hay algunos productos que suman valor
 
 - **Si no tenés pileta cerca (viaje, gimnasio)**: las [toallitas desmaquillantes Neutrogena](/productos/B00U2VQZDS) reemplazan el paso 1 sin necesitar agua — no limpian tan a fondo como el CeraVe con agua, pero resuelven el día que no tenés dónde lavarte.
 - **Antes del limpiador, un corrector**: el [Maybelline Instant Age Rewind](/productos/B004Y9GTOO) cubre ojeras en 15 segundos con un aplicador tipo esponja, sin necesitar brochas extra.
-- **Después del corrector, un toque de color**: el [e.l.f. Sheer For It Blush Tint](/productos/B0GVG4S4X9) se aplica con los dedos sobre las mejillas en segundos, sin sumar el paso de brocha de un blush tradicional.
+- **Después del corrector, un toque de color**: el [e.l.f. Sheer For It Blush Tint](/productos/B0GVG4S4X9) se aplica con los dedos sobre las mejillas en segundos, sin sumar el paso de brocha de un blush tradicional. Si buscás algo más pigmentado y de mayor duración (y no te importa pagar casi 4 veces más), el [Rare Beauty Soft Pinch Liquid Blush](/productos/B08JKTGRGT) — el blush más buscado en TikTok durante tres años seguidos — aguanta 8 a 10 horas sin retoque, pero a cambio hay que difuminarlo en los primeros segundos porque fija mucho más rápido que el tinte de e.l.f.
 - **Si notás que el maquillaje se corre a media mañana**: el [Maybelline Fit Me Polvo Compacto Translúcido](/productos/B00PFCSNWA) fija el corrector y el blush sin agregar color extra — es un paso de mantenimiento, no obligatorio en la rutina base.
 - **Entre el limpiador y el protector solar, un serum**: el [CeraVe Hyaluronic Acid Serum](/productos/B07K3261ZD) suma hidratación profunda si tu piel es especialmente seca, o el [The Ordinary Niacinamide 10% + Zinc 1%](/productos/B01MDTVZTZ) si tu piel es mixta a grasa y buscás afinar poros en vez de hidratar más.
 - **A la noche, un tratamiento labial**: la [LANEIGE Lip Sleeping Mask](/productos/B07XXPHQZK) no es para esta rutina de la mañana, pero repara los labios mientras dormís — un buen complemento nocturno al paso 4.
@@ -45,6 +45,19 @@ Esta rutina de 4 pasos es la base — pero hay algunos productos que suman valor
 - **Antes de salir, control de frizz**: el [Garnier Fructis Anti-Frizz Serum](/productos/B006J44BSI) son un par de gotas de más antes de peinar, si tu pelo se encrespa con la humedad.
 
 Si tu piel es seca todo el año, también podés reemplazar cualquier hidratante genérico por el [CeraVe Moisturizing Cream](/productos/B00TTD9BRC) como paso final antes de salir.
+
+La propia marca del [Rare Beauty Soft Pinch Liquid Blush](/productos/B08JKTGRGT) muestra en este video oficial de TikTok por qué conviene usar poca cantidad por vez — la fórmula rinde mucho más de lo que parece a primera vista:
+
+<div class="not-prose my-6 flex justify-center">
+<blockquote class="tiktok-embed" cite="https://www.tiktok.com/@rarebeauty/video/7497666450568580394" data-video-id="7497666450568580394" data-embed-from="oembed" style="max-width:605px; min-width:325px;">
+  <section>
+    <a target="_blank" title="@rarebeauty" href="https://www.tiktok.com/@rarebeauty?refer=embed">@rarebeauty</a>
+    <p>Soft Pinch Liquid Blush hates to see me coming… #rarebeauty #softpinch #rarebeautyblush #liquidblush #emptyrarebeautyblush #empties</p>
+    <a target="_blank" title="♬ original sound - Kariana Hanken" href="https://www.tiktok.com/music/original-sound-7281761620555025198?refer=embed">♬ original sound - Kariana Hanken</a>
+  </section>
+</blockquote>
+<script async src="https://www.tiktok.com/embed.js"></script>
+</div>
 
 ## Por qué esta rutina y no otra más larga
 

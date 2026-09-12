@@ -37,7 +37,7 @@ This 4-step routine is the base — but a few products add real value without ad
 
 - **If there's no sink nearby (travel, the gym)**: the [Neutrogena Micellar Makeup Remover Wipes](/en/productos/B00U2VQZDS) replace step 1 with no water needed — they don't clean as thoroughly as the CeraVe with water, but they solve the day you have nowhere to wash up.
 - **Before the cleanser, a concealer**: the [Maybelline Instant Age Rewind](/en/productos/B004Y9GTOO) covers dark circles in 15 seconds with a sponge-tip applicator, no extra brushes needed.
-- **After the concealer, a hint of color**: the [e.l.f. Sheer For It Blush Tint](/en/productos/B0GVG4S4X9) applies with your fingers on your cheeks in seconds, without adding the brush step of a traditional blush.
+- **After the concealer, a hint of color**: the [e.l.f. Sheer For It Blush Tint](/en/productos/B0GVG4S4X9) applies with your fingers on your cheeks in seconds, without adding the brush step of a traditional blush. If you want something more pigmented and longer-wearing (and don't mind paying almost 4 times more), the [Rare Beauty Soft Pinch Liquid Blush](/en/productos/B08JKTGRGT) — TikTok's most-searched blush for three years running — holds for 8 to 10 hours without a touch-up, but you have to blend it within seconds since it sets much faster than the e.l.f. tint.
 - **If you notice your makeup shifting by mid-morning**: the [Maybelline Fit Me Translucent Pressed Powder](/en/productos/B00PFCSNWA) sets your concealer and blush without adding extra color — a maintenance step, not mandatory in the base routine.
 - **Between cleanser and sunscreen, a serum**: the [CeraVe Hyaluronic Acid Serum](/en/productos/B07K3261ZD) adds deep hydration if your skin is especially dry, or [The Ordinary Niacinamide 10% + Zinc 1%](/en/productos/B01MDTVZTZ) if your skin is combination to oily and you want to refine pores instead of adding more hydration.
 - **At night, a lip treatment**: the [LANEIGE Lip Sleeping Mask](/en/productos/B07XXPHQZK) isn't for this morning routine, but it repairs lips while you sleep — a good nighttime complement to step 4.
@@ -45,6 +45,19 @@ This 4-step routine is the base — but a few products add real value without ad
 - **Before heading out, frizz control**: the [Garnier Fructis Anti-Frizz Serum](/en/productos/B006J44BSI) is a couple extra drops before styling, if your hair frizzes with humidity.
 
 If your skin is dry year-round, you can also swap any generic moisturizer for the [CeraVe Moisturizing Cream](/en/productos/B00TTD9BRC) as a final step before heading out.
+
+Rare Beauty's own brand account shows in this official TikTok video why a small amount of [Soft Pinch Liquid Blush](/en/productos/B08JKTGRGT) goes further than it looks at first:
+
+<div class="not-prose my-6 flex justify-center">
+<blockquote class="tiktok-embed" cite="https://www.tiktok.com/@rarebeauty/video/7497666450568580394" data-video-id="7497666450568580394" data-embed-from="oembed" style="max-width:605px; min-width:325px;">
+  <section>
+    <a target="_blank" title="@rarebeauty" href="https://www.tiktok.com/@rarebeauty?refer=embed">@rarebeauty</a>
+    <p>Soft Pinch Liquid Blush hates to see me coming… #rarebeauty #softpinch #rarebeautyblush #liquidblush #emptyrarebeautyblush #empties</p>
+    <a target="_blank" title="♬ original sound - Kariana Hanken" href="https://www.tiktok.com/music/original-sound-7281761620555025198?refer=embed">♬ original sound - Kariana Hanken</a>
+  </section>
+</blockquote>
+<script async src="https://www.tiktok.com/embed.js"></script>
+</div>
 
 ## Why this routine and not a longer one
 
