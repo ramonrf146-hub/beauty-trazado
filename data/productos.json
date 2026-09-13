@@ -2138,5 +2138,57 @@
       "Rogaine",
       "active treatment"
     ]
+  },
+  {
+    "asin": "B074Y8LM6T",
+    "nombre": "NYX Professional Makeup Epic Ink Liner — Delineador Líquido Negro",
+    "categoria": "maquillaje",
+    "precio": 9.99,
+    "moneda": "USD",
+    "imagen": "https://m.media-amazon.com/images/I/617F0F8N5UL._SY355_.jpg",
+    "rating": 4.5,
+    "numResenas": 107779,
+    "ranking": 7,
+    "notaTecnica": "Cubre un hueco real de este catálogo: hasta ahora había máscara de pestañas y gel de cejas, pero ningún delineador de ojos. Fórmula vegana con pincel de punta fina, pensada para trazos precisos incluso para principiantes. 'Overall Pick' de Amazon, 40.000+ comprados el último mes, 107.000+ reseñas — uno de los productos más vendidos de todo este catálogo. Limitación real, según el resumen de reseñas de Amazon: aunque se vende como waterproof y smudge-proof, la duración es un aspecto mixto — varios compradores reportan que no aguanta todo el día y se corre, mientras que otros confirman que dura sin mancharse.",
+    "idealPara": "Delinear los ojos con un trazo preciso, tipo winged eyeliner, incluyendo quienes recién empiezan a maquillarse.",
+    "guiaCompra": {
+      "queEsYParaQueSirve": "Un delineador líquido de fórmula vegana con pincel de punta fina, para trazar una línea precisa sobre el párpado, con acabado waterproof.",
+      "ejemploHogar": "Una rutina de maquillaje diaria o para ocasiones especiales donde se busca un trazo definido en el ojo, desde una línea fina hasta un winged eyeliner completo.",
+      "ejemploNegocio": "No aplica — este es un producto de cuidado personal individual, no de uso comercial.",
+      "puntosClave": [
+        "Pincel de punta fina pensado para principiantes — permite corregir el trazo antes de que segue del todo.",
+        "Fórmula vegana, sin ingredientes de origen animal.",
+        "Duración mixta según reseñas reales: aunque se anuncia waterproof/smudge-proof, algunos usuarios reportan que se corre antes de cumplir el día completo — vale la pena setear con polvo translúcido si tu piel es grasa en la zona del ojo."
+      ],
+      "consejoInversion": "A $9.99 es una entrada de bajo riesgo para sumar delineado de ojos a tu rutina — si tu piel del párpado es particularmente grasa y la duración es tu prioridad número uno, conviene sellarlo con un polvo translúcido como el Maybelline Fit Me de este catálogo."
+    },
+    "tags": [
+      "delineador líquido",
+      "waterproof",
+      "NYX",
+      "vegano"
+    ],
+    "urlAfiliado": "https://www.amazon.com/dp/B074Y8LM6T?tag=beautylab02-20",
+    "actualizadoEn": "2026-09-13",
+    "nombreEn": "NYX Professional Makeup Epic Ink Liner — Waterproof Black Liquid Eyeliner",
+    "notaTecnicaEn": "Fills a real gap in this catalog: until now there was mascara and a brow gel, but no eyeliner. Vegan formula with a fine-tip brush built for precise lines, even for beginners. Amazon's 'Overall Pick', 40,000+ bought in the past month, 107,000+ reviews — one of the best-selling products in this entire catalog. Real limitation, per Amazon's review summary: though marketed as waterproof and smudge-proof, longevity is a mixed aspect — several buyers report it doesn't last all day and smears, while others confirm it holds up without smudging.",
+    "idealParaEn": "Lining the eyes with a precise stroke, including winged eyeliner looks, even for people just starting out with makeup.",
+    "guiaCompraEn": {
+      "queEsYParaQueSirve": "A vegan-formula liquid eyeliner with a fine-tip brush, for tracing a precise line along the lid, with a waterproof finish.",
+      "ejemploHogar": "A daily or special-occasion makeup routine where you want a defined eye line, from a thin stroke to a full winged eyeliner look.",
+      "ejemploNegocio": "Not applicable — this is an individual personal-care product, not for commercial use.",
+      "puntosClave": [
+        "Fine-tip brush built for beginners — lets you correct the line before it fully sets.",
+        "Vegan formula, no animal-derived ingredients.",
+        "Mixed longevity per real reviews: though marketed waterproof/smudge-proof, some users report it smears before the day is over — worth setting with a translucent powder if your eyelid area runs oily."
+      ],
+      "consejoInversion": "At $9.99 it's a low-risk way to add eyeliner to your routine — if your eyelid skin runs particularly oily and longevity is your top priority, it's worth sealing it with a translucent powder like this catalog's Maybelline Fit Me."
+    },
+    "tagsEn": [
+      "liquid eyeliner",
+      "waterproof",
+      "NYX",
+      "vegan"
+    ]
   }
 ]
