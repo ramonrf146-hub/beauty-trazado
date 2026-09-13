@@ -11,7 +11,7 @@ The "perfect" 10-step routine you see on social media has one problem: nobody st
 
 A gentle cleanser removes what built up overnight without leaving skin tight — that matters more than any trendy ingredient, because skin left dry by the cleanser will reject everything you put on it afterward.
 
-The [CeraVe Hydrating Facial Cleanser](/en/productos/B01MSSDEPK) is the base of this step: no harsh sulfates, with ceramides that help maintain skin's barrier instead of stripping it.
+The [CeraVe Hydrating Facial Cleanser](/en/productos/B01MSSDEPK) is the base of this step: no harsh sulfates, with ceramides that help maintain skin's barrier instead of stripping it. If your skin is oily or combination rather than dry, the [Cetaphil Daily Facial Cleanser](/en/productos/B09Y4HHY1P) serves the same step with niacinamide to control shine without drying it out — pick one or the other based on your skin type, not both together.
 
 ## Step 2: Protect from the sun (30 seconds)
 

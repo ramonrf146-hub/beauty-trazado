@@ -11,7 +11,7 @@ La rutina "perfecta" de 10 pasos que ves en redes sociales tiene un problema: na
 
 Un limpiador suave retira lo que se acumuló durante la noche sin dejar la piel tirante — eso importa más que cualquier ingrediente de moda, porque una piel reseca por el limpiador va a rechazar todo lo que le pongas después.
 
-El [CeraVe Hydrating Facial Cleanser](/productos/B01MSSDEPK) es la base de este paso: sin sulfatos agresivos, con ceramidas que ayudan a mantener la barrera de la piel en vez de removerla.
+El [CeraVe Hydrating Facial Cleanser](/productos/B01MSSDEPK) es la base de este paso: sin sulfatos agresivos, con ceramidas que ayudan a mantener la barrera de la piel en vez de removerla. Si tu piel es grasa o mixta en vez de seca, el [Cetaphil Limpiador Facial Diario](/productos/B09Y4HHY1P) cumple la misma función de este paso pero con niacinamida para controlar el brillo sin resecar — elegí uno u otro según tu tipo de piel, no los dos juntos.
 
 ## Paso 2: Proteger del sol (30 segundos)
 

@@ -23,6 +23,8 @@ El [Mielle Organics Rosemary Mint Scalp & Hair Strengthening Oil](/productos/B07
 
 La dermatóloga Dr. Jenny Liu explica en este video justo el punto medio que buscamos: hay indicios reales detrás del aceite de romero, pero no es un reemplazo de un tratamiento médico si la caída de cabello ya es un problema notorio.
 
+Si tu situación es justamente esa (una caída de cabello ya notoria, no solo brillo o frizz), el aceite de romero no es la herramienta correcta — buscás un tratamiento activo con respaldo clínico real, no cosmético. El [Women's Rogaine 5% Minoxidil](/productos/B00M6I5SMY) de este ranking es ese otro tipo de producto: minoxidil al 5%, de uso diario sostenido durante meses, con evidencia clínica real detrás (a diferencia del aceite de romero, todavía preliminar). Su calificación de 4.1 estrellas es más baja que el resto de este ranking porque la respuesta al minoxidil varía persona a persona — no es un defecto puntual del producto, es inherente al ingrediente.
+
 ## Paso 1: Limpieza (cada lavado)
 
 Si tenés caspa o picazón en el cuero cabelludo, no uses un shampoo genérico — necesitás un ingrediente activo real. El [CeraVe 2 en 1 Shampoo y Acondicionador Anticaspa](/productos/B0DV44KXW4) de este ranking tiene 1% de piritionato de zinc, y ya viene con acondicionador incluido.

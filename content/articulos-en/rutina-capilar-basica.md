@@ -23,6 +23,8 @@ The [Mielle Organics Rosemary Mint Scalp & Hair Strengthening Oil](/en/productos
 
 Dermatologist Dr. Jenny Liu makes exactly the middle-ground point we're going for here: there are real signals behind rosemary oil, but it's not a substitute for medical treatment if hair loss is already a noticeable problem.
 
+If that's actually your situation (noticeable hair loss, not just shine or frizz), rosemary oil isn't the right tool — you want an active treatment with real clinical backing, not a cosmetic one. This ranking's [Women's Rogaine 5% Minoxidil](/en/productos/B00M6I5SMY) is that other kind of product: 5% minoxidil, used daily over months, with real clinical evidence behind it (unlike rosemary oil, still preliminary). Its 4.1-star rating is lower than the rest of this ranking because response to minoxidil varies person to person — not a specific flaw in the product, it's inherent to the ingredient.
+
 ## Step 1: Cleansing (every wash)
 
 If you have dandruff or an itchy scalp, don't use a generic shampoo — you need a real active ingredient. The [CeraVe 2-in-1 Dandruff Shampoo & Conditioner](/en/productos/B0DV44KXW4) in this ranking has 1% pyrithione zinc, and already comes with conditioner included.
