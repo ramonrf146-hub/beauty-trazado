@@ -23,7 +23,7 @@ El [La Roche-Posay Anthelios Melt-In Milk SPF 60](/productos/B002CML1VG) se apli
 
 Cejas fijas y pestañas con volumen dan un efecto de "cara despierta" sin necesitar una rutina completa de maquillaje encima.
 
-El [NYX The Brow Glue](/productos/B08M58SWB1) peina y fija las cejas en un solo pasaje, y la [Maybelline Sky High](/productos/B08H3JPH74) da volumen a las pestañas sin apelmazar. Los dos productos juntos no llegan a los 2 minutos de aplicación.
+El [NYX The Brow Glue](/productos/B08M58SWB1) peina y fija las cejas en un solo pasaje, y la [Maybelline Sky High](/productos/B08H3JPH74) da volumen a las pestañas sin apelmazar. Los dos productos juntos no llegan a los 2 minutos de aplicación. Si además querés un trazo definido en el ojo, el [NYX Epic Ink Liner](/productos/B074Y8LM6T) de este catálogo agrega delineado preciso en unos segundos más — aunque suma un paso extra a los 5 minutos base, así que dejalo para los días que sí tenés ese margen.
 
 ## Paso 4: Terminar los labios (15 segundos)
 

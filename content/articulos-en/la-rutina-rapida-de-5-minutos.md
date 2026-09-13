@@ -23,7 +23,7 @@ The [La Roche-Posay Anthelios Melt-In Milk SPF 60](/en/productos/B002CML1VG) app
 
 Fixed brows and voluminous lashes give an "awake face" effect without needing a full makeup routine on top.
 
-The [NYX The Brow Glue](/en/productos/B08M58SWB1) combs and fixes brows in one pass, and the [Maybelline Sky High](/en/productos/B08H3JPH74) adds volume to lashes without clumping. Both products together take under 2 minutes to apply.
+The [NYX The Brow Glue](/en/productos/B08M58SWB1) combs and fixes brows in one pass, and the [Maybelline Sky High](/en/productos/B08H3JPH74) adds volume to lashes without clumping. Both products together take under 2 minutes to apply. If you also want a defined eye line, this catalog's [NYX Epic Ink Liner](/en/productos/B074Y8LM6T) adds precise lining in a few more seconds — though it's one extra step beyond the base 5 minutes, so save it for days when you have that extra margin.
 
 ## Step 4: Finish the lips (15 seconds)
 

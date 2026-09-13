@@ -33,17 +33,15 @@ The [LANEIGE Lip Sleeping Mask Berry](/en/productos/B07XXPHQZK) in this ranking 
 
 The most common mistake is using the overnight treatment every single night "just in case" when your lips don't actually need it — it doesn't hurt, but it means spending an intensive treatment product on a problem the basic balm already solves.
 
-## The fourth contender showing up on TikTok (not in this ranking yet)
+## The fourth contender: long-wear "peel-off" color
 
-None of the three products above give long-wear, lipstick-level color — and that's exactly the gap a category that went viral on TikTok through 2025-2026 is filling: the "peel-off lip stain" (peel-off lip tattoo). You apply it like a liner, let it dry 5-7 minutes into a thin film, then peel it off with your fingers, leaving only the pigment bonded to your lips — no greasy or glossy layer coming off with it. The result is color that survives hours of eating and drinking without transferring, which neither the lip oil nor the balm in this ranking claims to do.
+None of the three products above give long-wear, lipstick-level color — and that's exactly the gap a category that went viral on TikTok through 2025-2026 is filling: the "peel-off lip stain" (peel-off lip tattoo). You apply it like a liner, let it dry into a thin film, then peel it off, leaving only the pigment bonded to your lips — no greasy or glossy layer coming off with it. The result is color that survives hours of eating and drinking without transferring, which neither the lip oil nor the balm in this ranking claims to do.
 
-It's a different category from the three above, not a substitute for any of them: it doesn't hydrate like the balm, doesn't add shine like the lip oil, and isn't a repair treatment like the overnight mask. It's simply the "long-wear color" step that doesn't exist in this ranking yet.
+It's a different category from the three above, not a substitute for any of them: it doesn't hydrate like the balm, doesn't add shine like the lip oil, and isn't a repair treatment like the overnight mask. This ranking's [Sacheu Lip Liner STAY-N](/en/productos/B0BVPNQW1C), shade p-INKED, is exactly that "color" step — Amazon's 'Overall Pick', 20,000+ bought in the past month. Real limitation, per reviews: it's more drying on lips than a traditional balm, and some users report teeth staining during application — worth pairing with this ranking's Burt's Bees or LANEIGE as a hydration step before or after, not using it day after day.
 
 <div class="not-prose my-6 overflow-hidden rounded-2xl border border-line-dim" style="aspect-ratio:16/9">
 <iframe width="100%" height="100%" src="https://www.youtube-nocookie.com/embed/U886mWn8O08" title="SACHEU BEAUTY STAY-N PEEL OFF TATTOO LIP LINER REVIEW | First Impression, Tutorial + Wear Test — Sarah Meg" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
-
-We haven't added any product from this category to this ranking yet: as of this writing we couldn't confirm the current price and review standing on Amazon with certainty for the candidates we looked into (Sacheu STAY-N and Wonderskin Wonder Blading are the two names that keep coming up), and this site's rule is not to publish a product listing without that first-hand verified data. We'll add one as soon as we can confirm it.
 
 ## Our pick this month
 
