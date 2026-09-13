@@ -2034,5 +2034,57 @@
       "Cetaphil",
       "fragrance-free"
     ]
+  },
+  {
+    "asin": "B002CML1XE",
+    "nombre": "La Roche-Posay Anthelios Fluido Ultra Ligero SPF 60 — Acabado Mate",
+    "categoria": "proteccion-solar",
+    "precio": 26.99,
+    "moneda": "USD",
+    "imagen": "https://m.media-amazon.com/images/I/61dnHV2LQKL._SX466_.jpg",
+    "rating": 4.6,
+    "numResenas": 8515,
+    "ranking": 5,
+    "notaTecnica": "Misma marca y mismo SPF 60 que el Anthelios Melt-In Milk ya listado en este catálogo, pero con una textura completamente distinta: este es un fluido ultra ligero de acabado mate, libre de aceite, pensado para piel grasa o mixta — el Melt-In Milk, en cambio, es una loción más rica pensada para piel normal a seca. 'Overall Pick' de Amazon, 8.000+ comprados el último mes. Limitación real: por ser acabado mate y oil-free, no aporta la hidratación extra que sí da la versión Melt-In Milk — en piel muy seca puede sentirse insuficiente sin sumar un hidratante aparte.",
+    "idealPara": "Piel grasa o mixta que busca protección solar SPF 60 sin sensación pegajosa ni brillo — ideal para usar bajo maquillaje.",
+    "guiaCompra": {
+      "queEsYParaQueSirve": "Un protector solar facial en fluido ultra ligero, libre de aceite y con acabado mate, con SPF 60 de amplio espectro y tecnología Cell-Ox Shield con antioxidantes.",
+      "ejemploHogar": "Aplicación diaria antes de salir, en piel grasa o mixta que no quiere sumar brillo extra al protector solar, o como base antes del maquillaje.",
+      "ejemploNegocio": "No aplica — este es un producto de cuidado personal individual, no de uso comercial.",
+      "puntosClave": [
+        "Acabado mate y libre de aceite — distinto a la textura tipo loción del Anthelios Melt-In Milk ya listado en este catálogo.",
+        "Libre de oxybenzone y octinoxato, no comedogénico — apto bajo maquillaje sin obstruir poros.",
+        "Resistente al agua 80 minutos — aplicar 15 minutos antes de la exposición solar y reaplicar cada 2 horas."
+      ],
+      "consejoInversion": "Si tu piel es grasa o mixta y no querés sensación pegajosa, este fluido es la opción correcta de las dos versiones Anthelios de este catálogo. Si tu piel es normal a seca y buscás más hidratación en el mismo paso, el Melt-In Milk de este catálogo cumple mejor esa función."
+    },
+    "tags": [
+      "SPF 60",
+      "acabado mate",
+      "libre de aceite",
+      "La Roche-Posay"
+    ],
+    "urlAfiliado": "https://www.amazon.com/dp/B002CML1XE?tag=beautylab02-20",
+    "actualizadoEn": "2026-09-13",
+    "nombreEn": "La Roche-Posay Anthelios Ultra Light Fluid SPF 60 — Matte Finish",
+    "notaTecnicaEn": "Same brand and same SPF 60 as this catalog's Anthelios Melt-In Milk, but a completely different texture: this is an ultra-light, oil-free fluid with a matte finish, built for oily or combination skin — the Melt-In Milk, by contrast, is a richer lotion built for normal-to-dry skin. Amazon's 'Overall Pick', 8,000+ bought in the past month. Real limitation: being matte and oil-free, it doesn't provide the extra hydration the Melt-In Milk version does — on very dry skin it can feel insufficient without adding a separate moisturizer.",
+    "idealParaEn": "Oily or combination skin looking for SPF 60 sun protection without a sticky feel or shine — good to wear under makeup.",
+    "guiaCompraEn": {
+      "queEsYParaQueSirve": "An ultra-light, oil-free facial sunscreen fluid with a matte finish, broad-spectrum SPF 60, and Cell-Ox Shield technology with antioxidants.",
+      "ejemploHogar": "Daily application before heading out, on oily or combination skin that doesn't want extra shine from sunscreen, or as a base before makeup.",
+      "ejemploNegocio": "Not applicable — this is an individual personal-care product, not for commercial use.",
+      "puntosClave": [
+        "Matte, oil-free finish — different from the lotion-like texture of this catalog's Anthelios Melt-In Milk.",
+        "Free of oxybenzone and octinoxate, non-comedogenic — safe to wear under makeup without clogging pores.",
+        "80-minute water resistance — apply 15 minutes before sun exposure and reapply every 2 hours."
+      ],
+      "consejoInversion": "If your skin is oily or combination and you don't want a sticky feel, this fluid is the right pick between this catalog's two Anthelios versions. If your skin is normal to dry and you want extra hydration in the same step, this catalog's Melt-In Milk serves that better."
+    },
+    "tagsEn": [
+      "SPF 60",
+      "matte finish",
+      "oil-free",
+      "La Roche-Posay"
+    ]
   }
 ]
