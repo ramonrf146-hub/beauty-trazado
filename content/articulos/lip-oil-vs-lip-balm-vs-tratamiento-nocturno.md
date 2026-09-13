@@ -33,6 +33,18 @@ El [LANEIGE Lip Sleeping Mask Berry](/productos/B07XXPHQZK) de este ranking llev
 
 El error más común es usar el tratamiento nocturno todas las noches "por las dudas" cuando el labio no lo necesita — no hace daño, pero es gastar un producto de tratamiento intensivo en un problema que el balm básico ya resuelve.
 
+## El cuarto contendiente que está apareciendo en TikTok (todavía no en este ranking)
+
+Ninguno de los tres productos de arriba da color de larga duración tipo labial — y ahí es donde entra una categoría que se volvió viral en TikTok durante 2025-2026: el "peel-off lip stain" (tatuaje labial pelable). Se aplica como un delineador, se deja secar 5-7 minutos formando una película, y se despega con los dedos dejando solo el pigmento adherido al labio — sin la parte grasosa o brillante que se despega. El resultado es color que aguanta varias horas de comida y bebida sin transferirse, algo que ni el lip oil ni el balm de este ranking prometen.
+
+Es una categoría distinta a las tres de arriba, no una alternativa a ninguna de ellas: no hidrata como el balm, no da brillo como el lip oil, y no es un tratamiento reparador como la máscara nocturna. Es, directamente, el paso de "color" que hoy no existe en este ranking.
+
+<div class="not-prose my-6 overflow-hidden rounded-2xl border border-line-dim" style="aspect-ratio:16/9">
+<iframe width="100%" height="100%" src="https://www.youtube-nocookie.com/embed/U886mWn8O08" title="SACHEU BEAUTY STAY-N PEEL OFF TATTOO LIP LINER REVIEW | First Impression, Tutorial + Wear Test — Sarah Meg" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
+Todavía no sumamos ningún producto de esta categoría a este ranking: al momento de escribir esto no pudimos confirmar con certeza el precio y el estado actual de reseñas en Amazon de los candidatos que investigamos (Sacheu STAY-N y Wonderskin Wonder Blading son los dos nombres que más se repiten), y la regla de este sitio es no publicar una ficha de producto sin esos datos verificados de primera mano. En cuanto podamos confirmarlo, lo sumamos.
+
 ## Nuestra recomendación del mes
 
 Mirá el ranking completo de [Labios](/categorias/labios) para comparar precios actuales. Si además estás armando toda tu rutina diaria desde cero, la [rutina rápida de 5 minutos](/articulos/la-rutina-rapida-de-5-minutos) muestra dónde encaja cada paso de labios en el orden completo.
