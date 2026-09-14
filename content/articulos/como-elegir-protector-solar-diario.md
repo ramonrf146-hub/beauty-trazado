@@ -20,6 +20,12 @@ SPF 30 filtra cerca del 97% de los rayos UVB. SPF 50 filtra cerca del 98%. SPF 6
 - **Mineral** (óxido de zinc, dióxido de titanio): refleja la luz en vez de absorberla. Tiende a ser mejor tolerado en piel sensible o reactiva, a cambio de a veces dejar un leve tono blanco.
 - **Químico**: se absorbe en la piel y filtra ahí. Suele tener textura más liviana y sin repinte, pero puede irritar piel muy sensible.
 
+<div class="not-prose my-6 overflow-hidden rounded-2xl border border-line-dim" style="aspect-ratio:16/9">
+<iframe width="100%" height="100%" src="https://www.youtube-nocookie.com/embed/3qUmlb3bMJU" title="The Great Debate: Chemical vs Mineral Sunscreen with Expert Dermatologist Dr. Rogers" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
+La dermatóloga Dr. Heather Rogers explica en este video el mecanismo real detrás de cada tipo de filtro — útil si viste el debate "mineral es más seguro" circulando en redes y querés la versión con respaldo clínico antes de elegir.
+
 El [ISDIN Eryfotona Ageless](/productos/B07ZZFYNKL) de este ranking es 100% mineral con color para disimular el repinte — pensado específicamente para piel sensible que quiere además un efecto tipo base. El [La Roche-Posay Anthelios Melt-In Milk](/productos/B002CML1VG) es un filtro químico de textura líquida, pensado para aplicación rápida en cara y cuerpo. Si tu piel es grasa o mixta y el Melt-In Milk te resulta pesado, el [La Roche-Posay Anthelios Fluido Ultra Ligero SPF 60](/productos/B002CML1XE) es la misma marca y el mismo SPF, pero en un fluido de acabado mate libre de aceite. Si buscás mineral pero sin color (protector puro) y tenés piel seca, el [EltaMD UV Daily SPF 40](/productos/B00464EC1E) de este ranking es la opción untinted con ácido hialurónico agregado.
 
 ## 4. Textura: el factor que más predice si lo vas a usar

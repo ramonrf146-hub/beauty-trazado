@@ -20,6 +20,12 @@ SPF 30 filters around 97% of UVB rays. SPF 50 filters around 98%. SPF 60 doesn't
 - **Mineral** (zinc oxide, titanium dioxide): reflects light instead of absorbing it. Tends to be better tolerated on sensitive or reactive skin, sometimes at the cost of a slight white cast.
 - **Chemical**: absorbs into skin and filters there. Usually has a lighter texture with no cast, but can irritate very sensitive skin.
 
+<div class="not-prose my-6 overflow-hidden rounded-2xl border border-line-dim" style="aspect-ratio:16/9">
+<iframe width="100%" height="100%" src="https://www.youtube-nocookie.com/embed/3qUmlb3bMJU" title="The Great Debate: Chemical vs Mineral Sunscreen with Expert Dermatologist Dr. Rogers" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
+Dermatologist Dr. Heather Rogers breaks down the actual mechanism behind each filter type in this video — useful if you've seen the "mineral is safer" debate going around online and want the clinically-backed version before choosing.
+
 The [ISDIN Eryfotona Ageless](/en/productos/B07ZZFYNKL) in this ranking is 100% mineral with a tint to hide the cast — made specifically for sensitive skin that also wants a foundation-like effect. The [La Roche-Posay Anthelios Melt-In Milk](/en/productos/B002CML1VG) is a chemical filter with a liquid texture, made for quick application on face and body. If your skin is oily or combination and the Melt-In Milk feels heavy, the [La Roche-Posay Anthelios Ultra Light Fluid SPF 60](/en/productos/B002CML1XE) is the same brand and SPF, but in a matte, oil-free fluid. If you want mineral but untinted (pure protection) and have dry skin, the [EltaMD UV Daily SPF 40](/en/productos/B00464EC1E) in this ranking is the untinted option with added hyaluronic acid.
 
 ## 4. Texture: the factor that best predicts whether you'll actually use it
