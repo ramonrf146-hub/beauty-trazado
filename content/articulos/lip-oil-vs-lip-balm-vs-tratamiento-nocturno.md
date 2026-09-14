@@ -13,6 +13,8 @@ Es el básico de bolsillo, sin color, sin tratamiento intensivo — solo mantien
 
 El [Burt's Bees Lip Balm Classic (pack de 4 tubos)](/productos/B01MRH7MR4) de este ranking es exactamente esto — formulado con cera de abeja, sin tinte, para llevar en la cartera y reaplicar cuando haga falta. No reemplaza ni al aceite con color ni al tratamiento nocturno de este ranking: los complementa. Es, de hecho, uno de los productos de belleza más reseñados de todo Amazon (121.000+ reseñas) — el básico que casi nadie cuestiona porque simplemente cumple.
 
+Ninguno de los productos de arriba tiene protección solar — y ahí está el hueco real que cubre el [Blistex Bálsamo Labial Medicado SPF 15](/productos/B0044B4HSM) de este ranking: mismo uso diario que el Burt's Bees, pero con SPF 15 agregado. 'Overall Pick' de Amazon, 30.000+ comprados el último mes, 4.8★ sobre casi 47.000 reseñas. Limitación real: el sabor/aroma mentolado no le gusta a todo el mundo, y el SPF 15 es más bajo que los protectores faciales de este sitio (pensado para uso diario de labios, no para exposición solar intensa).
+
 ## El lip oil con color: el paso final de una rutina rápida
 
 Acá el trabajo cambia: no es solo hidratar, es darle brillo y un toque de color al terminar el maquillaje del día, sin necesitar delineado ni precisión de aplicación. Se aplica directo con la varita, mirando o no mirando al espejo.

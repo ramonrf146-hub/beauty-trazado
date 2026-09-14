@@ -13,6 +13,8 @@ This is the pocket basic, no color, no intensive treatment — it just keeps you
 
 The [Burt's Bees Classic Lip Balm (4-tube pack)](/en/productos/B01MRH7MR4) in this ranking is exactly this — formulated with beeswax, untinted, made to carry in your bag and reapply whenever needed. It doesn't replace the tinted oil or the overnight treatment in this ranking: it complements them. It's actually one of the most-reviewed beauty products on all of Amazon (121,000+ reviews) — the basic almost nobody questions because it simply works.
 
+None of the products above have sun protection — and that's the real gap this ranking's [Blistex Medicated Lip Balm SPF 15](/en/productos/B0044B4HSM) fills: same daily use as the Burt's Bees, but with SPF 15 added. Amazon's 'Overall Pick', 30,000+ bought in the past month, 4.8★ across almost 47,000 reviews. Real limitation: the minty flavor/scent isn't for everyone, and SPF 15 is lower than this site's facial sunscreens (fine for daily lip use, not for intense sun exposure).
+
 ## The tinted lip oil: the finishing step of a quick routine
 
 Here the job changes: it's not just hydration, it's giving your lips shine and a hint of color to finish off your makeup for the day, without needing lip-liner precision. You apply it straight from the wand, whether or not you're looking in a mirror.
