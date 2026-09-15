@@ -45,6 +45,16 @@ It's a different category from the three above, not a substitute for any of them
 <iframe width="100%" height="100%" src="https://www.youtube-nocookie.com/embed/U886mWn8O08" title="SACHEU BEAUTY STAY-N PEEL OFF TATTOO LIP LINER REVIEW | First Impression, Tutorial + Wear Test — Sarah Meg" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
+## The fifth contender: visual plumpness, no needles
+
+None of the four products above change the shape or apparent size of your lips — they hydrate, add shine, treat overnight, or leave color, but none "plumps" them visually. That's the trend that took off hard on TikTok through 2026 under the name "peptide lip plumper": glosses with peptide complexes that create a mild tingling sensation (similar to rubbing your hands together until they turn pink) and give a fuller-lip effect while the product is on, no needles or injected hyaluronic acid involved.
+
+This ranking's [BUXOM Full-On Plumping Lip Polish](/en/productos/B00I6DV3UO), Dolly shade, is that fifth step: a peptide complex plus vitamins A and E, 4.5★ over more than 11,000 reviews. Unlike this ranking's LANEIGE (which treats dry lips overnight) or the Sacheu STAY-N (which gives long-wear color), it doesn't hydrate deeply or leave pigment — its only job is the temporary plumping effect, so it makes sense to layer it over the Burt's Bees or after the LANEIGE, not instead of them. Real limitation, stated by the brand itself: the tingle is intentional to the formula, not a flaw, but it can feel uncomfortable on lips that are already cracked or irritated — and at $26 it's the most expensive product in this site's lip category, worth it only if you're specifically after that plumping effect.
+
+<div class="not-prose my-6 overflow-hidden rounded-2xl border border-line-dim" style="aspect-ratio:16/9">
+<iframe width="100%" height="100%" src="https://www.youtube-nocookie.com/embed/bPmHwJJ9ukE" title="Buxom Full On Lip Plumping Polish ~Dolly~ is a FAVORITE! — Gwen Peterson" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
 ## Our pick this month
 
 Check the full [Lips](/en/categorias/labios) ranking to compare current prices. If you're also building your whole daily routine from scratch, the [5-minute quick routine](/en/articulos/la-rutina-rapida-de-5-minutos) shows exactly where each lip step fits into the full sequence.

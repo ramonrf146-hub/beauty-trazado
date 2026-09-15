@@ -45,6 +45,16 @@ Es una categoría distinta a las tres de arriba, no una alternativa a ninguna de
 <iframe width="100%" height="100%" src="https://www.youtube-nocookie.com/embed/U886mWn8O08" title="SACHEU BEAUTY STAY-N PEEL OFF TATTOO LIP LINER REVIEW | First Impression, Tutorial + Wear Test — Sarah Meg" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
+## El quinto contendiente: volumen visual, sin agujas
+
+Ninguno de los cuatro productos de arriba cambia la forma o el tamaño aparente del labio — hidratan, dan brillo, tratan de noche o dejan color, pero ninguno "infla" visualmente. Esa es la tendencia que se instaló fuerte en TikTok durante 2026 bajo el nombre de "peptide lip plumper": glosses con complejos de péptidos que generan una leve sensación de hormigueo (parecida a cuando te frotás las manos y se ponen más rosadas) y crean el efecto de labios más llenos mientras el producto está puesto, sin agujas ni ácido hialurónico inyectado.
+
+El [BUXOM Full-On Plumping Lip Polish](/productos/B00I6DV3UO) de este ranking, tono Dolly, es ese quinto paso: complejo de péptidos y vitaminas A y E, 4.5★ sobre más de 11.000 reseñas. A diferencia del LANEIGE de este ranking (que trata labios secos mientras dormís) o del Sacheu STAY-N (que da color de larga duración), este no hidrata en profundidad ni deja pigmento — su único trabajo es el efecto de volumen temporal, así que tiene sentido usarlo encima del Burt's Bees o después del LANEIGE, no en lugar de ellos. Limitación real, declarada por la propia marca: el hormigueo es buscado por la fórmula, no un defecto, pero puede resultar incómodo en labios ya agrietados o irritados — y a $26 es el producto más caro de esta categoría del sitio, justificado solo si específicamente buscás ese efecto de volumen.
+
+<div class="not-prose my-6 overflow-hidden rounded-2xl border border-line-dim" style="aspect-ratio:16/9">
+<iframe width="100%" height="100%" src="https://www.youtube-nocookie.com/embed/bPmHwJJ9ukE" title="Buxom Full On Lip Plumping Polish ~Dolly~ is a FAVORITE! — Gwen Peterson" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
 ## Nuestra recomendación del mes
 
 Mirá el ranking completo de [Labios](/categorias/labios) para comparar precios actuales. Si además estás armando toda tu rutina diaria desde cero, la [rutina rápida de 5 minutos](/articulos/la-rutina-rapida-de-5-minutos) muestra dónde encaja cada paso de labios en el orden completo.
