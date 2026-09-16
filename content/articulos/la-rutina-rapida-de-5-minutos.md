@@ -39,7 +39,7 @@ Esta rutina de 4 pasos es la base — pero hay algunos productos que suman valor
 - **Antes del limpiador, un corrector**: el [Maybelline Instant Age Rewind](/productos/B004Y9GTOO) cubre ojeras en 15 segundos con un aplicador tipo esponja, sin necesitar brochas extra.
 - **Después del corrector, un toque de color**: el [e.l.f. Sheer For It Blush Tint](/productos/B0GVG4S4X9) se aplica con los dedos sobre las mejillas en segundos, sin sumar el paso de brocha de un blush tradicional. Si buscás algo más pigmentado y de mayor duración (y no te importa pagar casi 4 veces más), el [Rare Beauty Soft Pinch Liquid Blush](/productos/B08JKTGRGT) — el blush más buscado en TikTok durante tres años seguidos — aguanta 8 a 10 horas sin retoque, pero a cambio hay que difuminarlo en los primeros segundos porque fija mucho más rápido que el tinte de e.l.f.
 - **Si notás que el maquillaje se corre a media mañana**: el [Maybelline Fit Me Polvo Compacto Translúcido](/productos/B00PFCSNWA) fija el corrector y el blush sin agregar color extra — es un paso de mantenimiento, no obligatorio en la rutina base.
-- **Entre el limpiador y el protector solar, un serum**: el [CeraVe Hyaluronic Acid Serum](/productos/B07K3261ZD) suma hidratación profunda si tu piel es especialmente seca, o el [The Ordinary Niacinamide 10% + Zinc 1%](/productos/B01MDTVZTZ) si tu piel es mixta a grasa y buscás afinar poros en vez de hidratar más.
+- **Entre el limpiador y el protector solar, un serum**: el [CeraVe Hyaluronic Acid Serum](/productos/B07K3261ZD) suma hidratación profunda si tu piel es especialmente seca, o el [The Ordinary Niacinamide 10% + Zinc 1%](/productos/B01MDTVZTZ) si tu piel es mixta a grasa y buscás afinar poros en vez de hidratar más. Si tu objetivo no es hidratar ni afinar poros sino iluminar un tono de piel opaco o disparejo, el [CeraVe Skin Brightening Vitamin C Serum](/productos/B07PNCCLD2) es el tercer camino — mismo laboratorio que el de ácido hialurónico de este ranking, pero con 10% de vitamina C pura (antioxidante) en vez de hidratación extra. Eso sí, se aplica de día siempre junto con el protector solar del Paso 2, no en su lugar.
 - **A la noche, un tratamiento labial**: la [LANEIGE Lip Sleeping Mask](/productos/B07XXPHQZK) no es para esta rutina de la mañana, pero repara los labios mientras dormís — un buen complemento nocturno al paso 4.
 - **Para reaplicar durante el día**: el [Burt's Bees Lip Balm](/productos/B01MRH7MR4) es el bálsamo sin color que llevás en la cartera para reaplicar cuando sea, sin depender del aceite con color del paso 4.
 - **Antes de salir, control de frizz**: el [Garnier Fructis Anti-Frizz Serum](/productos/B006J44BSI) son un par de gotas de más antes de peinar, si tu pelo se encrespa con la humedad.
@@ -57,6 +57,12 @@ La propia marca del [Rare Beauty Soft Pinch Liquid Blush](/productos/B08JKTGRGT)
   </section>
 </blockquote>
 <script async src="https://www.tiktok.com/embed.js"></script>
+</div>
+
+Si dudás si sumar el serum de vitamina C vale la pena, la dermatóloga Dr. Dray lo analiza en detalle en este video (formulación, cómo se compara con otras vitaminas C del mercado y qué esperar en las primeras semanas de uso):
+
+<div class="not-prose my-6 overflow-hidden rounded-2xl border border-line-dim" style="aspect-ratio:16/9">
+<iframe width="100%" height="100%" src="https://www.youtube.com/embed/llLEG814Ly4" title="CERAVE VITAMIN C SERUM REVIEW — Dr Dray" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
 ## Por qué esta rutina y no otra más larga

@@ -39,7 +39,7 @@ This 4-step routine is the base — but a few products add real value without ad
 - **Before the cleanser, a concealer**: the [Maybelline Instant Age Rewind](/en/productos/B004Y9GTOO) covers dark circles in 15 seconds with a sponge-tip applicator, no extra brushes needed.
 - **After the concealer, a hint of color**: the [e.l.f. Sheer For It Blush Tint](/en/productos/B0GVG4S4X9) applies with your fingers on your cheeks in seconds, without adding the brush step of a traditional blush. If you want something more pigmented and longer-wearing (and don't mind paying almost 4 times more), the [Rare Beauty Soft Pinch Liquid Blush](/en/productos/B08JKTGRGT) — TikTok's most-searched blush for three years running — holds for 8 to 10 hours without a touch-up, but you have to blend it within seconds since it sets much faster than the e.l.f. tint.
 - **If you notice your makeup shifting by mid-morning**: the [Maybelline Fit Me Translucent Pressed Powder](/en/productos/B00PFCSNWA) sets your concealer and blush without adding extra color — a maintenance step, not mandatory in the base routine.
-- **Between cleanser and sunscreen, a serum**: the [CeraVe Hyaluronic Acid Serum](/en/productos/B07K3261ZD) adds deep hydration if your skin is especially dry, or [The Ordinary Niacinamide 10% + Zinc 1%](/en/productos/B01MDTVZTZ) if your skin is combination to oily and you want to refine pores instead of adding more hydration.
+- **Between cleanser and sunscreen, a serum**: the [CeraVe Hyaluronic Acid Serum](/en/productos/B07K3261ZD) adds deep hydration if your skin is especially dry, or [The Ordinary Niacinamide 10% + Zinc 1%](/en/productos/B01MDTVZTZ) if your skin is combination to oily and you want to refine pores instead of adding more hydration. If your goal isn't hydration or pore refinement but brightening a dull or uneven skin tone, the [CeraVe Skin Brightening Vitamin C Serum](/en/productos/B07PNCCLD2) is the third path — same brand as the hyaluronic acid one in this ranking, but with 10% pure vitamin C (an antioxidant) instead of extra hydration. Just apply it during the day always alongside the Step 2 sunscreen, never in place of it.
 - **At night, a lip treatment**: the [LANEIGE Lip Sleeping Mask](/en/productos/B07XXPHQZK) isn't for this morning routine, but it repairs lips while you sleep — a good nighttime complement to step 4.
 - **To reapply during the day**: the [Burt's Bees Lip Balm](/en/productos/B01MRH7MR4) is the untinted balm you carry in your bag to reapply whenever, without relying on the tinted oil from step 4.
 - **Before heading out, frizz control**: the [Garnier Fructis Anti-Frizz Serum](/en/productos/B006J44BSI) is a couple extra drops before styling, if your hair frizzes with humidity.
@@ -57,6 +57,12 @@ Rare Beauty's own brand account shows in this official TikTok video why a small 
   </section>
 </blockquote>
 <script async src="https://www.tiktok.com/embed.js"></script>
+</div>
+
+If you're on the fence about adding a vitamin C serum, dermatologist Dr. Dray breaks it down in detail in this video (formulation, how it compares to other vitamin C serums on the market, and what to expect in the first few weeks of use):
+
+<div class="not-prose my-6 overflow-hidden rounded-2xl border border-line-dim" style="aspect-ratio:16/9">
+<iframe width="100%" height="100%" src="https://www.youtube.com/embed/llLEG814Ly4" title="CERAVE VITAMIN C SERUM REVIEW — Dr Dray" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
 ## Why this routine and not a longer one
