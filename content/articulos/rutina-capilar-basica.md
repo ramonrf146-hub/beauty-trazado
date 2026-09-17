@@ -49,6 +49,12 @@ Ese protector cobra más sentido todavía si la "herramienta de calor" en cuesti
 <iframe width="100%" height="100%" src="https://www.youtube-nocookie.com/embed/1zUTOtMLk8Q" title="How do we feel about Hair Straightening Brushes??? | TYMO Ionic Plus Review — Bethany Robertson" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
+Si lo que buscás no es alisar sino ondular, y preferís no usar ninguna herramienta de calor (ni siquiera con protector térmico de por medio), el [Kitsch Satin Heatless Curls Overnight Set](/productos/B09S4PVZ81) recién sumado a este ranking es la alternativa que se salta el Paso 4 por completo: es una vincha rellena de espuma forrada en satén que envolvés en el cabello antes de dormir, sin secador ni plancha, y a la mañana siguiente tenés ondas — cero riesgo de quemar la fibra capilar, porque nunca hay temperatura de por medio. La contracara real: en cabello corto o con capas cortas (bob, lob) las puntas se salen del rodillo durante la noche, así que rinde mejor a partir de un largo mínimo a la altura de los hombros — si tu pelo es corto, el TYMO con el Olaplex antes sigue siendo la opción más práctica de este ranking.
+
+<div class="not-prose my-6 overflow-hidden rounded-2xl border border-line-dim" style="aspect-ratio:16/9">
+<iframe width="100%" height="100%" src="https://www.youtube-nocookie.com/embed/iNwTj_Hz-bE" title="Heatless Style Hair Tutorial using the Kitsch Satin Curling Set—tips & tricks for the best style! — Linnea Jericho" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
 ## Paso 5: Frizz y brillo (en cabello húmedo o seco, como toque final)
 
 El [Garnier Fructis Anti-Frizz Serum](/productos/B006J44BSI) de este ranking sella la cutícula para controlar el encrespamiento en climas húmedos — se usa en gotas mínimas, el exceso apelmaza.

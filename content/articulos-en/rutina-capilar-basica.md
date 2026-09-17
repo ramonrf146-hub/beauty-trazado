@@ -49,6 +49,12 @@ That protectant matters even more when the "heat tool" in question is the [TYMO 
 <iframe width="100%" height="100%" src="https://www.youtube-nocookie.com/embed/1zUTOtMLk8Q" title="How do we feel about Hair Straightening Brushes??? | TYMO Ionic Plus Review — Bethany Robertson" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
+If what you're after isn't straightening but waves, and you'd rather skip heat tools entirely (even with a heat protectant), the [Kitsch Satin Heatless Curls Overnight Set](/en/productos/B09S4PVZ81) just added to this ranking skips Step 4 altogether: it's a foam-core headband wrapped in satin that you wrap your hair around before bed, no blow dryer or iron needed, and you wake up with waves — zero risk of heat damage, because there's never any heat involved. The real trade-off: on short hair or hair with short layers (bob, lob), the ends slip out of the roller overnight, so it performs best on hair at least shoulder-length or longer — if your hair is short, the TYMO with Olaplex beforehand is still the more practical option in this ranking.
+
+<div class="not-prose my-6 overflow-hidden rounded-2xl border border-line-dim" style="aspect-ratio:16/9">
+<iframe width="100%" height="100%" src="https://www.youtube-nocookie.com/embed/iNwTj_Hz-bE" title="Heatless Style Hair Tutorial using the Kitsch Satin Curling Set—tips & tricks for the best style! — Linnea Jericho" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
 ## Step 5: Frizz and shine (on wet or dry hair, as a finishing touch)
 
 The [Garnier Fructis Anti-Frizz Serum](/en/productos/B006J44BSI) in this ranking seals the cuticle to control frizz in humid climates — used in minimal drops, too much weighs hair down.
