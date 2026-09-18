@@ -25,6 +25,12 @@ A clear brow gel holds hair in place (a DIY "laminated brow" effect) without add
 
 The [NYX The Brow Glue](/en/productos/B08M58SWB1) in this ranking is the **Clear** version — extreme hold, laminated-brow effect, but no pigment. If your brows need color or filling in, look for the Dark Brown or Taupe version of the same line separately; buying the clear one expecting it to also darken your brows is the most common mistake with this type of product.
 
+If you want to see how it looks applied and how long the hold actually lasts in real wear (not just on the tube), this demo + review walks through the application step by step:
+
+<div class="not-prose my-6 overflow-hidden rounded-2xl border border-line-dim" style="aspect-ratio:16/9">
+<iframe width="100%" height="100%" src="https://www.youtube-nocookie.com/embed/Ig9jRNOikL0" title="NYX The Brow Glue | Demo + Review — TheGarsowTwins" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
 ## Summary: each one's criterion in a sentence
 
 | Product | What to confirm before buying |

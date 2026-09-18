@@ -25,6 +25,12 @@ Un gel de cejas transparente fija el vello en su lugar (efecto "cejas laminadas"
 
 El [NYX The Brow Glue](/productos/B08M58SWB1) de este ranking es la versión **Clear** (transparente) — fijación extrema tipo laminado, pero sin pigmento. Si tus cejas necesitan color o relleno, buscá la versión Dark Brown o Taupe de la misma línea por separado; comprar la transparente esperando que también oscurezca es el error más común con este tipo de producto.
 
+Si querés ver cómo queda aplicado y cuánto dura la fijación en un uso real (no solo en la foto del frasco), este demo + reseña muestra la aplicación paso a paso:
+
+<div class="not-prose my-6 overflow-hidden rounded-2xl border border-line-dim" style="aspect-ratio:16/9">
+<iframe width="100%" height="100%" src="https://www.youtube-nocookie.com/embed/Ig9jRNOikL0" title="NYX The Brow Glue | Demo + Review — TheGarsowTwins" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
 ## Resumen: el criterio de cada uno en una frase
 
 | Producto | Lo que hay que confirmar antes de comprar |
