@@ -55,6 +55,23 @@ El [BUXOM Full-On Plumping Lip Polish](/productos/B00I6DV3UO) de este ranking, t
 <iframe width="100%" height="100%" src="https://www.youtube-nocookie.com/embed/bPmHwJJ9ukE" title="Buxom Full On Lip Plumping Polish ~Dolly~ is a FAVORITE! — Gwen Peterson" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
+## El sexto contendiente: el labial clásico de cobertura completa
+
+Ninguno de los cinco productos de arriba es, en rigor, "un labial" en el sentido tradicional: dan brillo, tratan, hidratan, dejan color de larga duración o suman volumen, pero ninguno cubre el labio con un color opaco parejo de una sola pasada, como una barra de toda la vida. Ese hueco lo cierra el [L'Oréal Paris Colour Riche Original Satin Lipstick](/productos/B00F4VUTQU), tono Ballerina Shoes — un rosa frosty que se volvió viral en TikTok durante 2026 hasta agotarse repetidamente en droguerías físicas, con fórmula cremosa de aceite de argán y vitamina E (4.4★ sobre 28.595 reseñas).
+
+La comparación más directa acá es con el [Sacheu STAY-N](/productos/B0BVPNQW1C) de este mismo ranking: los dos dan color, pero de maneras opuestas. El Sacheu es un stain pelable que no se transfiere ni se pasa durante horas, aunque no tiene la textura ni el efecto visual de un labial real. El L'Oréal, en cambio, es satinado y no de larga duración — transfiere en tazas, cubiertos y comida, y no aguanta una comida completa sin retoque — pero da exactamente ese efecto de "labial clásico" que el Sacheu no busca dar. Si tenés un evento donde vas a comer o tomar algo y necesitás que el color aguante, andá con el Sacheu; si el objetivo es maquillaje del día con el look tradicional de labial, el L'Oréal cumple ese trabajo mejor.
+
+<div class="not-prose my-6 flex justify-center">
+<blockquote class="tiktok-embed" cite="https://www.tiktok.com/@nikkietutorials/video/7604555637074316575" data-video-id="7604555637074316575" data-embed-from="oembed" style="max-width:605px; min-width:325px;">
+  <section>
+    <a target="_blank" title="@nikkietutorials" href="https://www.tiktok.com/@nikkietutorials?refer=embed">@nikkietutorials</a>
+    <p>trying the VIRAL L'Oréal "Ballerina Shoes" lipstick… this might be a chop! @Beata #foryou #fyp</p>
+    <a target="_blank" title="♫ original sound - nikkietutorials" href="https://www.tiktok.com/music/original-sound-7604555677708585758?refer=embed">♫ original sound - nikkietutorials</a>
+  </section>
+</blockquote>
+<script async src="https://www.tiktok.com/embed.js"></script>
+</div>
+
 ## Nuestra recomendación del mes
 
 Mirá el ranking completo de [Labios](/categorias/labios) para comparar precios actuales. Si además estás armando toda tu rutina diaria desde cero, la [rutina rápida de 5 minutos](/articulos/la-rutina-rapida-de-5-minutos) muestra dónde encaja cada paso de labios en el orden completo.
@@ -65,7 +82,7 @@ Mirá el ranking completo de [Labios](/categorias/labios) para comparar precios 
 No es lo ideal — tiene una textura espesa tipo ungüento pensada para absorberse durante la noche, no para llevar maquillaje encima. Para el día, el lip oil o el balm clásico van mejor.
 
 **¿El lip oil con color reemplaza al labial normal?**
-Da color y brillo, pero un color mucho más sutil y natural que un labial de cobertura completa — es un paso de "brillo con un toque de color", no un reemplazo 1 a 1 de un labial de cobertura total.
+Da color y brillo, pero un color mucho más sutil y natural que un labial de cobertura completa — es un paso de "brillo con un toque de color", no un reemplazo 1 a 1 de un labial de cobertura total. Si buscás específicamente eso, el [L'Oréal Paris Colour Riche Original Satin Lipstick, tono Ballerina Shoes](/productos/B00F4VUTQU) de este ranking es ese labial clásico que faltaba en el catálogo.
 
 **¿Cada cuánto tengo que reaplicar el lip balm clásico?**
 No hay una regla fija — se reaplica cuando sientas los labios secos otra vez, que puede ser cada 2-3 horas en climas secos o con más frecuencia si estás expuesto a viento o frío.

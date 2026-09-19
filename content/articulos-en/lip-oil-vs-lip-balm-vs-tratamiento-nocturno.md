@@ -55,6 +55,23 @@ This ranking's [BUXOM Full-On Plumping Lip Polish](/en/productos/B00I6DV3UO), Do
 <iframe width="100%" height="100%" src="https://www.youtube-nocookie.com/embed/bPmHwJJ9ukE" title="Buxom Full On Lip Plumping Polish ~Dolly~ is a FAVORITE! — Gwen Peterson" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
+## The sixth contender: the classic full-coverage lipstick
+
+None of the five products above is, strictly speaking, "a lipstick" in the traditional sense: they add shine, treat, hydrate, give long-wear color, or add plumpness, but none of them coats the lip with an even, opaque color in a single swipe, the way a classic bullet lipstick does. That's the gap this ranking's [L'Oréal Paris Colour Riche Original Satin Lipstick](/en/productos/B00F4VUTQU), Ballerina Shoes shade, fills — a frosty pink that went viral on TikTok through 2026, repeatedly selling out at drugstores, with a creamy formula built on argan oil and vitamin E (4.4★ over 28,595 reviews).
+
+The most direct comparison here is with this ranking's [Sacheu STAY-N](/en/productos/B0BVPNQW1C): both give color, but in opposite ways. The Sacheu is a peel-off stain that doesn't transfer or wear off for hours, though it doesn't have the texture or visual effect of an actual lipstick. The L'Oréal, on the other hand, is satin and not long-wear — it transfers onto cups, utensils, and food, and doesn't survive a full meal without touch-ups — but it gives exactly that "classic lipstick" effect the Sacheu isn't trying to give. If you have an event where you'll be eating or drinking and need the color to hold, go with the Sacheu; if the goal is everyday makeup with the traditional lipstick look, the L'Oréal does that job better.
+
+<div class="not-prose my-6 flex justify-center">
+<blockquote class="tiktok-embed" cite="https://www.tiktok.com/@nikkietutorials/video/7604555637074316575" data-video-id="7604555637074316575" data-embed-from="oembed" style="max-width:605px; min-width:325px;">
+  <section>
+    <a target="_blank" title="@nikkietutorials" href="https://www.tiktok.com/@nikkietutorials?refer=embed">@nikkietutorials</a>
+    <p>trying the VIRAL L'Oréal "Ballerina Shoes" lipstick… this might be a chop! @Beata #foryou #fyp</p>
+    <a target="_blank" title="♫ original sound - nikkietutorials" href="https://www.tiktok.com/music/original-sound-7604555677708585758?refer=embed">♫ original sound - nikkietutorials</a>
+  </section>
+</blockquote>
+<script async src="https://www.tiktok.com/embed.js"></script>
+</div>
+
 ## Our pick this month
 
 Check the full [Lips](/en/categorias/labios) ranking to compare current prices. If you're also building your whole daily routine from scratch, the [5-minute quick routine](/en/articulos/la-rutina-rapida-de-5-minutos) shows exactly where each lip step fits into the full sequence.
@@ -65,7 +82,7 @@ Check the full [Lips](/en/categorias/labios) ranking to compare current prices. 
 It's not ideal — it has a thick, ointment-like texture meant to absorb overnight, not to wear makeup over. For daytime, the lip oil or classic balm work better.
 
 **Does the tinted lip oil replace regular lipstick?**
-It gives color and shine, but a much more subtle, natural color than a full-coverage lipstick — it's a "shine with a hint of color" step, not a 1-to-1 replacement for full-coverage lipstick.
+It gives color and shine, but a much more subtle, natural color than a full-coverage lipstick — it's a "shine with a hint of color" step, not a 1-to-1 replacement for full-coverage lipstick. If that's specifically what you're after, this ranking's [L'Oréal Paris Colour Riche Original Satin Lipstick, Ballerina Shoes shade](/en/productos/B00F4VUTQU) is the classic lipstick this catalog was missing.
 
 **How often should I reapply the classic lip balm?**
 There's no fixed rule — reapply whenever your lips start feeling dry again, which can be every 2-3 hours in dry climates or more often if you're exposed to wind or cold.
