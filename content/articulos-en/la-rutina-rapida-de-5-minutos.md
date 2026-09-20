@@ -37,6 +37,7 @@ This 4-step routine is the base — but a few products add real value without ad
 
 - **If there's no sink nearby (travel, the gym)**: the [Neutrogena Micellar Makeup Remover Wipes](/en/productos/B00U2VQZDS) replace step 1 with no water needed — they don't clean as thoroughly as the CeraVe with water, but they solve the day you have nowhere to wash up.
 - **Before the cleanser, a concealer**: the [Maybelline Instant Age Rewind](/en/productos/B004Y9GTOO) covers dark circles in 15 seconds with a sponge-tip applicator, no extra brushes needed.
+- **After the concealer, a glowy-skin effect (no full foundation needed)**: the [e.l.f. Halo Glow Liquid Filter](/en/productos/B0B5MGBDHZ) — the most viral, most imitated makeup product on TikTok in recent years — applies with your fingers to give a blurred, "filtered" look instead of covering like a traditional foundation. It's the exact opposite of the [Maybelline Fit Me Pressed Powder](/en/productos/B00PFCSNWA) further down this list: the Halo Glow adds a dewy, wet-look shine and isn't a fit if your skin is oily, while the Fit Me does the opposite — it mattifies and controls shine. Use one or the other depending on the finish you're after that day, never both in the same step.
 - **After the concealer, a hint of color**: the [e.l.f. Sheer For It Blush Tint](/en/productos/B0GVG4S4X9) applies with your fingers on your cheeks in seconds, without adding the brush step of a traditional blush. If you want something more pigmented and longer-wearing (and don't mind paying almost 4 times more), the [Rare Beauty Soft Pinch Liquid Blush](/en/productos/B08JKTGRGT) — TikTok's most-searched blush for three years running — holds for 8 to 10 hours without a touch-up, but you have to blend it within seconds since it sets much faster than the e.l.f. tint.
 - **If you notice your makeup shifting by mid-morning**: the [Maybelline Fit Me Translucent Pressed Powder](/en/productos/B00PFCSNWA) sets your concealer and blush without adding extra color — a maintenance step, not mandatory in the base routine.
 - **Between cleanser and sunscreen, a serum**: the [CeraVe Hyaluronic Acid Serum](/en/productos/B07K3261ZD) adds deep hydration if your skin is especially dry, or [The Ordinary Niacinamide 10% + Zinc 1%](/en/productos/B01MDTVZTZ) if your skin is combination to oily and you want to refine pores instead of adding more hydration. If your goal isn't hydration or pore refinement but brightening a dull or uneven skin tone, the [CeraVe Skin Brightening Vitamin C Serum](/en/productos/B07PNCCLD2) is the third path — same brand as the hyaluronic acid one in this ranking, but with 10% pure vitamin C (an antioxidant) instead of extra hydration. Just apply it during the day always alongside the Step 2 sunscreen, never in place of it.
@@ -54,6 +55,19 @@ Rare Beauty's own brand account shows in this official TikTok video why a small 
     <a target="_blank" title="@rarebeauty" href="https://www.tiktok.com/@rarebeauty?refer=embed">@rarebeauty</a>
     <p>Soft Pinch Liquid Blush hates to see me coming… #rarebeauty #softpinch #rarebeautyblush #liquidblush #emptyrarebeautyblush #empties</p>
     <a target="_blank" title="♬ original sound - Kariana Hanken" href="https://www.tiktok.com/music/original-sound-7281761620555025198?refer=embed">♬ original sound - Kariana Hanken</a>
+  </section>
+</blockquote>
+<script async src="https://www.tiktok.com/embed.js"></script>
+</div>
+
+If you want to see the Halo Glow Liquid Filter's "filtered" effect in real use (not just the bottle photo), this review shows an honest result on skin, including where it doesn't quite work:
+
+<div class="not-prose my-6 flex justify-center">
+<blockquote class="tiktok-embed" cite="https://www.tiktok.com/@shanell.sorrells/video/7453276884340624683" data-video-id="7453276884340624683" data-embed-from="oembed" style="max-width:605px; min-width:325px;">
+  <section>
+    <a target="_blank" title="@shanell.sorrells" href="https://www.tiktok.com/@shanell.sorrells?refer=embed">@shanell.sorrells</a>
+    <p>……….😣😄🙃 things work differently for everyone but….. #makeupreview #makeup #newmakeup #elfhaloglow #elfhaloglowliquidfilter #makeupreviews</p>
+    <a target="_blank" title="♬ original sound - Shanell Sorrells" href="https://www.tiktok.com/music/original-sound-7453276874450504494?refer=embed">♬ original sound - Shanell Sorrells</a>
   </section>
 </blockquote>
 <script async src="https://www.tiktok.com/embed.js"></script>
