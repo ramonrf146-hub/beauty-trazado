@@ -72,6 +72,25 @@ La comparación más directa acá es con el [Sacheu STAY-N](/productos/B0BVPNQW1
 <script async src="https://www.tiktok.com/embed.js"></script>
 </div>
 
+## El séptimo paso: exfoliar antes de todo lo demás
+
+Los seis productos de arriba hidratan, tratan, dan brillo, color o volumen — pero ninguno prepara el labio antes de aplicarlos. Si tenés piel muerta o reseca acumulada, cualquiera de los seis rinde peor: el labial se ve parchado, el gloss no queda parejo y hasta el balm tarda más en notarse. Ahí es donde entra el exfoliante labial, una categoría que en 2026 viene creciendo fuerte en TikTok bajo el nombre "lip scrub".
+
+El [COSRX Honey Sugar Lip Scrub](/productos/B098D8QZK1) de este ranking es justamente ese paso previo: una pasta con gránulos de azúcar, miel, manteca de karité y extracto de cacao que saca la piel seca antes de aplicar cualquier otro producto. Trae espátula reutilizable para no meter el dedo directo en el pote. Limitación real: tiene una base de reseñas más chica que el resto del catálogo (166 reseñas, 4.3★) — no es un producto tan masivo como el resto, pero el listing está activo y en stock, y la fórmula (con estándar "Clean Beauty" de la marca, hipoalergénica y testeada dermatológicamente) es consistente con la seriedad del resto de la línea COSRX ya presente en el sitio.
+
+La combinación lógica es usarlo 1-2 veces por semana, de noche, antes del [LANEIGE Lip Sleeping Mask](/productos/B07XXPHQZK) o del [Burt's Bees](/productos/B01MRH7MR4) — nunca antes de un labial de cobertura como el [L'Oréal Ballerina Shoes](/productos/B00F4VUTQU) el mismo día que también estás usando el Sacheu STAY-N, porque exfoliar y aplicar un stain de larga duración en la misma rutina reseca de más. El exfoliante prepara el lienzo; los otros seis productos de este ranking son lo que va encima.
+
+<div class="not-prose my-6 flex justify-center">
+<blockquote class="tiktok-embed" cite="https://www.tiktok.com/@bukolaesthershop/video/7531638601650539798" data-video-id="7531638601650539798" data-embed-from="oembed" style="max-width:605px; min-width:325px;">
+  <section>
+    <a target="_blank" title="@bukolaesthershop" href="https://www.tiktok.com/@bukolaesthershop?refer=embed">@bukolaesthershop</a>
+    <p>This COSRX honey sugar lip scrub is honestly one of the best I've tried. It's gentle but effective — the sugar crystals exfoliate without feeling harsh, and the honey leaves your lips feeling soft, smooth, and super nourished. I use it 2–3 times a week, and it's made such a difference, especially when wearing matte lipsticks.</p>
+    <a target="_blank" title="♫ Bloom - Aqyila" href="https://www.tiktok.com/music/Bloom-7335958420342261762?refer=embed">♫ Bloom - Aqyila</a>
+  </section>
+</blockquote>
+<script async src="https://www.tiktok.com/embed.js"></script>
+</div>
+
 ## Nuestra recomendación del mes
 
 Mirá el ranking completo de [Labios](/categorias/labios) para comparar precios actuales. Si además estás armando toda tu rutina diaria desde cero, la [rutina rápida de 5 minutos](/articulos/la-rutina-rapida-de-5-minutos) muestra dónde encaja cada paso de labios en el orden completo.
@@ -86,3 +105,6 @@ Da color y brillo, pero un color mucho más sutil y natural que un labial de cob
 
 **¿Cada cuánto tengo que reaplicar el lip balm clásico?**
 No hay una regla fija — se reaplica cuando sientas los labios secos otra vez, que puede ser cada 2-3 horas en climas secos o con más frecuencia si estás expuesto a viento o frío.
+
+**¿Necesito exfoliar los labios antes de usar el resto de estos productos?**
+No es obligatorio todos los días, pero ayuda cuando notás piel muerta o escamosa: el [COSRX Honey Sugar Lip Scrub](/productos/B098D8QZK1) de este ranking se usa 1-2 veces por semana, nunca a diario, porque exfoliar de más irrita en vez de ayudar. Es un paso previo, no un reemplazo de ninguno de los otros seis productos.
