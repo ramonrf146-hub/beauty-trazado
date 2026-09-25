@@ -31,6 +31,21 @@ If you have dandruff or an itchy scalp, don't use a generic shampoo — you need
 
 If your scalp is fine and you want a complete routine from one brand, the shampoo from the [Bare Anatomy kit](/en/productos/B0DCZSSG8B) is the "all in one" option.
 
+Heads up: dandruff/itching isn't the same as buildup. If what you're actually noticing is heaviness at the root, gel or mousse residue that doesn't wash out day to day, or a "dirty scalp" feeling even right after washing, the issue isn't your daily shampoo — it's occasional deep cleaning. That's where the [Briogeo Scalp Revival Charcoal + Coconut Oil Scalp Scrub](/en/productos/B06XNYHNQ3), just added to this ranking, comes in: an exfoliating shampoo with Binchotan charcoal and a plant-derived micro-exfoliant, used 1-2 times a week **instead of** your regular shampoo, not daily. The difference from the CeraVe dandruff shampoo above is the mechanism — CeraVe fights dandruff with an active chemical ingredient (pyrithione zinc), while this Briogeo removes buildup through physical friction, so one doesn't replace the other if you have an actual diagnosed fungal dandruff issue. Real limitation: at $42 for 8oz it costs noticeably more per use than a regular shampoo, and on already-dry hair it can dry things out further if used more than twice a week.
+
+<div class="not-prose my-6 flex justify-center">
+<blockquote class="tiktok-embed" cite="https://www.tiktok.com/@hairbynay247/video/7507720967003606314" data-video-id="7507720967003606314" data-embed-from="oembed" style="max-width:605px; min-width:325px;">
+  <section>
+    <a target="_blank" title="@hairbynay247" href="https://www.tiktok.com/@hairbynay247?refer=embed">@hairbynay247</a>
+    <p>A dry scalp hates to see me coming. Ths is exactly how I love to treat the scalp using @Briogeo Scalp revival charcoal and coconut oil micro exfoliating shampoo — I always start by applying it directly to the dry scalp... Treating the scalp while it's dry helps the product grip better and exfoliate more effectively. Once that's done, I add a little water to emulsify the product and activate the coconut oil and charcoal blend.</p>
+    <a target="_blank" title="♬ Voyage - PØW" href="https://www.tiktok.com/music/Voyage-7336160267862460418?refer=embed">♬ Voyage - PØW</a>
+  </section>
+</blockquote>
+<script async src="https://www.tiktok.com/embed.js"></script>
+</div>
+
+A professional stylist (a SalonCentric partner) shows the same procedure the brand recommends in this video: apply dry over the area with buildup, let the exfoliant work, and only then add water to work up a lather.
+
 ## Step 2: Conditioning (every wash, if you didn't use a 2-in-1)
 
 If you washed with a shampoo that doesn't include conditioner, add one for general hydration — the [CeraVe Gentle Hydrating Conditioner](/en/productos/B0FWVVDNML) in this ranking works for any hair type, it's not specific to one problem.

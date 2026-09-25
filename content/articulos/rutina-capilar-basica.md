@@ -31,6 +31,21 @@ Si tenés caspa o picazón en el cuero cabelludo, no uses un shampoo genérico �
 
 Si tu cuero cabelludo está bien y buscás una rutina completa de una sola marca, el shampoo del [kit Bare Anatomy](/productos/B0DCZSSG8B) es la opción de "todo en uno".
 
+Ojo: caspa/picazón no es lo mismo que acumulación. Si lo que notás es más bien pesadez en la raíz, residuos de gel o mousse que no se van lavando todos los días, o una sensación de "cuero cabelludo sucio" incluso después de lavarte, el problema no es de champú diario sino de limpieza profunda ocasional. Ahí entra el [Briogeo Scalp Revival Charcoal + Coconut Oil Scalp Scrub](/productos/B06XNYHNQ3), recién sumado a este ranking: un champú-exfoliante con carbón Binchotan y micro-exfoliante vegetal que se usa 1-2 veces por semana **en vez de** tu champú habitual, no todos los días. La diferencia con el CeraVe anticaspa de arriba es el mecanismo — el CeraVe ataca la caspa con un ingrediente químico activo (piritionato de zinc), este Briogeo remueve acumulación por fricción física, así que uno no reemplaza al otro si tenés un diagnóstico real de caspa por hongos. Limitación real: a $42 por 8oz sale bastante más caro por uso que un champú común, y en cabello ya seco puede resecar de más si se usa más de dos veces por semana.
+
+<div class="not-prose my-6 flex justify-center">
+<blockquote class="tiktok-embed" cite="https://www.tiktok.com/@hairbynay247/video/7507720967003606314" data-video-id="7507720967003606314" data-embed-from="oembed" style="max-width:605px; min-width:325px;">
+  <section>
+    <a target="_blank" title="@hairbynay247" href="https://www.tiktok.com/@hairbynay247?refer=embed">@hairbynay247</a>
+    <p>A dry scalp hates to see me coming. Ths is exactly how I love to treat the scalp using @Briogeo Scalp revival charcoal and coconut oil micro exfoliating shampoo — I always start by applying it directly to the dry scalp... Treating the scalp while it's dry helps the product grip better and exfoliate more effectively. Once that's done, I add a little water to emulsify the product and activate the coconut oil and charcoal blend.</p>
+    <a target="_blank" title="♬ Voyage - PØW" href="https://www.tiktok.com/music/Voyage-7336160267862460418?refer=embed">♬ Voyage - PØW</a>
+  </section>
+</blockquote>
+<script async src="https://www.tiktok.com/embed.js"></script>
+</div>
+
+Una estilista profesional (partner de SalonCentric) muestra en este video el mismo procedimiento recomendado por la marca: aplicar en seco sobre la zona con acumulación, dejar que el exfoliante actúe, y recién ahí agregar agua para hacer espuma.
+
 ## Paso 2: Acondicionamiento (cada lavado, si no usaste un 2 en 1)
 
 Si lavaste con un shampoo que no trae acondicionador, sumá uno de hidratación general — el [CeraVe Gentle Hydrating Conditioner](/productos/B0FWVVDNML) de este ranking sirve para cualquier tipo de cabello, no es específico para un problema puntual.
