@@ -40,6 +40,7 @@ This 4-step routine is the base — but a few products add real value without ad
 - **After the concealer, a glowy-skin effect (no full foundation needed)**: the [e.l.f. Halo Glow Liquid Filter](/en/productos/B0B5MGBDHZ) — the most viral, most imitated makeup product on TikTok in recent years — applies with your fingers to give a blurred, "filtered" look instead of covering like a traditional foundation. It's the exact opposite of the [Maybelline Fit Me Pressed Powder](/en/productos/B00PFCSNWA) further down this list: the Halo Glow adds a dewy, wet-look shine and isn't a fit if your skin is oily, while the Fit Me does the opposite — it mattifies and controls shine. Use one or the other depending on the finish you're after that day, never both in the same step.
 - **After the concealer, a hint of color**: the [e.l.f. Sheer For It Blush Tint](/en/productos/B0GVG4S4X9) applies with your fingers on your cheeks in seconds, without adding the brush step of a traditional blush. If you want something more pigmented and longer-wearing (and don't mind paying almost 4 times more), the [Rare Beauty Soft Pinch Liquid Blush](/en/productos/B08JKTGRGT) — TikTok's most-searched blush for three years running — holds for 8 to 10 hours without a touch-up, but you have to blend it within seconds since it sets much faster than the e.l.f. tint.
 - **If you notice your makeup shifting by mid-morning**: the [Maybelline Fit Me Translucent Pressed Powder](/en/productos/B00PFCSNWA) sets your concealer and blush without adding extra color — a maintenance step, not mandatory in the base routine.
+- **As the very last step, so nothing above moves during long, hot days**: the [Urban Decay All Nighter Waterproof Setting Spray](/en/productos/B0F75ZR6H9) goes on last, over everything else once it's done — it doesn't replace the Fit Me powder above, it complements it: the powder absorbs oil and mattifies with solid particles, the spray is a liquid layer that seals on top without adding more product. If your skin is oily, powder first, then spray — never the other way around. It's the setting spray that got the most TikTok attention in 2026 because of its reformulation — several wedding makeup artists confirmed on video that the new formula holds up through hours of photos, heat, and tears.
 - **Between cleanser and sunscreen, a serum**: the [CeraVe Hyaluronic Acid Serum](/en/productos/B07K3261ZD) adds deep hydration if your skin is especially dry, or [The Ordinary Niacinamide 10% + Zinc 1%](/en/productos/B01MDTVZTZ) if your skin is combination to oily and you want to refine pores instead of adding more hydration. If your goal isn't hydration or pore refinement but brightening a dull or uneven skin tone, the [CeraVe Skin Brightening Vitamin C Serum](/en/productos/B07PNCCLD2) is the third path — same brand as the hyaluronic acid one in this ranking, but with 10% pure vitamin C (an antioxidant) instead of extra hydration. Just apply it during the day always alongside the Step 2 sunscreen, never in place of it.
 - **At night, a lip treatment**: the [LANEIGE Lip Sleeping Mask](/en/productos/B07XXPHQZK) isn't for this morning routine, but it repairs lips while you sleep — a good nighttime complement to step 4.
 - **To reapply during the day**: the [Burt's Bees Lip Balm](/en/productos/B01MRH7MR4) is the untinted balm you carry in your bag to reapply whenever, without relying on the tinted oil from step 4.
@@ -68,6 +69,19 @@ If you want to see the Halo Glow Liquid Filter's "filtered" effect in real use (
     <a target="_blank" title="@shanell.sorrells" href="https://www.tiktok.com/@shanell.sorrells?refer=embed">@shanell.sorrells</a>
     <p>……….😣😄🙃 things work differently for everyone but….. #makeupreview #makeup #newmakeup #elfhaloglow #elfhaloglowliquidfilter #makeupreviews</p>
     <a target="_blank" title="♬ original sound - Shanell Sorrells" href="https://www.tiktok.com/music/original-sound-7453276874450504494?refer=embed">♬ original sound - Shanell Sorrells</a>
+  </section>
+</blockquote>
+<script async src="https://www.tiktok.com/embed.js"></script>
+</div>
+
+On the 2026 reformulation of the Urban Decay All Nighter that sparked so much debate on TikTok, this real review from a makeup artist puts the new formula to the test (24-hour wear, waterproof and sweat-resistant):
+
+<div class="not-prose my-6 flex justify-center">
+<blockquote class="tiktok-embed" cite="https://www.tiktok.com/@vpettorelli/video/7567060181981367608" data-video-id="7567060181981367608" data-embed-from="oembed" style="max-width:605px; min-width:325px;">
+  <section>
+    <a target="_blank" title="@vpettorelli" href="https://www.tiktok.com/@vpettorelli?refer=embed">@vpettorelli</a>
+    <p>I tested the new All Nighter Setting Spray and it's even stronger and longer lasting than before - and officially roller coaster proof 💋 up to 24 hour wear, waterproof, smudge proof, transfer-resistant, sweat resistant and more! @urban decay #UrbanDecay #UnbeatablePerformance #UrbanDecay_Partner</p>
+    <a target="_blank" title="♬ original sound - vanessa" href="https://www.tiktok.com/music/original-sound-7567060182803434252?refer=embed">♬ original sound - vanessa</a>
   </section>
 </blockquote>
 <script async src="https://www.tiktok.com/embed.js"></script>
