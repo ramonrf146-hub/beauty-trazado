@@ -45,6 +45,7 @@ Esta rutina de 4 pasos es la base — pero hay algunos productos que suman valor
 - **A la noche, un tratamiento labial**: la [LANEIGE Lip Sleeping Mask](/productos/B07XXPHQZK) no es para esta rutina de la mañana, pero repara los labios mientras dormís — un buen complemento nocturno al paso 4.
 - **Para reaplicar durante el día**: el [Burt's Bees Lip Balm](/productos/B01MRH7MR4) es el bálsamo sin color que llevás en la cartera para reaplicar cuando sea, sin depender del aceite con color del paso 4.
 - **Antes de salir, control de frizz**: el [Garnier Fructis Anti-Frizz Serum](/productos/B006J44BSI) son un par de gotas de más antes de peinar, si tu pelo se encrespa con la humedad.
+- **A la noche, de fondo (no reemplaza el Paso 3 de la mañana)**: el [Grande Cosmetics GrandeLASH-MD Lash Enhancing Serum](/productos/B00325D0WK) se aplica en la base de las pestañas limpias antes de dormir, todas las noches — a diferencia de la [Maybelline Sky High](/productos/B08H3JPH74) del Paso 3, que da volumen instantáneo y se retira cada noche, este suero no se ve al toque: recién a las 4-6 semanas empieza a notarse pestaña propia más larga y gruesa. Seguís usando la máscara de día igual que siempre; el suero es un tratamiento de fondo, no un sustituto.
 
 Si tu piel es seca todo el año, también podés reemplazar cualquier hidratante genérico por el [CeraVe Moisturizing Cream](/productos/B00TTD9BRC) como paso final antes de salir.
 

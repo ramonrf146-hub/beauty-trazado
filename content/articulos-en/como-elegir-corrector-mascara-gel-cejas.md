@@ -19,6 +19,23 @@ Here the criterion isn't "which gives more volume" but which formula type you ac
 
 The [Maybelline Lash Sensational Sky High](/en/productos/B08H3JPH74) in this ranking is one of the most-reviewed on all of Amazon (188,000+ reviews) — flexible fiber brush, buildable formula, washable. Great for daily wear; not the pick if you're swimming or doing intense exercise with it on.
 
+### Mascara vs. lash serum: they don't solve the same problem
+
+There's a third path here that no mascara covers, buildable or waterproof: none of them change the lash at the root, because the effect comes off every night with makeup remover. The [Grande Cosmetics GrandeLASH-MD Lash Enhancing Serum](/en/productos/B00325D0WK), just added to this ranking, is a different category of product entirely — a serum with peptides, vitamins, and amino acids applied at night to clean lashes, as a treatment, not as makeup. It doesn't give instant volume: the first real changes take 4 to 6 weeks, with full results closer to 3 months. Mascara stays the everyday step; the serum is the background step that, with consistent use, means you need less mascara over time. Real limitation, taken from Amazon's own buyer review summary: some users report eye irritation, and opinions are mixed on whether results hold up once you stop — this isn't a fit for every sensitive eye without a patch test first.
+
+This real video shows one user's before and after after trying the serum alongside her usual mascara:
+
+<div class="not-prose my-6 flex justify-center">
+<blockquote class="tiktok-embed" cite="https://www.tiktok.com/@alexisleianna/video/7444438656951078186" data-video-id="7444438656951078186" data-embed-from="oembed" style="max-width:605px; min-width:325px;">
+  <section>
+    <a target="_blank" title="@alexisleianna" href="https://www.tiktok.com/@alexisleianna?refer=embed">@alexisleianna</a>
+    <p>Before and after eyelashes after trying @Grande Cosmetics @Alicia Grande #beforeandafter #beauty #beautyfinds #eyes #eyelashes #eyelashserum #mascara #lashserum #lashserumresults #lashserumreview #grandecosmetics #grandelash #ttsbeautybesties #ttsstarcreator</p>
+    <a target="_blank" title="♬ original sound - Alexis Leianna" href="https://www.tiktok.com/music/original-sound-7444438548662749998?refer=embed">♬ original sound - Alexis Leianna</a>
+  </section>
+</blockquote>
+<script async src="https://www.tiktok.com/embed.js"></script>
+</div>
+
 ## Brow gel: clear vs. tinted is not the same as "which is better"
 
 A clear brow gel holds hair in place (a DIY "laminated brow" effect) without adding color — it works if your brows already have the shape and density you want and you just need them to stay neat all day. If you also need to fill in gaps or darken your brows, you need the tinted version, which is a different product (even if from the same line), not an option within the same tube.
@@ -37,6 +54,7 @@ If you want to see how it looks applied and how long the hold actually lasts in 
 |---|---|
 | Concealer | The shade, not the brand — check reviews with photos from similar skin tones to yours. |
 | Mascara | Buildable + washable, or waterproof — not both in the same formula. |
+| Lash serum | A background treatment, not makeup — results at 4-6 weeks, not same-day. |
 | Brow gel | Clear (holds only) or tinted (holds and colors) — they're different products. |
 
 ## Our pick this month
@@ -50,6 +68,9 @@ Yes — many people use only concealer on under-eyes and spot areas without appl
 
 **Does a buildable mascara damage lashes more than a regular one?**
 Not necessarily — "buildable" describes how it's applied (in layers), not a different ingredient. Lash health depends more on how you remove it (never pulling, always with makeup remover) than on whether the formula is buildable.
+
+**Can I use the lash serum and mascara together?**
+Yes, and it's the most common combination: the serum goes on at night over clean lashes, mascara during the day over lashes already done up — they don't interfere with each other. The one thing not to expect is the serum replacing mascara overnight; its effect builds up over time, it isn't immediate.
 
 **Does clear brow gel work for all brow types?**
 It works best on brows that already have good density and shape — if you have sparse patches, a clear gel won't disguise them; that's where a tinted version or a separate brow pencil comes in.

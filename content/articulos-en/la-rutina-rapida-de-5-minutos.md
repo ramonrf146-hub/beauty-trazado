@@ -45,6 +45,7 @@ This 4-step routine is the base — but a few products add real value without ad
 - **At night, a lip treatment**: the [LANEIGE Lip Sleeping Mask](/en/productos/B07XXPHQZK) isn't for this morning routine, but it repairs lips while you sleep — a good nighttime complement to step 4.
 - **To reapply during the day**: the [Burt's Bees Lip Balm](/en/productos/B01MRH7MR4) is the untinted balm you carry in your bag to reapply whenever, without relying on the tinted oil from step 4.
 - **Before heading out, frizz control**: the [Garnier Fructis Anti-Frizz Serum](/en/productos/B006J44BSI) is a couple extra drops before styling, if your hair frizzes with humidity.
+- **At night, in the background (doesn't replace the morning's Step 3)**: the [Grande Cosmetics GrandeLASH-MD Lash Enhancing Serum](/en/productos/B00325D0WK) goes on clean lashes before bed, every night — unlike the [Maybelline Sky High](/en/productos/B08H3JPH74) from Step 3, which gives instant volume and comes off every night, this serum isn't visible right away: only around 4 to 6 weeks in do your own lashes start looking longer and thicker. You keep wearing mascara during the day as usual; the serum is a background treatment, not a substitute.
 
 If your skin is dry year-round, you can also swap any generic moisturizer for the [CeraVe Moisturizing Cream](/en/productos/B00TTD9BRC) as a final step before heading out.
 

@@ -19,6 +19,23 @@ Acá el criterio no es "cuál da más volumen" sino qué tipo de fórmula necesi
 
 La [Maybelline Lash Sensational Sky High](/productos/B08H3JPH74) de este ranking es de las más reseñadas de todo Amazon (188.000+ reseñas) — cepillo de fibras flexibles, fórmula buildable, washable. Perfecta para uso diario; no es la elección si vas a nadar o hacer ejercicio intenso con ella puesta.
 
+### Máscara vs. suero de pestañas: no resuelven lo mismo
+
+Acá hay un tercer camino que ninguna máscara cubre, sea buildable o waterproof: ninguna cambia la pestaña de base, porque el efecto se retira todas las noches con el desmaquillante. El [Grande Cosmetics GrandeLASH-MD Lash Enhancing Serum](/productos/B00325D0WK), recién sumado a este ranking, es otra categoría de producto — un suero con péptidos, vitaminas y aminoácidos que se aplica de noche en la base de las pestañas limpias, como un tratamiento, no como maquillaje. No da volumen instantáneo: los primeros cambios reales tardan de 4 a 6 semanas, con resultado completo cerca de los 3 meses. La máscara sigue siendo el paso del día a día; el suero es el paso de fondo que, con constancia, hace que necesites menos máscara con el tiempo. Limitación real, tomada del resumen de reseñas de compradores de Amazon: una parte de los usuarios reporta irritación ocular, y las opiniones sobre si el resultado se sostiene al discontinuar son mixtas — no es apto para cualquier ojo sensible sin probar antes en una zona chica.
+
+Este video real muestra el antes y después de una usuaria tras probar el suero junto a su máscara habitual:
+
+<div class="not-prose my-6 flex justify-center">
+<blockquote class="tiktok-embed" cite="https://www.tiktok.com/@alexisleianna/video/7444438656951078186" data-video-id="7444438656951078186" data-embed-from="oembed" style="max-width:605px; min-width:325px;">
+  <section>
+    <a target="_blank" title="@alexisleianna" href="https://www.tiktok.com/@alexisleianna?refer=embed">@alexisleianna</a>
+    <p>Before and after eyelashes after trying @Grande Cosmetics @Alicia Grande #beforeandafter #beauty #beautyfinds #eyes #eyelashes #eyelashserum #mascara #lashserum #lashserumresults #lashserumreview #grandecosmetics #grandelash #ttsbeautybesties #ttsstarcreator</p>
+    <a target="_blank" title="♬ original sound - Alexis Leianna" href="https://www.tiktok.com/music/original-sound-7444438548662749998?refer=embed">♬ original sound - Alexis Leianna</a>
+  </section>
+</blockquote>
+<script async src="https://www.tiktok.com/embed.js"></script>
+</div>
+
 ## Gel de cejas: transparente vs. con tinte no es lo mismo que "cuál es mejor"
 
 Un gel de cejas transparente fija el vello en su lugar (efecto "cejas laminadas" casero) sin agregar color — sirve si tus cejas ya tienen la forma y densidad que querés y solo necesitás que se mantengan prolijas todo el día. Si además necesitás rellenar espacios o oscurecer, necesitás la versión con tinte, que es un producto distinto (aunque de la misma línea), no una opción dentro del mismo frasco.
@@ -37,6 +54,7 @@ Si querés ver cómo queda aplicado y cuánto dura la fijación en un uso real (
 |---|---|
 | Corrector | El tono, no la marca — mirá reseñas con fotos de tonos de piel similares al tuyo. |
 | Máscara de pestañas | Buildable + washable, o waterproof — no ambas en la misma fórmula. |
+| Suero de pestañas | Tratamiento de fondo, no maquillaje — resultado recién a las 4-6 semanas, no el mismo día. |
 | Gel de cejas | Transparente (solo fija) o con tinte (fija y colorea) — son productos distintos. |
 
 ## Nuestra recomendación del mes
@@ -50,6 +68,9 @@ Sí — muchas personas usan solo corrector en ojeras e imperfecciones puntuales
 
 **¿La máscara buildable daña más las pestañas que una regular?**
 No necesariamente — "buildable" describe cómo se aplica (en capas), no un ingrediente distinto. El cuidado de las pestañas depende más de cómo se retira (nunca tirando, siempre con desmaquillante) que de si la fórmula es buildable o no.
+
+**¿Puedo usar el suero de pestañas y la máscara juntos?**
+Sí, y es la combinación más común: el suero se aplica de noche sobre pestañas limpias, la máscara de día sobre pestañas ya maquilladas — no interfieren entre sí. Lo único que no conviene es esperar que el suero reemplace a la máscara de un día para el otro; su efecto es acumulativo, no inmediato.
 
 **¿El gel de cejas transparente sirve para todos los tipos de ceja?**
 Funciona mejor en cejas que ya tienen buena densidad y forma — si tenés zonas muy ralas, un gel transparente no las va a disimular; ahí es donde entra la versión con tinte o un lápiz de cejas aparte.
