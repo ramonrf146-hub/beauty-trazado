@@ -58,6 +58,22 @@ The [Anua Heartleaf 77% Soothing Toner](/en/productos/B08CMS8P67) in this rankin
 
 Thousands of products go viral for two weeks and disappear. These three sustain real repurchase volume over time (40K, 50K+, and several straight seasons, respectively) and have reviews from professionals or at least thousands of sustained verified reviews — not just "it worked for me" testimonials. That combination is what we look for before adding any "viral" product to this site.
 
+## The extra that doesn't compete with the three above: for the pimple that's already there
+
+The three products above work preventively and continuously on skin in general — none of them is built for a single pimple that has already shown up. That's where the [Hero Cosmetics Mighty Patch Original](/en/productos/B074PVTPBW) comes in, the most viral hydrocolloid patch on TikTok in the acne category, with over 186,000 real reviews on Amazon (the highest count in this entire ranking).
+
+<div class="not-prose my-6 flex justify-center">
+<blockquote class="tiktok-embed" cite="https://www.tiktok.com/@herocosmetics/video/7462953737036762398" data-video-id="7462953737036762398" data-embed-from="oembed" style="max-width:605px; min-width:325px;">
+  <section>
+    <a target="_blank" title="@herocosmetics" href="https://www.tiktok.com/@herocosmetics?refer=embed">@herocosmetics</a>
+    <p>The patches speak for themselves😮‍💨 Have you tried Mighty Patch™ Original patch?! #heropartner #pimplepatch #skincare #skincareroutine #oddlysatisfying</p>
+  </section>
+</blockquote>
+<script async src="https://www.tiktok.com/embed.js"></script>
+</div>
+
+The contrast with the [Paula's Choice 2% BHA](/en/productos/B00949CTQQ) above is direct: the BHA exfoliates pores in general so **fewer** pimples show up over time (prevention, used as part of the routine), while this patch doesn't prevent anything — it sticks onto a pimple with a white head **that's already there** and, overnight, pulls the fluid out from the inside like a microscopic sponge, instead of you squeezing it with your fingers. One doesn't replace the other: the BHA lowers how many pimples you'll get, the patch handles the one that already showed up.
+
 ## How to use them together without issue
 
 They're not applied in the same step or necessarily the same night:
@@ -69,6 +85,8 @@ They're not applied in the same step or necessarily the same night:
 5. Moisturizer
 6. Sunscreen (the next morning, no exceptions, if you used the BHA)
 
+The **Mighty Patch** isn't part of this fixed routine — it's added separately, only the night a pimple shows up with a visible white head, on clean, dry skin, on top of the other steps.
+
 ## Our pick this month
 
 Check out the full [Facial Care](/en/categorias/cuidado-facial) ranking to compare these two against the rest of the catalog before adding them to your routine. If you're looking for something for the weekend (not daily), the [facial mask guide](/en/articulos/guia-mascarillas-faciales) explains when clay, hydrogel, or peel-off makes more sense.
@@ -79,4 +97,7 @@ Check out the full [Facial Care](/en/categorias/cuidado-facial) ranking to compa
 Yes, they're generally well tolerated together (BHA first, snail mucin after), but if you have sensitive skin or it's your first time with the BHA, try each separately for the first two weeks to spot any reaction.
 
 **Does snail mucin work for active acne?**
-It's not an acne treatment — it's a moisturizer/barrier repair product. For active acne, the BHA from this same article is the option with real evidence, not snail mucin.
+It's not an acne treatment — it's a moisturizer/barrier repair product. For active acne, the BHA from this same article is the preventive option with real evidence (it works on pores in general, before a pimple forms), and the [Mighty Patch](/en/productos/B074PVTPBW) is the reactive option for once a pimple has already shown up — not snail mucin in either case.
+
+**Does the hydrocolloid patch replace the BHA?**
+No — they do different jobs and it's worth using both. The BHA works preventively and continuously on pores in general; the patch only acts on a single pimple that's already there, and only once it has a visible white head (on a hard, internal one with no tip, it has nothing to absorb).

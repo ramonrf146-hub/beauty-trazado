@@ -58,6 +58,22 @@ El [Anua Heartleaf 77% Soothing Toner](/productos/B08CMS8P67) de este ranking ti
 
 Miles de productos se vuelven virales por dos semanas y desaparecen. Estos tres sostienen volumen real de recompra en el tiempo (40K, 50K+ y varias temporadas seguidas, respectivamente) y tienen revisiones de profesionales o al menos miles de reseñas verificadas sostenidas — no solo testimonios de "a mí me funcionó". Esa combinación es la que buscamos antes de sumar cualquier producto "viral" a este sitio.
 
+## El extra que no compite con los tres de arriba: para el grano que ya salió
+
+Los tres productos de arriba trabajan de forma preventiva y continua sobre la piel en general — ninguno está pensado para un grano puntual que ya apareció. Ahí es donde entra el [Hero Cosmetics Mighty Patch Original](/productos/B074PVTPBW), el parche de hidrocoloide más viral de TikTok en la categoría acné, con más de 186.000 reseñas reales en Amazon (el número más alto de todo este ranking).
+
+<div class="not-prose my-6 flex justify-center">
+<blockquote class="tiktok-embed" cite="https://www.tiktok.com/@herocosmetics/video/7462953737036762398" data-video-id="7462953737036762398" data-embed-from="oembed" style="max-width:605px; min-width:325px;">
+  <section>
+    <a target="_blank" title="@herocosmetics" href="https://www.tiktok.com/@herocosmetics?refer=embed">@herocosmetics</a>
+    <p>The patches speak for themselves😮‍💨 Have you tried Mighty Patch™ Original patch?! #heropartner #pimplepatch #skincare #skincareroutine #oddlysatisfying</p>
+  </section>
+</blockquote>
+<script async src="https://www.tiktok.com/embed.js"></script>
+</div>
+
+El contraste con el [Paula's Choice 2% BHA](/productos/B00949CTQQ) de arriba es directo: el BHA exfolia los poros en general para que salgan **menos** granos con el tiempo (prevención, se usa toda la rutina), mientras que este parche no previene nada — se pega sobre un grano con punta blanca **que ya está ahí** y, durante la noche, absorbe el líquido de adentro hacia afuera como una esponja microscópica, en vez de que lo aprietes con los dedos. Uno no reemplaza al otro: el BHA reduce cuántos granos te van a salir, el parche resuelve el que ya salió.
+
 ## Cómo usarlos juntos sin problema
 
 No se aplican en el mismo paso ni necesariamente la misma noche:
@@ -69,6 +85,8 @@ No se aplican en el mismo paso ni necesariamente la misma noche:
 5. Hidratante
 6. Protector solar (a la mañana siguiente, sin excepción, si usaste el BHA)
 
+El **Mighty Patch** no entra en esta rutina fija — se suma aparte, solo la noche que aparece un grano con punta blanca visible, sobre piel limpia y seca, encima de los demás pasos.
+
 ## Nuestra recomendación del mes
 
 Mirá el ranking completo de [Cuidado Facial](/categorias/cuidado-facial) para comparar estos dos frente al resto del catálogo antes de sumarlos a tu rutina. Si buscás algo para el fin de semana (no diario), la [guía de mascarillas faciales](/articulos/guia-mascarillas-faciales) explica cuándo conviene arcilla, hidrogel o peel-off.
@@ -79,4 +97,7 @@ Mirá el ranking completo de [Cuidado Facial](/categorias/cuidado-facial) para c
 Sí, en general se toleran bien juntos (BHA primero, mucina de caracol después), pero si tenés piel sensible o es tu primera vez con el BHA, probá cada uno por separado las primeras dos semanas para identificar cualquier reacción.
 
 **¿El snail mucin sirve para acné activo?**
-No es un tratamiento para acné — es un hidratante/reparador de barrera. Para acné activo, el BHA de este mismo artículo es la opción con evidencia real, no el snail mucin.
+No es un tratamiento para acné — es un hidratante/reparador de barrera. Para acné activo, el BHA de este mismo artículo es la opción preventiva con evidencia real (actúa sobre los poros en general, antes de que se forme el grano), y el [Mighty Patch](/productos/B074PVTPBW) es la opción reactiva para cuando el grano ya salió — no el snail mucin en ninguno de los dos casos.
+
+**¿El parche de hidrocoloide reemplaza al BHA?**
+No — cumplen roles distintos y conviene usar los dos. El BHA trabaja de forma preventiva y continua sobre los poros en general; el parche solo actúa sobre un grano puntual que ya está ahí, y únicamente si ya tiene punta blanca visible (sobre un grano interno y duro, sin cabeza, no tiene nada que absorber).
