@@ -36,7 +36,7 @@ El [e.l.f. Glow Reviver Lip Oil](/productos/B0DFMX8YWJ) da color adaptado al ton
 Esta rutina de 4 pasos es la base — pero hay algunos productos que suman valor real sin agregar más de un minuto:
 
 - **Si no tenés pileta cerca (viaje, gimnasio)**: las [toallitas desmaquillantes Neutrogena](/productos/B00U2VQZDS) reemplazan el paso 1 sin necesitar agua — no limpian tan a fondo como el CeraVe con agua, pero resuelven el día que no tenés dónde lavarte.
-- **Antes del limpiador, un corrector**: el [Maybelline Instant Age Rewind](/productos/B004Y9GTOO) cubre ojeras en 15 segundos con un aplicador tipo esponja, sin necesitar brochas extra.
+- **Antes del limpiador, un corrector**: el [Maybelline Instant Age Rewind](/productos/B004Y9GTOO) cubre ojeras en 15 segundos con un aplicador tipo esponja, sin necesitar brochas extra. Si esa esponjita de la tapa te deja el corrector con bordes marcados en vez de integrado en la piel, la [Real Techniques Miracle Complexion Sponge](/productos/B00EUBPHR6) es el paso extra de 10 segundos que lo resuelve: es una esponja aparte, más grande, pensada solo para difuminar (no para aplicar) — se usa húmeda, a golpecitos, después del corrector, nunca en su reemplazo.
 - **Después del corrector, un efecto de piel luminosa (sin base completa)**: el [e.l.f. Halo Glow Liquid Filter](/productos/B0B5MGBDHZ) — el producto de maquillaje más viral e imitado de TikTok de los últimos años — se aplica con los dedos sobre la piel para dar un efecto "con filtro" difuminado, en vez de cubrir como una base tradicional. Es exactamente lo opuesto del [Maybelline Fit Me Polvo Compacto](/productos/B00PFCSNWA) de más abajo en esta misma lista: el Halo Glow suma brillo húmedo (dewy) y no sirve si tu piel es grasa, mientras que el Fit Me hace lo contrario — matifica y controla el brillo. Usá uno u otro según qué acabado busques ese día, nunca los dos en el mismo paso.
 - **Después del corrector, un toque de color**: el [e.l.f. Sheer For It Blush Tint](/productos/B0GVG4S4X9) se aplica con los dedos sobre las mejillas en segundos, sin sumar el paso de brocha de un blush tradicional. Si buscás algo más pigmentado y de mayor duración (y no te importa pagar casi 4 veces más), el [Rare Beauty Soft Pinch Liquid Blush](/productos/B08JKTGRGT) — el blush más buscado en TikTok durante tres años seguidos — aguanta 8 a 10 horas sin retoque, pero a cambio hay que difuminarlo en los primeros segundos porque fija mucho más rápido que el tinte de e.l.f.
 - **Si notás que el maquillaje se corre a media mañana**: el [Maybelline Fit Me Polvo Compacto Translúcido](/productos/B00PFCSNWA) fija el corrector y el blush sin agregar color extra — es un paso de mantenimiento, no obligatorio en la rutina base.
@@ -70,6 +70,19 @@ Si querés ver el efecto "con filtro" del Halo Glow Liquid Filter en un uso real
     <a target="_blank" title="@shanell.sorrells" href="https://www.tiktok.com/@shanell.sorrells?refer=embed">@shanell.sorrells</a>
     <p>……….😣😄🙃 things work differently for everyone but….. #makeupreview #makeup #newmakeup #elfhaloglow #elfhaloglowliquidfilter #makeupreviews</p>
     <a target="_blank" title="♬ original sound - Shanell Sorrells" href="https://www.tiktok.com/music/original-sound-7453276874450504494?refer=embed">♬ original sound - Shanell Sorrells</a>
+  </section>
+</blockquote>
+<script async src="https://www.tiktok.com/embed.js"></script>
+</div>
+
+Sobre cómo usar la Real Techniques Miracle Complexion Sponge para que el corrector quede realmente integrado en la piel (húmeda, a golpecitos, nunca arrastrando), la propia marca lo muestra en este video oficial:
+
+<div class="not-prose my-6 flex justify-center">
+<blockquote class="tiktok-embed" cite="https://www.tiktok.com/@realtechniquesofficial/video/7603835545541692685" data-video-id="7603835545541692685" data-embed-from="oembed" style="max-width:605px; min-width:325px;">
+  <section>
+    <a target="_blank" title="@realtechniquesofficial" href="https://www.tiktok.com/@realtechniquesofficial?refer=embed">@realtechniquesofficial</a>
+    <p>the reviews say it all ✨ use the miracle complexion sponge damp for best results and get the most out of your makeup 🩷 shop the @Allure best of beauty winner on @Amazon! #makeupessentials #makeupsponge</p>
+    <a target="_blank" title="♬ original sound - realtechniques" href="https://www.tiktok.com/music/original-sound-7603835716560882446?refer=embed">♬ original sound - realtechniques</a>
   </section>
 </blockquote>
 <script async src="https://www.tiktok.com/embed.js"></script>

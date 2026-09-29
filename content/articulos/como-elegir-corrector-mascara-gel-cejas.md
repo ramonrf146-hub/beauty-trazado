@@ -13,6 +13,10 @@ El error más común no es elegir mal la marca, es elegir mal el tono — y la m
 
 El [Maybelline Instant Age Rewind Eraser](/productos/B004Y9GTOO) de este ranking es multiuso (ojeras, rojeces, imperfecciones puntuales) con más de 246.000 reseñas y aplicador tipo esponja — pero el match de color por foto puede fallar como con cualquier corrector. Antes de elegir el tono, buscá reseñas con fotos de personas con un tono de piel parecido al tuyo, en vez de guiarte solo por el nombre del tono ("Light", "Medium") que varía de marca a marca.
 
+### Ya elegiste el tono correcto: ¿cómo lo aplicás sin que se note?
+
+El aplicador tipo esponja que trae pegado a la tapa el Maybelline Instant Age Rewind sirve para poner el producto rápido, pero es chico y no está pensado para difuminar — muchas devoluciones de "este corrector se ve raro" son en realidad un problema de aplicación, no de tono ni de fórmula. La [Real Techniques Miracle Complexion Sponge](/productos/B00EUBPHR6) es una esponja aparte, más grande, con tres zonas (punta fina, lateral chato, cuerpo redondeado) pensada solo para eso: mezclar los bordes del corrector con la piel hasta que no se note dónde empieza y dónde termina. Se usa húmeda, a golpecitos, justo después de aplicar el corrector con el aplicador de la tapa — uno pone el producto, el otro lo integra.
+
 ## Máscara de pestañas: buildable vs. waterproof, no ambas a la vez
 
 Acá el criterio no es "cuál da más volumen" sino qué tipo de fórmula necesitás. Una fórmula **buildable** se aplica en capas para ir sumando volumen sin verse parchada — pero eso generalmente significa que es **washable** (se retira con limpiador normal), no resistente al agua o al sudor. Si necesitás resistencia real (piscina, gimnasio, clima húmedo), tenés que buscar específicamente la versión waterproof de esa misma línea — no asumas que la fórmula regular también lo es.
@@ -52,7 +56,7 @@ Si querés ver cómo queda aplicado y cuánto dura la fijación en un uso real (
 
 | Producto | Lo que hay que confirmar antes de comprar |
 |---|---|
-| Corrector | El tono, no la marca — mirá reseñas con fotos de tonos de piel similares al tuyo. |
+| Corrector | El tono, no la marca — mirá reseñas con fotos de tonos de piel similares al tuyo. Para difuminarlo, una esponja aparte da mejor resultado que el aplicador de la tapa. |
 | Máscara de pestañas | Buildable + washable, o waterproof — no ambas en la misma fórmula. |
 | Suero de pestañas | Tratamiento de fondo, no maquillaje — resultado recién a las 4-6 semanas, no el mismo día. |
 | Gel de cejas | Transparente (solo fija) o con tinte (fija y colorea) — son productos distintos. |
@@ -65,6 +69,9 @@ Mirá el ranking completo de [Maquillaje](/categorias/maquillaje) para comparar 
 
 **¿Puedo usar corrector sin base de maquillaje?**
 Sí — muchas personas usan solo corrector en ojeras e imperfecciones puntuales sin aplicar base en el resto de la cara, especialmente en una rutina rápida. No hace falta que sean parte del mismo paso.
+
+**¿Vale la pena comprar una esponja aparte si el corrector ya trae aplicador?**
+Sí, si notás bordes marcados o un efecto "parchado" — el aplicador de la tapa aplica bien pero no está diseñado para difuminar en profundidad. Una esponja húmeda (como la Real Techniques Miracle Complexion Sponge) suma menos de 10 segundos al paso y hace la diferencia entre que se note el corrector o no. Eso sí, hay que lavarla después de cada uso — al ser espuma, no silicona, junta bacterias si se reutiliza sin lavar.
 
 **¿La máscara buildable daña más las pestañas que una regular?**
 No necesariamente — "buildable" describe cómo se aplica (en capas), no un ingrediente distinto. El cuidado de las pestañas depende más de cómo se retira (nunca tirando, siempre con desmaquillante) que de si la fórmula es buildable o no.

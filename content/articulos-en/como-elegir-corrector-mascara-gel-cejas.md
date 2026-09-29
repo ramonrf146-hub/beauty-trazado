@@ -13,6 +13,10 @@ The most common mistake isn't picking the wrong brand, it's picking the wrong sh
 
 The [Maybelline Instant Age Rewind Eraser](/en/productos/B004Y9GTOO) in this ranking is multi-use (under-eye, redness, spot concealing) with over 246,000 reviews and a sponge-tip applicator — but shade-matching from a photo can fail just like with any concealer. Before picking a shade, look for reviews with photos from people with a skin tone similar to yours, instead of relying only on the shade name ("Light," "Medium"), which varies from brand to brand.
 
+### You picked the right shade — now how do you apply it so it doesn't show?
+
+The sponge-tip applicator built into the Maybelline Instant Age Rewind's cap is good for putting product on fast, but it's small and isn't built to blend — a lot of "this concealer looks weird" complaints are actually an application problem, not a shade or formula issue. The [Real Techniques Miracle Complexion Sponge](/en/productos/B00EUBPHR6) is a separate, bigger sponge with three zones (fine tip, flat side, rounded body) built only for that: blending the concealer's edges into skin until you can't tell where it starts or stops. Use it damp, patting it on right after applying the concealer with the cap applicator — one puts the product on, the other blends it in.
+
 ## Mascara: buildable vs. waterproof, not both at once
 
 Here the criterion isn't "which gives more volume" but which formula type you actually need. A **buildable** formula is applied in layers to add volume gradually without looking clumpy — but that usually means it's **washable** (removes with regular cleanser), not water- or sweat-resistant. If you need real resistance (pool, gym, humid weather), you need to specifically look for the waterproof version of that same line — don't assume the regular formula is waterproof too.
@@ -52,7 +56,7 @@ If you want to see how it looks applied and how long the hold actually lasts in 
 
 | Product | What to confirm before buying |
 |---|---|
-| Concealer | The shade, not the brand — check reviews with photos from similar skin tones to yours. |
+| Concealer | The shade, not the brand — check reviews with photos from similar skin tones to yours. To blend it, a separate sponge outperforms the cap applicator. |
 | Mascara | Buildable + washable, or waterproof — not both in the same formula. |
 | Lash serum | A background treatment, not makeup — results at 4-6 weeks, not same-day. |
 | Brow gel | Clear (holds only) or tinted (holds and colors) — they're different products. |
@@ -65,6 +69,9 @@ Check the full [Makeup](/en/categorias/maquillaje) ranking to compare current pr
 
 **Can I use concealer without foundation?**
 Yes — many people use only concealer on under-eyes and spot areas without applying foundation elsewhere on the face, especially in a quick routine. They don't need to be part of the same step.
+
+**Is a separate sponge worth it if the concealer already comes with an applicator?**
+Yes, if you notice visible edges or a "patchy" look — the cap applicator puts product on well but isn't built for deep blending. A damp sponge (like the Real Techniques Miracle Complexion Sponge) adds less than 10 seconds to the step and makes the difference between concealer that shows and one that doesn't. Just wash it after every use — since it's foam, not silicone, it collects bacteria if reused without washing.
 
 **Does a buildable mascara damage lashes more than a regular one?**
 Not necessarily — "buildable" describes how it's applied (in layers), not a different ingredient. Lash health depends more on how you remove it (never pulling, always with makeup remover) than on whether the formula is buildable.
