@@ -36,6 +36,12 @@ Un protector que se siente pesado, deja la piel brillosa o interfiere con el maq
 
 Un protector pensado para cuerpo suele ser más pesado y menos cuidadoso con la piel de la cara (más propensa a poros tapados). Si vas a usar el mismo producto en cara y cuerpo, buscá uno explícitamente formulado para ambos — como el Anthelios de este ranking — en vez de asumir que cualquier protector corporal sirve también para la cara.
 
+Ahí también entra el formato, no solo la fórmula. Todos los protectores de este ranking hasta acá son fluido, loción o polvo — pensados para untarse con la mano en la cara, con calma, una vez a la mañana. Para un día de playa o pileta, donde hay que cubrir brazos, piernas y espalda y reaplicar cada 2 horas sin cortar el rato de sol, el [Neutrogena Beach Defense en spray SPF 50](/productos/B07X1YDGSF) resuelve ese otro problema: se rocía en segundos en vez de untarse, y está formulado para cara y cuerpo. No reemplaza al fluido o la loción de la rutina diaria de la cara — los complementa el día que el plan es estar horas afuera. Un detalle importante con cualquier spray: rociar no alcanza, hay que frotarlo con la mano después para que no queden zonas sin cubrir — la causa más común de las quemaduras que reportan compradores de este tipo de producto.
+
+<div class="not-prose my-6 overflow-hidden rounded-2xl border border-line-dim" style="aspect-ratio:16/9">
+<iframe width="100%" height="100%" src="https://www.youtube-nocookie.com/embed/rVvHD4NXnww" title="REVIEW: Neutrogena Beach Defense Spray Sunscreen" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
 ## Nuestra recomendación del mes
 
 Mirá el ranking de [Protección Solar](/categorias/proteccion-solar) — comparamos mineral vs. químico y facial vs. corporal en la nota técnica de cada producto, para que no tengas que adivinar leyendo la etiqueta en la farmacia. Si tu rutina nocturna incluye ácidos exfoliantes o retinol (ver la [guía de skincare viral en TikTok](/articulos/skincare-viral-en-tiktok) y el [ranking de Cuidado Facial](/categorias/cuidado-facial)), el protector solar del día siguiente deja de ser opcional.
@@ -50,3 +56,6 @@ No, salvo que te apliques una cantidad mucho mayor de la que normalmente usaría
 
 **¿Uso protector solar distinto si tengo una rutina con retinol?**
 No necesitás uno distinto, pero sí es más importante no saltearlo. El retinol (como el del [RoC Retinol Correxion Value Set](/productos/B00PKO2FD6) del ranking de Cuidado Facial) aumenta la sensibilidad al sol — cualquiera de los protectores de este ranking sirve, lo que no podés hacer es omitirlo la mañana después de usar retinol.
+
+**¿Puedo usar el spray corporal en la cara para ahorrar un paso?**
+Se puede, pero no es lo ideal todos los días: el [Neutrogena Beach Defense en spray](/productos/B07X1YDGSF) está formulado para cara y cuerpo, así que no va a tapar los poros como sí puede pasar con un protector corporal genérico — pero para el uso diario en la cara, un fluido o loción facial sigue dando mejor control de dónde cae el producto (los sprays pueden dejar zonas sin cubrir si no se frotan después). Para la rutina de todos los días, mejor un protector facial de este ranking; el spray, para cuando el plan es estar horas afuera y hay que cubrir mucho más que la cara.

@@ -36,6 +36,12 @@ A sunscreen that feels heavy, leaves skin shiny, or interferes with makeup ends 
 
 A sunscreen made for the body tends to be heavier and less careful about facial skin (more prone to clogged pores). If you're going to use the same product on face and body, look for one explicitly formulated for both — like the Anthelios in this ranking — instead of assuming any body sunscreen also works on your face.
 
+Format matters here too, not just formula. Every sunscreen in this ranking so far is a fluid, lotion, or powder — built to be rubbed in by hand on the face, calmly, once in the morning. For a beach or pool day, where you need to cover arms, legs, and back and reapply every 2 hours without cutting your time outside short, the [Neutrogena Beach Defense spray SPF 50](/en/productos/B07X1YDGSF) solves that other problem: you spray it in seconds instead of rubbing it in, and it's formulated for both face and body. It doesn't replace the fluid or lotion in your daily facial routine — it backs it up on the days the plan is hours outside. One important detail with any spray: spraying alone isn't enough — you need to rub it in by hand afterward so no spots get missed, the most common cause behind the burns some buyers of this type of product report.
+
+<div class="not-prose my-6 overflow-hidden rounded-2xl border border-line-dim" style="aspect-ratio:16/9">
+<iframe width="100%" height="100%" src="https://www.youtube-nocookie.com/embed/rVvHD4NXnww" title="REVIEW: Neutrogena Beach Defense Spray Sunscreen" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
 ## Our pick this month
 
 Check out the [Sun Protection](/en/categorias/proteccion-solar) ranking — we compare mineral vs. chemical and facial vs. body in each product's technical note, so you don't have to guess by reading the label at the drugstore. If your nighttime routine includes exfoliating acids or retinol (see the [viral TikTok skincare guide](/en/articulos/skincare-viral-en-tiktok) and the [Facial Care ranking](/en/categorias/cuidado-facial)), the next day's sunscreen stops being optional.
@@ -50,3 +56,6 @@ No, unless you apply a much larger amount than you'd normally use as foundation 
 
 **Do I need a different sunscreen if I use retinol?**
 You don't need a different one, but it becomes more important not to skip it. Retinol (like the one in the [RoC Retinol Correxion Value Set](/en/productos/B00PKO2FD6) from the Facial Care ranking) increases sun sensitivity — any sunscreen in this ranking works, what you can't do is skip it the morning after using retinol.
+
+**Can I use the body spray on my face to save a step?**
+You can, but it's not ideal every day: the [Neutrogena Beach Defense spray](/en/productos/B07X1YDGSF) is formulated for face and body, so it won't clog pores the way a generic body sunscreen might — but for daily facial use, a facial fluid or lotion still gives you better control over exactly where the product lands (sprays can leave spots uncovered if you don't rub them in afterward). For your everyday routine, stick with a facial sunscreen from this ranking; save the spray for the days the plan is hours outside and you need to cover a lot more than your face.
