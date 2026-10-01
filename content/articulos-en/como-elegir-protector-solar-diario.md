@@ -9,7 +9,7 @@ The best sunscreen isn't the one with the highest SPF — it's the one you'll ac
 
 ## 1. SPF: the difference between 30, 50, and 60 is smaller than it looks
 
-SPF 30 filters around 97% of UVB rays. SPF 50 filters around 98%. SPF 60 doesn't get much further. The real difference in protection between those numbers is marginal — what matters far more is reapplying every 2 hours of direct exposure, something almost nobody does because it means ruining your makeup with a liquid sunscreen. The [Hawaiian Tropic mineral powder with brush](/en/productos/B09GXF7KVD) in this ranking solves exactly that friction — it reapplies right over makeup, though as a booster on top of the morning's sunscreen, not as the day's only protection.
+SPF 30 filters around 97% of UVB rays. SPF 50 filters around 98%. SPF 60 doesn't get much further. The real difference in protection between those numbers is marginal — what matters far more is reapplying every 2 hours of direct exposure, something almost nobody does because it means ruining your makeup with a liquid sunscreen. The [Hawaiian Tropic mineral powder with brush](/en/productos/B09GXF7KVD) in this ranking solves exactly that friction — it reapplies right over makeup, though as a booster on top of the morning's sunscreen, not as the day's only protection. If your skin is dry rather than oily, that mattifying powder can make dryness more obvious instead of hiding it — for that case, the [Abib Quick Sunstick SPF50+](/en/productos/B0DSMTDVCH) solves the same friction (reapplying without ruining makeup) but with a dewy, hydrating finish instead of a mattifying one: it's a chemical filter infused with centella asiatica and aloe that glides on dry, straight onto skin, with no brush and no hands involved.
 
 ## 2. Broad spectrum isn't optional
 
@@ -42,6 +42,19 @@ Format matters here too, not just formula. Every sunscreen in this ranking so fa
 <iframe width="100%" height="100%" src="https://www.youtube-nocookie.com/embed/rVvHD4NXnww" title="REVIEW: Neutrogena Beach Defense Spray Sunscreen" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
+For reapplying on just your face and neck — without the risk of inhaling an aerosol mist or needing to rub it in afterward for even coverage — there's a third format: the solid stick. The [Abib Quick Sunstick Protection Bar SPF50+](/en/productos/B0DSMTDVCH), viral on TikTok through 2026, glides on dry, straight onto skin, like a lip balm, and since it isn't a liquid it doesn't count against the carry-on liquid limit if you're flying — unlike the spray, which you'd have to check or cap at 100ml/3.4oz. It doesn't replace the spray for covering full arms and legs at the beach, where the aerosol format is still faster, but it's the most practical option to carry in a bag and reapply on your face several times a day without messy hands or ruined makeup. It's a chemical filter (not mineral), so if you have skin that's very reactive near the eyes, apply it carefully in that area — some buyers report stinging when the product migrates toward the eye.
+
+<div class="not-prose my-6 flex justify-center">
+<blockquote class="tiktok-embed" cite="https://www.tiktok.com/@thelipsticklesbians/video/7541800009830944014" data-video-id="7541800009830944014" data-embed-from="oembed" style="max-width:605px; min-width:325px;">
+  <section>
+    <a target="_blank" title="@thelipsticklesbians" href="https://www.tiktok.com/@thelipsticklesbians?refer=embed">@thelipsticklesbians</a>
+    <p>I have to give it to @Abib Cosmetics, their sunscreen stick is one of the best I've tried and my fave on the market right now 👀 It's super ergonomic, fits perfectly in your hand, and glides on without tugging or pilling. Super easy to reapply, and it doesn't feel greasy which is super important to me when I'm evaluating an SPF! #Abib #SunscreenStick #SPFreview #SkincareFavorites</p>
+    <a target="_blank" title="♬ original sound - The Lipstick Lesbians" href="https://www.tiktok.com/music/original-sound-7541800159538055991?refer=embed">♬ original sound - The Lipstick Lesbians</a>
+  </section>
+</blockquote>
+<script async src="https://www.tiktok.com/embed.js"></script>
+</div>
+
 ## Our pick this month
 
 Check out the [Sun Protection](/en/categorias/proteccion-solar) ranking — we compare mineral vs. chemical and facial vs. body in each product's technical note, so you don't have to guess by reading the label at the drugstore. If your nighttime routine includes exfoliating acids or retinol (see the [viral TikTok skincare guide](/en/articulos/skincare-viral-en-tiktok) and the [Facial Care ranking](/en/categorias/cuidado-facial)), the next day's sunscreen stops being optional.
@@ -59,3 +72,6 @@ You don't need a different one, but it becomes more important not to skip it. Re
 
 **Can I use the body spray on my face to save a step?**
 You can, but it's not ideal every day: the [Neutrogena Beach Defense spray](/en/productos/B07X1YDGSF) is formulated for face and body, so it won't clog pores the way a generic body sunscreen might — but for daily facial use, a facial fluid or lotion still gives you better control over exactly where the product lands (sprays can leave spots uncovered if you don't rub them in afterward). For your everyday routine, stick with a facial sunscreen from this ranking; save the spray for the days the plan is hours outside and you need to cover a lot more than your face.
+
+**Does the stick replace the spray for a beach day?**
+Not entirely — they're for different moments. The [Abib Quick Sunstick](/en/productos/B0DSMTDVCH) is great for quickly reapplying on just your face and neck, over makeup, without getting your hands messy; but for covering arms, legs and back at the beach or pool, the body spray is still faster because it covers more surface per pass. Plenty of summer routines end up using both: spray for the body, stick for touching up your face without ruining your makeup.
