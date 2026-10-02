@@ -43,9 +43,27 @@ Si preferís un tratamiento tópico en vez de (o además de) un dispositivo, el 
 
 **Todavía no, si:** estás recién armando tu rutina desde cero. En ese caso, el presupuesto rinde más en los básicos — mirá la [rutina de 5 minutos](/articulos/la-rutina-rapida-de-5-minutos) o los productos con más historial de reseñas de este catálogo antes de sumar un dispositivo de $100 que funciona mejor como capa adicional que como base.
 
+## La alternativa manual y barata: gua sha en vez de (o antes de) la mascarilla LED
+
+Si los $100 de la mascarilla LED son demasiado salto para empezar, hay una herramienta mucho más barata que resuelve un problema parecido por otro camino: la hinchazón visible, no las arrugas. La [Kitsch Stainless Steel Gua Sha Facial Tool](/productos/B09RQ9GLDJ) es acero inoxidable macizo —no jade ni cuarzo, que son piedras porosas— que se desliza sobre la piel (siempre con un aceite o sérum de por medio) para estimular la circulación y el drenaje linfático, el sistema que mueve el líquido acumulado bajo los ojos o en la mandíbula.
+
+La diferencia real entre las dos herramientas no es solo el precio ($12.99 contra $100): es lo que cada una puede probar. La fotobiomodulación de la mascarilla LED tiene estudios clínicos que muestran estimulación de colágeno con 8 a 12 semanas de uso constante — un efecto que se acumula y dura. El gua sha, en cambio, tiene evidencia real pero mucho más modesta: baja la hinchazón de forma visible, pero temporal (1 a 3 horas según los estudios de masaje facial), y no hay evidencia sólida de que "esculpa" la cara de forma permanente, pese a lo que promete el marketing de la categoría. Dicho de otro modo: el gua sha es para el efecto de hoy (una cara menos hinchada antes de salir), la mascarilla LED es para el cambio de fondo en 2-3 meses — no compiten, resuelven relojes distintos.
+
+Este video de la propia marca muestra por qué el acero inoxidable es preferible a las piedras de jade o cuarzo que se rompen con el uso diario:
+
+<div class="not-prose my-6 flex justify-center">
+<blockquote class="tiktok-embed" cite="https://www.tiktok.com/@kitsch/video/7223639327304109355" data-video-id="7223639327304109355" data-embed-from="oembed" style="max-width:605px; min-width:325px;">
+  <section>
+    <a target="_blank" title="@kitsch" href="https://www.tiktok.com/@kitsch?refer=embed">@kitsch</a>
+    <p>the amount of times I've broken my other gua sha's before I switched to stainless steel 🙄 #mykitsch #kitsch #guasha #guashafacial #guashatool #lymphaticdrainage #guashalift #stainlesssteelguasha</p>
+  </section>
+</blockquote>
+<script async src="https://www.tiktok.com/embed.js"></script>
+</div>
+
 ## Nuestra recomendación del mes
 
-Si ya tenés la rutina básica resuelta y buscás el siguiente paso, la [mascarilla LED wavytalk](/productos/B0DZ6SLJQ3) es una entrada razonable al precio actual con descuento. Si en cambio buscás resultados más inmediatos y visibles (efecto "glow" del día), las [mascarillas de hidrogel o peel-off](/articulos/guia-mascarillas-faciales) dan una satisfacción visual instantánea que la luz LED, por diseño, no puede ofrecer — son dos categorías de producto que resuelven necesidades distintas, no una compite con la otra.
+Si ya tenés la rutina básica resuelta y buscás el siguiente paso, la [mascarilla LED wavytalk](/productos/B0DZ6SLJQ3) es una entrada razonable al precio actual con descuento. Si en cambio buscás resultados más inmediatos y visibles (efecto "glow" del día), las [mascarillas de hidrogel o peel-off](/articulos/guia-mascarillas-faciales) dan una satisfacción visual instantánea que la luz LED, por diseño, no puede ofrecer — son dos categorías de producto que resuelven necesidades distintas, no una compite con la otra. Y si lo que buscás es simplemente bajar la hinchazón de la cara antes de salir, sin gastar $100, el [gua sha de Kitsch](/productos/B09RQ9GLDJ) hace eso por una fracción del precio.
 
 ## Preguntas frecuentes
 
@@ -57,3 +75,6 @@ La evidencia es más sólida para mantenimiento y prevención gradual que para r
 
 **¿Hay riesgo de dañarme la vista con la luz?**
 La mayoría de estos dispositivos incluyen protección para los ojos o instruyen mantenerlos cerrados durante el uso — seguí siempre las instrucciones específicas del fabricante en la ficha del producto.
+
+**¿El gua sha reemplaza a la mascarilla LED?**
+No. El gua sha baja la hinchazón de forma mecánica y temporal (1 a 3 horas) — útil para la mañana de un evento, pero no acumula ningún efecto a largo plazo como sí muestra la evidencia clínica de la fotobiomodulación. Son herramientas complementarias, no competidoras: una te prepara para hoy, la otra trabaja de fondo durante semanas.

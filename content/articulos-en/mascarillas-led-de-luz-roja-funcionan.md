@@ -43,9 +43,27 @@ If you'd rather use a topical treatment instead of (or alongside) a device, [Cer
 
 **Not yet, if:** you're just starting to build your routine from scratch. In that case, your budget goes further on the basics — check out the [5-minute routine](/en/articulos/la-rutina-rapida-de-5-minutos) or the products in this catalog with more review history before adding a $100 device that works better as an extra layer than as a foundation.
 
+## The cheap, manual alternative: gua sha instead of (or before) the LED mask
+
+If the LED mask's $100 price tag is too big a jump to start, there's a much cheaper tool that solves a related but different problem: visible puffiness, not wrinkles. The [Kitsch Stainless Steel Gua Sha Facial Tool](/en/productos/B09RQ9GLDJ) is solid stainless steel — not jade or quartz, which are porous stones — that glides over skin (always with a facial oil or serum underneath) to boost circulation and lymphatic drainage, the system that moves fluid that builds up under the eyes or along the jaw.
+
+The real difference between the two tools isn't just the price ($12.99 vs. $100): it's what each one can actually prove. The LED mask's photobiomodulation has clinical studies showing collagen stimulation with 8 to 12 weeks of consistent use — an effect that accumulates and lasts. Gua sha, on the other hand, has real but much more modest evidence: it visibly reduces puffiness, but temporarily (1 to 3 hours, per facial massage studies), and there's no solid evidence it permanently "sculpts" the face, despite what the category's marketing promises. In other words: gua sha is for today's effect (a less puffy face before you head out), the LED mask is for the long-term change over 2-3 months — they don't compete, they solve different clocks.
+
+This video from the brand itself shows why stainless steel beats the jade or quartz stones that crack with daily use:
+
+<div class="not-prose my-6 flex justify-center">
+<blockquote class="tiktok-embed" cite="https://www.tiktok.com/@kitsch/video/7223639327304109355" data-video-id="7223639327304109355" data-embed-from="oembed" style="max-width:605px; min-width:325px;">
+  <section>
+    <a target="_blank" title="@kitsch" href="https://www.tiktok.com/@kitsch?refer=embed">@kitsch</a>
+    <p>the amount of times I've broken my other gua sha's before I switched to stainless steel 🙄 #mykitsch #kitsch #guasha #guashafacial #guashatool #lymphaticdrainage #guashalift #stainlesssteelguasha</p>
+  </section>
+</blockquote>
+<script async src="https://www.tiktok.com/embed.js"></script>
+</div>
+
 ## Our pick this month
 
-If you've already got your basic routine sorted and are looking for the next step, the [wavytalk LED mask](/en/productos/B0DZ6SLJQ3) is a reasonable entry point at the current discounted price. If instead you want more immediate, visible results (a same-day "glow" effect), [hydrogel or peel-off masks](/en/articulos/guia-mascarillas-faciales) give an instant visual payoff that LED light, by design, can't offer — these are two product categories solving different needs, not competing with each other.
+If you've already got your basic routine sorted and are looking for the next step, the [wavytalk LED mask](/en/productos/B0DZ6SLJQ3) is a reasonable entry point at the current discounted price. If instead you want more immediate, visible results (a same-day "glow" effect), [hydrogel or peel-off masks](/en/articulos/guia-mascarillas-faciales) give an instant visual payoff that LED light, by design, can't offer — these are two product categories solving different needs, not competing with each other. And if all you want is to bring down facial puffiness before heading out, without spending $100, the [Kitsch gua sha tool](/en/productos/B09RQ9GLDJ) does that for a fraction of the price.
 
 ## Frequently asked questions
 
@@ -57,3 +75,6 @@ The evidence is stronger for maintenance and gradual prevention than for reversi
 
 **Is there a risk of eye damage from the light?**
 Most of these devices include eye protection or instruct you to keep your eyes closed during use — always follow the manufacturer's specific instructions on the product listing.
+
+**Does gua sha replace the LED mask?**
+No. Gua sha reduces puffiness mechanically and temporarily (1 to 3 hours) — useful for the morning of an event, but it doesn't accumulate any long-term effect the way photobiomodulation's clinical evidence shows. They're complementary tools, not competitors: one preps you for today, the other works in the background over weeks.
