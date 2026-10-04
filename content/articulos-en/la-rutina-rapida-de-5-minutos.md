@@ -43,6 +43,7 @@ This 4-step routine is the base — but a few products add real value without ad
 - **If you notice your makeup shifting by mid-morning**: the [Maybelline Fit Me Translucent Pressed Powder](/en/productos/B00PFCSNWA) sets your concealer and blush without adding extra color — a maintenance step, not mandatory in the base routine.
 - **As the very last step, so nothing above moves during long, hot days**: the [Urban Decay All Nighter Waterproof Setting Spray](/en/productos/B0F75ZR6H9) goes on last, over everything else once it's done — it doesn't replace the Fit Me powder above, it complements it: the powder absorbs oil and mattifies with solid particles, the spray is a liquid layer that seals on top without adding more product. If your skin is oily, powder first, then spray — never the other way around. It's the setting spray that got the most TikTok attention in 2026 because of its reformulation — several wedding makeup artists confirmed on video that the new formula holds up through hours of photos, heat, and tears.
 - **Between cleanser and sunscreen, a serum**: the [CeraVe Hyaluronic Acid Serum](/en/productos/B07K3261ZD) adds deep hydration if your skin is especially dry, or [The Ordinary Niacinamide 10% + Zinc 1%](/en/productos/B01MDTVZTZ) if your skin is combination to oily and you want to refine pores instead of adding more hydration. If your goal isn't hydration or pore refinement but brightening a dull or uneven skin tone, the [CeraVe Skin Brightening Vitamin C Serum](/en/productos/B07PNCCLD2) is the third path — same brand as the hyaluronic acid one in this ranking, but with 10% pure vitamin C (an antioxidant) instead of extra hydration. Just apply it during the day always alongside the Step 2 sunscreen, never in place of it.
+- **At night, if you want an anti-aging active but retinol has irritated you before**: the [COSRX The Blue Copper Peptide Bakuchiol Serum](/en/productos/B0GWPQ7FS4) uses bakuchiol, a plant extract that stimulates cell renewal similarly to retinol but, per the brand itself, with much lower irritation. It's the more gradual alternative to the [RoC Retinol Correxion](/en/productos/B00PKO2FD6) in this same ranking: retinol carries decades of clinical evidence and works more aggressively, but it also irritates more and raises sun sensitivity; bakuchiol is more tolerable to start with, though it doesn't replace retinol's strength if you already tolerate it well. Don't combine it in the same routine with vitamin C, direct acids or retinoids — it goes on alone, before your night moisturizer.
 - **At night, a lip treatment**: the [LANEIGE Lip Sleeping Mask](/en/productos/B07XXPHQZK) isn't for this morning routine, but it repairs lips while you sleep — a good nighttime complement to step 4.
 - **To reapply during the day**: the [Burt's Bees Lip Balm](/en/productos/B01MRH7MR4) is the untinted balm you carry in your bag to reapply whenever, without relying on the tinted oil from step 4.
 - **Before heading out, frizz control**: the [Garnier Fructis Anti-Frizz Serum](/en/productos/B006J44BSI) is a couple extra drops before styling, if your hair frizzes with humidity.
@@ -119,6 +120,19 @@ If you're on the fence about adding a vitamin C serum, dermatologist Dr. Dray br
 
 <div class="not-prose my-6 overflow-hidden rounded-2xl border border-line-dim" style="aspect-ratio:16/9">
 <iframe width="100%" height="100%" src="https://www.youtube.com/embed/llLEG814Ly4" title="CERAVE VITAMIN C SERUM REVIEW — Dr Dray" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
+On the "blue glow" that kicked off the copper peptide + bakuchiol trend on TikTok, this real review shows the effect on real skin, no camera filters:
+
+<div class="not-prose my-6 flex justify-center">
+<blockquote class="tiktok-embed" cite="https://www.tiktok.com/@laura88lee/video/7646833593439866125" data-video-id="7646833593439866125" data-embed-from="oembed" style="max-width:605px; min-width:325px;">
+  <section>
+    <a target="_blank" title="@laura88lee" href="https://www.tiktok.com/@laura88lee?refer=embed">@laura88lee</a>
+    <p>glowy skin without the med-spa price tag 💙 GHK-Cu powered glow hits different ✨ obsessed with the new Blue Peptide Serum from COSRX @COSRX US #COSRX #BlueTox #CopperPeptide #GHKCu #BlueHydroGlow</p>
+    <a target="_blank" title="♬ original sound - Laura88Lee" href="https://www.tiktok.com/music/original-sound-7646833694090513165?refer=embed">♬ original sound - Laura88Lee</a>
+  </section>
+</blockquote>
+<script async src="https://www.tiktok.com/embed.js"></script>
 </div>
 
 ## Why this routine and not a longer one
