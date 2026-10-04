@@ -1,7 +1,14 @@
 import type { Metadata } from "next";
 import { getProductos, getEstadisticas } from "@/lib/productos";
-import { getDictionary, normalizarLocale, type Locale } from "@/lib/i18n";
-import HeroDiagrama from "@/components/HeroDiagrama";
+import { getDictionary, normalizarLocale, t, withLocale, type Locale } from "@/lib/i18n";
+import { CATEGORIAS } from "@/lib/categorias";
+import {
+  ContainerAnimated,
+  ContainerInset,
+  ContainerScroll,
+  ContainerSticky,
+} from "@/components/ui/scroll-reveal-hero";
+import HeroColeccion, { type ItemColeccion } from "@/components/HeroColeccion";
 import StatsGrid from "@/components/StatsGrid";
 import BuscadorDeProducto from "@/components/BuscadorDeProducto";
 import RankingConFiltros from "@/components/RankingConFiltros";
@@ -44,51 +51,76 @@ export default async function HomePage({ params }: Props) {
     getEstadisticas(),
   ]);
 
+  const coleccion: ItemColeccion[] = CATEGORIAS.flatMap((categoria) => {
+    const top = productos.find((p) => p.categoria === categoria.slug);
+    if (!top) return [];
+    return [
+      {
+        asin: top.asin,
+        nombre: t(top.nombre, top.nombreEn, locale),
+        imagen: top.imagen,
+        categoria: t(categoria.nombre, categoria.nombreEn, locale),
+        href: withLocale(`/productos/${top.asin}`, locale),
+      },
+    ];
+  });
+
   return (
     <>
-      <section className="relative overflow-hidden border-b border-line-dim/60">
-        <div className="relative mx-auto grid max-w-6xl gap-10 px-4 py-16 sm:px-6 lg:grid-cols-2 lg:items-center lg:py-24">
-          <div>
-            <p className="text-xs font-semibold uppercase tracking-wide text-line">
-              {dict["home.eyebrow"]}
-            </p>
-            <h1 className="mt-3 text-3xl font-bold leading-tight text-text-light sm:text-4xl lg:text-5xl">
-              {dict["home.heroTitulo"]}
-            </h1>
-            <p className="mt-5 max-w-lg text-base leading-relaxed text-text-dim">
-              {dict["home.heroDescripcion"]}
-            </p>
-            <div className="mt-8 flex flex-wrap gap-3">
-              <a
-                href="#ranking"
-                className="rounded-full bg-accent px-6 py-3 text-sm font-bold text-white shadow-sm transition-all duration-200 hover:-translate-y-0.5 hover:bg-[#1D4ED8] hover:shadow-lg active:translate-y-0 active:scale-[0.98]"
-              >
-                {dict["home.verProductosDelMes"]}
-              </a>
-              <a
-                href="#metodologia"
-                className="rounded-full border border-line-dim bg-white/70 px-6 py-3 text-sm font-semibold text-text-light backdrop-blur-md transition-all duration-200 hover:-translate-y-0.5 hover:border-line hover:bg-white hover:shadow-md active:translate-y-0 active:scale-[0.98]"
-              >
-                {dict["home.comoElegimos"]}
-              </a>
-            </div>
+      <section className="border-b border-line-dim/60">
+        <ContainerScroll className="h-[160vh]">
+          <ContainerSticky className="overflow-hidden px-4 pb-10 pt-24 text-text-light sm:px-6">
+            <ContainerAnimated className="relative mx-auto max-w-3xl rounded-3xl bg-white/70 px-6 py-8 text-center shadow-sm ring-1 ring-line-dim/60 backdrop-blur-md">
+              <p className="text-xs font-semibold uppercase tracking-wide text-line">
+                {dict["home.eyebrow"]}
+              </p>
+              <h1 className="mt-3 text-3xl font-bold leading-tight text-text-light sm:text-4xl lg:text-5xl">
+                {dict["home.heroTitulo"]}
+              </h1>
+              <p className="mx-auto mt-4 max-w-xl text-base leading-relaxed text-text-dim">
+                {dict["home.heroDescripcion"]}
+              </p>
+            </ContainerAnimated>
 
-            <div className="mt-8 flex flex-wrap gap-2">
-              {[dict["home.badgeProbados"], dict["home.badgeActualizado"], dict["home.badgePrecios"]].map(
-                (badge) => (
-                  <span
-                    key={badge}
-                    className="rounded-full border border-line-dim/70 bg-white/85 px-3 py-1.5 text-xs font-semibold text-[#0369A1] shadow-sm backdrop-blur-md"
-                  >
-                    {badge}
-                  </span>
-                )
-              )}
-            </div>
-          </div>
+            <ContainerInset className="relative mx-auto my-6 aspect-4/3 w-full max-w-5xl max-h-[min(440px,58svh)] sm:aspect-2/1">
+              <HeroColeccion items={coleccion} />
+            </ContainerInset>
 
-          <HeroDiagrama />
-        </div>
+            <ContainerAnimated
+              transition={{ delay: 0.4 }}
+              outputRange={[-120, 0]}
+              inputRange={[0, 0.7]}
+              className="relative mx-auto flex w-fit max-w-full flex-col items-center gap-4"
+            >
+              <div className="flex flex-wrap justify-center gap-3">
+                <a
+                  href="#ranking"
+                  className="rounded-full bg-accent px-6 py-3 text-sm font-bold text-white shadow-sm transition-all duration-200 hover:-translate-y-0.5 hover:bg-[#1D4ED8] hover:shadow-lg active:translate-y-0 active:scale-[0.98]"
+                >
+                  {dict["home.verProductosDelMes"]}
+                </a>
+                <a
+                  href="#metodologia"
+                  className="rounded-full border border-line-dim bg-white/70 px-6 py-3 text-sm font-semibold text-text-light backdrop-blur-md transition-all duration-200 hover:-translate-y-0.5 hover:border-line hover:bg-white hover:shadow-md active:translate-y-0 active:scale-[0.98]"
+                >
+                  {dict["home.comoElegimos"]}
+                </a>
+              </div>
+              <div className="flex flex-wrap justify-center gap-2">
+                {[dict["home.badgeProbados"], dict["home.badgeActualizado"], dict["home.badgePrecios"]].map(
+                  (badge) => (
+                    <span
+                      key={badge}
+                      className="rounded-full border border-line-dim/70 bg-white/85 px-3 py-1.5 text-xs font-semibold text-[#0369A1] shadow-sm backdrop-blur-md"
+                    >
+                      {badge}
+                    </span>
+                  )
+                )}
+              </div>
+            </ContainerAnimated>
+          </ContainerSticky>
+        </ContainerScroll>
       </section>
 
       <section className="mx-auto max-w-6xl px-4 py-12 sm:px-6">
