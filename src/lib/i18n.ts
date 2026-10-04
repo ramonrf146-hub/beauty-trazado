@@ -105,6 +105,10 @@ const es = {
   "producto.usoProfesional": "Uso profesional: ",
   "producto.guiaParaNoEquivocarte": "Guía para no equivocarte al comprar",
   "producto.consejoDeInversion": "El consejo de inversión",
+  "producto.enCategoria": "en",
+  "producto.idealPara": "Ideal para",
+  "producto.productosSimilares": "Otros productos de esta categoría",
+  "producto.verRankingCategoria": "Ver todo el ranking de",
   "producto.desde": "Desde",
 
   "comparador.comparando": "Comparando",
@@ -262,6 +266,10 @@ const en: Dictionary = {
   "producto.usoProfesional": "Professional use: ",
   "producto.guiaParaNoEquivocarte": "How to avoid buying the wrong one",
   "producto.consejoDeInversion": "The investment takeaway",
+  "producto.enCategoria": "in",
+  "producto.idealPara": "Best for",
+  "producto.productosSimilares": "More products in this category",
+  "producto.verRankingCategoria": "See the full ranking of",
   "producto.desde": "From",
 
   "comparador.comparando": "Comparing",
