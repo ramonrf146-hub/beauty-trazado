@@ -8,7 +8,7 @@ import {
   ContainerScroll,
   ContainerSticky,
 } from "@/components/ui/scroll-reveal-hero";
-import HeroColeccion, { type ItemColeccion } from "@/components/HeroColeccion";
+import HeroColeccion, { type GrupoColeccion } from "@/components/HeroColeccion";
 import StatsGrid from "@/components/StatsGrid";
 import BuscadorDeProducto from "@/components/BuscadorDeProducto";
 import RankingConFiltros from "@/components/RankingConFiltros";
@@ -51,18 +51,18 @@ export default async function HomePage({ params }: Props) {
     getEstadisticas(),
   ]);
 
-  const coleccion: ItemColeccion[] = CATEGORIAS.flatMap((categoria) => {
-    const top = productos.find((p) => p.categoria === categoria.slug);
-    if (!top) return [];
-    return [
-      {
-        asin: top.asin,
-        nombre: t(top.nombre, top.nombreEn, locale),
-        imagen: top.imagen,
-        categoria: t(categoria.nombre, categoria.nombreEn, locale),
-        href: withLocale(`/productos/${top.asin}`, locale),
-      },
-    ];
+  const grupos: GrupoColeccion[] = CATEGORIAS.flatMap((categoria) => {
+    const items = productos
+      .filter((p) => p.categoria === categoria.slug)
+      .slice(0, 6)
+      .map((p) => ({
+        asin: p.asin,
+        nombre: t(p.nombre, p.nombreEn, locale).split(" — ")[0],
+        imagen: p.imagen,
+        href: withLocale(`/productos/${p.asin}`, locale),
+      }));
+    if (items.length === 0) return [];
+    return [{ categoria: t(categoria.nombre, categoria.nombreEn, locale), items }];
   });
 
   return (
@@ -83,7 +83,7 @@ export default async function HomePage({ params }: Props) {
             </ContainerAnimated>
 
             <ContainerInset className="relative mx-auto my-6 aspect-4/3 w-full max-w-5xl max-h-[min(440px,58svh)] sm:aspect-2/1">
-              <HeroColeccion items={coleccion} />
+              <HeroColeccion grupos={grupos} />
             </ContainerInset>
 
             <ContainerAnimated
