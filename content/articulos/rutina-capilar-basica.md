@@ -46,6 +46,12 @@ Ojo: caspa/picazón no es lo mismo que acumulación. Si lo que notás es más bi
 
 Una estilista profesional (partner de SalonCentric) muestra en este video el mismo procedimiento recomendado por la marca: aplicar en seco sobre la zona con acumulación, dejar que el exfoliante actúe, y recién ahí agregar agua para hacer espuma.
 
+**El accesorio diario que no reemplaza al scrub.** El Briogeo de arriba es un producto que se usa 1-2 veces por semana **en vez de** tu shampoo habitual. El [HEETA Scalp Massager](/productos/B095WCB5X7), recién sumado a este ranking, es otra cosa: un cepillo de mano con cerdas de silicona que se suma a **cada lavado**, con cualquier shampoo — no se gasta como un producto, es un accesorio que lavás y volvés a usar. Mientras el Briogeo ataca la acumulación por fricción química/física de un exfoliante, el HEETA masajea el cuero cabelludo para mejorar la circulación de la zona, el mismo mecanismo (más lento, más preliminar en evidencia) detrás del aceite de romero del Paso 0. Con 4.6★ sobre 154.442 reseñas, es uno de los accesorios más valorados de Amazon en esta categoría. Limitación real, que hay que decir con honestidad: la evidencia de que el masaje estimula el crecimiento es todavía preliminar (un estudio de 2016 con solo 9 personas, una encuesta observacional de 2019) — no es un atajo rápido, y si se te cae sobre un piso duro el mango de plástico puede rajarse.
+
+<div class="not-prose my-6 overflow-hidden rounded-2xl border border-line-dim" style="aspect-ratio:16/9">
+<iframe width="100%" height="100%" src="https://www.youtube-nocookie.com/embed/awMHEWmfSDc" title="HEETA Hair Scalp Massager Brush | Honest Review — Raphaela Laurean" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
 ## Paso 2: Acondicionamiento (cada lavado, si no usaste un 2 en 1)
 
 Si lavaste con un shampoo que no trae acondicionador, sumá uno de hidratación general — el [CeraVe Gentle Hydrating Conditioner](/productos/B0FWVVDNML) de este ranking sirve para cualquier tipo de cabello, no es específico para un problema puntual.

@@ -46,6 +46,12 @@ Heads up: dandruff/itching isn't the same as buildup. If what you're actually no
 
 A professional stylist (a SalonCentric partner) shows the same procedure the brand recommends in this video: apply dry over the area with buildup, let the exfoliant work, and only then add water to work up a lather.
 
+**The daily accessory that doesn't replace the scrub.** The Briogeo above is a product you use 1-2 times a week **instead of** your regular shampoo. The [HEETA Scalp Massager](/en/productos/B095WCB5X7), just added to this ranking, is a different kind of thing: a handheld brush with silicone bristles that you add to **every single wash**, with any shampoo — it doesn't run out like a product, it's an accessory you rinse and reuse. While the Briogeo tackles buildup through a chemical/physical exfoliant, the HEETA massages the scalp to improve circulation in the area — the same mechanism (slower, less-proven) behind the rosemary oil in Step 0. With 4.6 stars over 154,442 reviews, it's one of the most-reviewed accessories on Amazon in this category. Real limitation, worth saying honestly: evidence that massage stimulates growth is still preliminary (a 2016 study with only 9 people, a 2019 observational survey) — it's not a quick shortcut, and if it's dropped on a hard floor the plastic handle can crack.
+
+<div class="not-prose my-6 overflow-hidden rounded-2xl border border-line-dim" style="aspect-ratio:16/9">
+<iframe width="100%" height="100%" src="https://www.youtube-nocookie.com/embed/awMHEWmfSDc" title="HEETA Hair Scalp Massager Brush | Honest Review — Raphaela Laurean" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
 ## Step 2: Conditioning (every wash, if you didn't use a 2-in-1)
 
 If you washed with a shampoo that doesn't include conditioner, add one for general hydration — the [CeraVe Gentle Hydrating Conditioner](/en/productos/B0FWVVDNML) in this ranking works for any hair type, it's not specific to one problem.
