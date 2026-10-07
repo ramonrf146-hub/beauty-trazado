@@ -74,16 +74,26 @@ The three products above work preventively and continuously on skin in general �
 
 The contrast with the [Paula's Choice 2% BHA](/en/productos/B00949CTQQ) above is direct: the BHA exfoliates pores in general so **fewer** pimples show up over time (prevention, used as part of the routine), while this patch doesn't prevent anything — it sticks onto a pimple with a white head **that's already there** and, overnight, pulls the fluid out from the inside like a microscopic sponge, instead of you squeezing it with your fingers. One doesn't replace the other: the BHA lowers how many pimples you'll get, the patch handles the one that already showed up.
 
+## The pad that combines exfoliant and toner in one step
+
+The [Paula's Choice 2% BHA](/en/productos/B00949CTQQ) above does its job well, but it demands the full ritual: bottle, cotton round, soak, swipe across the face, wait for it to dry. The [medicube Zero Pore Pad 2.0](/en/productos/B09V7Z4TJG) solves the same problem (clogged pores, oily skin, uneven texture) in a different format: a fabric pad already soaked in white willow bark salicylic acid (BHA) and citric acid (AHA), with an embossed side that exfoliates and a smooth, lavender-infused side that calms afterward — all in one swipe, no bottle or cotton round needed. That's why it went viral on TikTok in 2026: creator Alix Earle showed it after her dermatologist recommended it, and it now has over 33,600 reviews on Amazon.
+
+One important detail: since the pad also carries active acids, **don't use it the same night as the liquid BHA above** — pick one or the other, never both, to avoid over-exfoliating your skin. And unlike the [Anua Heartleaf](/en/productos/B08CMS8P67) (a toner with no actives at all, purely soothing), this pad does exfoliate — it's not a 1-to-1 swap for the nightly toner, it's an alternative to the exfoliation step 2-3 times a week.
+
+<div class="not-prose my-6 rounded-2xl border border-line-dim bg-ink-2 p-4 text-sm text-text-dim">
+Amazon's own "Customers say" summary for this product confirms most buyers notice smaller-looking pores and smoother skin, but reports mixed experiences: some people feel irritation or breakouts, and others describe a sticky residue — worth starting with 1-2 uses a week before increasing frequency.
+</div>
+
 ## How to use them together without issue
 
 They're not applied in the same step or necessarily the same night:
 
 1. Cleanser
 2. **Anua Heartleaf 77%** (toner, every night, on freshly washed skin)
-3. **Paula's Choice 2% BHA** (alternating nights, 2-3 times a week when starting out)
-4. **COSRX Snail Mucin** (can be used every night, even the nights you don't use the BHA)
+3. **Paula's Choice 2% BHA** *or* **medicube Zero Pore Pad 2.0** (alternating nights, 2-3 times a week when starting out — one or the other, never both the same night)
+4. **COSRX Snail Mucin** (can be used every night, even the nights you don't use any exfoliant)
 5. Moisturizer
-6. Sunscreen (the next morning, no exceptions, if you used the BHA)
+6. Sunscreen (the next morning, no exceptions, if you used an exfoliant)
 
 The **Mighty Patch** isn't part of this fixed routine — it's added separately, only the night a pimple shows up with a visible white head, on clean, dry skin, on top of the other steps.
 
@@ -101,3 +111,6 @@ It's not an acne treatment — it's a moisturizer/barrier repair product. For ac
 
 **Does the hydrocolloid patch replace the BHA?**
 No — they do different jobs and it's worth using both. The BHA works preventively and continuously on pores in general; the patch only acts on a single pimple that's already there, and only once it has a visible white head (on a hard, internal one with no tip, it has nothing to absorb).
+
+**Does the medicube pad replace the liquid BHA or the toner in this ranking?**
+Not fully either one. It replaces the liquid BHA if you prefer the pad format (faster, no cotton round) — but you don't use them the same night, since both are exfoliants with active acids. It doesn't replace the Anua toner, because that one doesn't exfoliate at all — it's purely soothing and used every night, while the pad is an exfoliation step used 2-3 times a week.

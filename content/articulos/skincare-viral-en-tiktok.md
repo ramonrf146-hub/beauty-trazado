@@ -74,16 +74,26 @@ Los tres productos de arriba trabajan de forma preventiva y continua sobre la pi
 
 El contraste con el [Paula's Choice 2% BHA](/productos/B00949CTQQ) de arriba es directo: el BHA exfolia los poros en general para que salgan **menos** granos con el tiempo (prevención, se usa toda la rutina), mientras que este parche no previene nada — se pega sobre un grano con punta blanca **que ya está ahí** y, durante la noche, absorbe el líquido de adentro hacia afuera como una esponja microscópica, en vez de que lo aprietes con los dedos. Uno no reemplaza al otro: el BHA reduce cuántos granos te van a salir, el parche resuelve el que ya salió.
 
+## El pad que une exfoliante y tónico en un solo paso
+
+El [Paula's Choice 2% BHA](/productos/B00949CTQQ) de arriba hace su trabajo bien, pero exige el ritual completo: frasco, algodón, mojar, pasar por la cara, esperar a que seque. El [medicube Zero Pore Pad 2.0](/productos/B09V7Z4TJG) resuelve el mismo problema (poros tapados, piel grasosa, textura irregular) con un formato distinto: un pad de tela ya empapado en ácido salicílico de corteza de sauce (BHA) y ácido cítrico (AHA), con un lado de relieve que exfolia y un lado liso con lavanda que calma al terminar — todo en una sola pasada, sin frasco ni algodón aparte. Es la razón por la que se volvió viral en TikTok en 2026: la creadora Alix Earle lo mostró después de que su dermatóloga lo recomendara, y hoy tiene más de 33.600 reseñas en Amazon.
+
+Ojo con un detalle importante: como el pad también lleva ácidos activos, **no se usa la misma noche que el BHA líquido de arriba** — elegís uno de los dos, nunca ambos, para no sobre-exfoliar la piel. Y a diferencia del [Anua Heartleaf](/productos/B08CMS8P67) (un tónico sin ningún activo, solo calmante), este pad sí exfolia — no es un sustituto 1 a 1 del tónico de todas las noches, es una alternativa al paso de exfoliación 2-3 veces por semana.
+
+<div class="not-prose my-6 rounded-2xl border border-line-dim bg-ink-2 p-4 text-sm text-text-dim">
+El propio resumen "Customers say" que genera Amazon sobre este producto confirma que la mayoría nota poros más chicos y piel más lisa, pero reporta experiencias mixtas: una parte de los compradores siente irritación o brotes, y otra describe un residuo pegajoso al tacto — vale la pena empezar con 1-2 usos semanales antes de subir la frecuencia.
+</div>
+
 ## Cómo usarlos juntos sin problema
 
 No se aplican en el mismo paso ni necesariamente la misma noche:
 
 1. Limpiador
 2. **Anua Heartleaf 77%** (tónico, todas las noches, sobre piel recién lavada)
-3. **Paula's Choice 2% BHA** (noches alternadas, 2-3 veces por semana al empezar)
-4. **COSRX Snail Mucin** (se puede usar todas las noches, incluso las noches que no usás el BHA)
+3. **Paula's Choice 2% BHA** *o* **medicube Zero Pore Pad 2.0** (noches alternadas, 2-3 veces por semana al empezar — uno u otro, nunca los dos la misma noche)
+4. **COSRX Snail Mucin** (se puede usar todas las noches, incluso las noches que no usás ningún exfoliante)
 5. Hidratante
-6. Protector solar (a la mañana siguiente, sin excepción, si usaste el BHA)
+6. Protector solar (a la mañana siguiente, sin excepción, si usaste algún exfoliante)
 
 El **Mighty Patch** no entra en esta rutina fija — se suma aparte, solo la noche que aparece un grano con punta blanca visible, sobre piel limpia y seca, encima de los demás pasos.
 
@@ -101,3 +111,6 @@ No es un tratamiento para acné — es un hidratante/reparador de barrera. Para 
 
 **¿El parche de hidrocoloide reemplaza al BHA?**
 No — cumplen roles distintos y conviene usar los dos. El BHA trabaja de forma preventiva y continua sobre los poros en general; el parche solo actúa sobre un grano puntual que ya está ahí, y únicamente si ya tiene punta blanca visible (sobre un grano interno y duro, sin cabeza, no tiene nada que absorber).
+
+**¿El pad de medicube reemplaza al BHA líquido o al tónico de este ranking?**
+Ninguno de los dos del todo. Reemplaza al BHA líquido si preferís el formato pad (más rápido, sin algodón) — pero no se usan juntos la misma noche porque ambos son exfoliantes con ácidos activos. No reemplaza al tónico Anua, porque ese no exfolia nada: es puramente calmante y se usa todas las noches, mientras que el pad es un paso de exfoliación de 2-3 veces por semana.
