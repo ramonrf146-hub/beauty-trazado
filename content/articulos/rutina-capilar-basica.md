@@ -76,6 +76,8 @@ Si lo que buscás no es alisar sino ondular, y preferís no usar ninguna herrami
 <iframe width="100%" height="100%" src="https://www.youtube-nocookie.com/embed/iNwTj_Hz-bE" title="Heatless Style Hair Tutorial using the Kitsch Satin Curling Set—tips & tricks for the best style! — Linnea Jericho" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
+**El paso pasivo que corre toda la noche, uses o no la vincha.** La vincha de arriba es una herramienta activa: hace algo (moldea ondas) mientras dormís, pero solo esa noche y solo si tu pelo tiene el largo suficiente. La [Kitsch Satin Pillowcase](/productos/B07XFQVN57), de la misma marca y recién sumada a este ranking, es otra categoría de producto: no moldea nada, simplemente reduce la fricción contra tu pelo y tu piel cada noche, sin importar si usaste o no una herramienta de peinado, y funciona con cualquier largo de cabello (a diferencia de la vincha, que necesita como mínimo largo a la altura de los hombros). El material real es 100% satén de poliéster, no seda — una fibra sintética que igual logra la superficie lisa que evita que el pelo se enrede y se encrespe con el roce de una funda de algodón común. Limitación real, declarada por el propio resumen de reseñas de Amazon: a una parte de los compradores se les rasga en la costura con lavados repetidos, y el valor por el precio divide opiniones porque no es seda real.
+
 ## Paso 5: Frizz y brillo (en cabello húmedo o seco, como toque final)
 
 El [Garnier Fructis Anti-Frizz Serum](/productos/B006J44BSI) de este ranking sella la cutícula para controlar el encrespamiento en climas húmedos — se usa en gotas mínimas, el exceso apelmaza.
@@ -107,3 +109,6 @@ No del todo — el aceite prioriza protección térmica y brillo, el serum prior
 
 **¿El aceite de romero pre-lavado es seguro para todo el mundo?**
 Para la mayoría de las personas sí, usado 1-2 veces por semana. Pero si tenés cuero cabelludo sensible o notás picazón, ardor o irritación, espaciá las aplicaciones o suspendé el uso — el caso viral de 2023-2024 que asoció este tipo de producto con caída de cabello se explicó por dermatitis de contacto en pieles reactivas, no por un problema del aceite en sí. Y si tu caída de cabello es un problema médico real, este aceite es un complemento, no un tratamiento que reemplace a un dermatólogo.
+
+**¿La funda de satén reemplaza al serum anti-frizz o al aceite protector de calor?**
+No — son pasos distintos que se complementan. El serum y el aceite se aplican sobre el cabello y actúan durante el día o antes del calor; la funda de satén no se aplica a nada, solo reduce la fricción mientras dormís. Podés (y conviene) usar los tres: aceite antes del secador o la plancha, serum como toque final, y la funda de satén todas las noches sin excepción.

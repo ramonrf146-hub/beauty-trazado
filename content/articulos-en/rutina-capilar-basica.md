@@ -76,6 +76,8 @@ If what you're after isn't straightening but waves, and you'd rather skip heat t
 <iframe width="100%" height="100%" src="https://www.youtube-nocookie.com/embed/iNwTj_Hz-bE" title="Heatless Style Hair Tutorial using the Kitsch Satin Curling Set—tips & tricks for the best style! — Linnea Jericho" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
+**The passive step that runs all night, whether or not you use the headband.** The headband above is an active tool: it does something (shapes waves) while you sleep, but only that one night and only if your hair is long enough. The [Kitsch Satin Pillowcase](/en/productos/B07XFQVN57), from the same brand and just added to this ranking, is a different kind of product altogether: it doesn't shape anything, it simply reduces friction against your hair and skin every single night, whether or not you used a styling tool, and it works with any hair length (unlike the headband, which needs at least shoulder-length hair). The real material is 100% polyester satin, not silk — a synthetic fiber that still achieves the smooth surface that keeps hair from tangling and frizzing against the friction of a regular cotton pillowcase. Real limitation, stated by Amazon's own review summary: some buyers report it tearing at the seam with repeated washing, and value for the price splits opinion because it isn't real silk.
+
 ## Step 5: Frizz and shine (on wet or dry hair, as a finishing touch)
 
 The [Garnier Fructis Anti-Frizz Serum](/en/productos/B006J44BSI) in this ranking seals the cuticle to control frizz in humid climates — used in minimal drops, too much weighs hair down.
@@ -107,3 +109,6 @@ Not entirely — the oil prioritizes heat protection and shine, the serum priori
 
 **Is the pre-wash rosemary oil safe for everyone?**
 For most people, yes, used 1-2 times a week. But if you have a sensitive scalp or notice itching, burning, or irritation, space out applications or stop using it — the viral 2023-2024 case that linked this type of product to hair loss was explained by contact dermatitis on reactive skin, not a problem with the oil itself. And if your hair loss is a real medical issue, this oil is a complement, not a treatment that replaces a dermatologist.
+
+**Does the satin pillowcase replace the anti-frizz serum or the heat-protecting oil?**
+No — they're different steps that complement each other. The serum and oil are applied to your hair and work during the day or before heat; the satin pillowcase isn't applied to anything, it just reduces friction while you sleep. You can (and should) use all three: oil before the blow dryer or iron, serum as a finishing touch, and the satin pillowcase every single night, no exceptions.
