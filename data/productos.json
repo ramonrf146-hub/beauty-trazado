@@ -3346,5 +3346,60 @@
       "Kitsch",
       "Anti-frizz"
     ]
+  },
+  {
+    "asin": "B0817QLT89",
+    "nombre": "TOCESS Pinzas Grandes para Cabello (Claw Clips), Pack de 8 — 90's Strong Hold, Mate Antideslizante 4.33 pulgadas",
+    "categoria": "cuidado-capilar",
+    "precio": 6.99,
+    "moneda": "USD",
+    "imagen": "https://m.media-amazon.com/images/I/71f9quT1fDL._SY355_.jpg",
+    "rating": 4.7,
+    "numResenas": 34558,
+    "ranking": 14,
+    "notaTecnica": "A diferencia de todo lo demás en este ranking (que se aplica sobre el pelo o se usa durante el lavado/secado), esta es la primera pinza/accesorio de peinado puro del catálogo: no limpia, no trata, no moldea con calor ni durante la noche — solo sostiene una sección de pelo arriba, al instante, sin productos ni tiempo de espera. Es el accesorio más mencionado en la cobertura de medios 2026 sobre el regreso del 'claw clip' como tendencia noventera reactivada por TikTok (NBC Select, SheKnows, cobertura de agencia Scripps/Jordan News), con SheKnows citando un video de @brookebellar_fashion (ronda de 'Amazon finds', 4M+ vistas) que lo incluye — no se pudo ubicar ni verificar la URL exacta de ese video puntual con certeza, así que no se incrusta ningún video hoy, siguiendo la regla de no incrustar lo que no se puede confirmar. El acceso directo a Amazon con `curl --compressed` volvió a devolver el bloque de captcha de siempre (3.781 bytes, mismo síntoma que sesiones previas como 2026-09-18 y 2026-09-14, confirmado también contra el ASIN de control B01MSSDEPK), pero WebFetch sí pudo leer el contenido real de la ficha en esta sesión (recorrido por tramos de hasta 100.000 caracteres sobre un HTML de 1.608.959 caracteres): In Stock, $6.99 (variante de color 'Assorted A.Beige, Pink, Green, Khaki, Brown, Black'), 4.7★, 34.558 reseñas (`aria-label=\"34,558 Reviews\"`), #14 en Best Sellers > Hair Claws, 'Ships from: Amazon' / 'Sold by: TOCESS' (la propia marca, no reseller), '1K+ comprados el último mes'. Material y diseño reales confirmados en los 5 bullets de 'About this item' del listing: recubrimiento de goma mate con bisagra de resorte metálico interno, talla única (4.33 x 1.85 x 1.97 pulgadas) pensada para cualquier tipo y largo de pelo, 2 estilos de pinza por pack (8 piezas), sujeción fuerte sin enganchar ni deslizar incluso con pelo mojado. Esta ficha puntual no traía el resumen 'Customers say' que genera Amazon (no apareció en ningún tramo del HTML recorrido), así que la limitación real se tomó de reseñas de compradores citadas en cobertura de medios (Scripps News/SheKnows, vía búsqueda web adicional, no inventada): la mayoría la describe como duradera (una reseña citada dice que le duró casi dos años de uso diario), pero el resorte metálico interno puede terminar oxidándose si la pinza se usa seguido en la ducha, y algunas unidades sueltan vienen algo duras de abrir las primeras veces hasta que se aflojan con el uso.",
+    "idealPara": "Para cualquiera que quiere sacarse el pelo de la cara en segundos sin plancha, secador ni producto — para hacer skincare, entrenar, cocinar o simplemente los días sin tiempo de peinarse, en cualquier largo (de hombros para arriba) y cualquier textura, lacio o rizado.",
+    "guiaCompra": {
+      "queEsYParaQueSirve": "Es una pinza grande con una bisagra de resorte metálico en el centro — como un broche de ropa, pero curvo y con dientes que se acomodan a la forma de la cabeza en vez de aplanar una hoja de papel. Apretás los dos extremos, metés el mechón de pelo recogido y soltás: el resorte cierra solo y sostiene el pelo arriba sin necesidad de atarlo, trenzarlo ni usar ninguna herramienta.",
+      "ejemploHogar": "En casa la usás para armar un rodete improvisado en 5 segundos antes de lavarte la cara o aplicarte la rutina de skincare, para que el pelo no se moje ni se llene de crema — sin elástico que después tira ni horquillas que se pierden.",
+      "ejemploNegocio": "Una estilista la usa durante un servicio de color o corte para separar y sostener secciones grandes de cabello mientras trabaja en otra zona, mucho más rápido que trenzar o sujetar con varias horquillas cada sección.",
+      "puntosClave": [
+        "Esta ficha es la variante de colores surtidos (Beige, Rosa, Verde, Caqui, Marrón, Negro) a $6.99 — la misma línea tiene otras variantes de color a precios distintos ($7.64–$8.49), así que confirmá que elegís la combinación de color que realmente querés antes de comprar.",
+        "El recubrimiento es de goma mate con resorte metálico interno (no plástico duro y brillante) — eso es justamente lo que evita que se resbale o enganche el pelo, pero ese mismo resorte puede oxidarse si la pinza queda mojada seguido en la ducha; conviene secarla si se usa ahí.",
+        "Es talla única pensada para \"cualquier largo\", pero en la práctica necesitás al menos largo a la altura de los hombros para que agarre un mechón entero — en pelo más corto que eso, no tiene suficiente para sujetar."
+      ],
+      "consejoInversion": "Una pinza plástica suelta de kiosco o farmacia cuesta menos por unidad, pero suele ser de plástico duro y brillante sin resorte metálico — se resbala con pelo lacio, se rompe en la bisagra a las pocas semanas y hay que volver a comprar. Este pack de 8 sale a menos de $0.90 por pinza, con resorte metálico real y recubrimiento de goma que no se resbala ni se parte con el uso diario (34.558 reseñas reales respaldando que aguanta meses, no semanas) — para un accesorio que vas a usar todos los días, la diferencia de durabilidad compensa de sobra el costo extra."
+    },
+    "tags": [
+      "Claw clip",
+      "Pinza para cabello",
+      "Accesorio de peinado",
+      "TikTok viral",
+      "Tendencia 90s"
+    ],
+    "urlAfiliado": "https://www.amazon.com/dp/B0817QLT89?tag=beautylab02-20",
+    "actualizadoEn": "2026-10-09",
+    "activo": true,
+    "nombreEn": "TOCESS 8 Pack Big Hair Claw Clips for Women — 90's Strong Hold, Nonslip Matte Jumbo Jaw Clips, 4.33 Inch",
+    "notaTecnicaEn": "Unlike everything else in this ranking (which gets applied to hair or used during washing/drying), this is the catalog's first pure styling accessory: it doesn't clean, treat, or shape anything with heat or overnight — it just holds a section of hair up, instantly, with no product and no wait. It's the accessory most mentioned in 2026 media coverage of the claw clip's comeback as a 90s trend revived by TikTok (NBC Select, SheKnows, Scripps News/Jordan News wire coverage), with SheKnows citing a video from @brookebellar_fashion (an 'Amazon finds' roundup, 4M+ views) that features it — the exact URL for that specific video couldn't be located or verified with certainty, so no video is embedded today, following the rule of never embedding what can't be confirmed. Direct access to Amazon with `curl --compressed` returned the usual captcha block again (3,781 bytes, the same symptom as previous sessions like 2026-09-18 and 2026-09-14, also confirmed against control ASIN B01MSSDEPK), but WebFetch was able to read the listing's real content this session (read in chunks of up to 100,000 characters over a 1,608,959-character HTML page): In Stock, $6.99 (color variant 'Assorted A.Beige, Pink, Green, Khaki, Brown, Black'), 4.7 stars, 34,558 reviews (`aria-label=\"34,558 Reviews\"`), #14 in Best Sellers > Hair Claws, 'Ships from: Amazon' / 'Sold by: TOCESS' (the brand itself, not a reseller), '1K+ bought in past month.' Real material and design confirmed in the listing's 5 'About this item' bullets: matte rubber coating with an internal metal spring hinge, one size meant to fit any hair type and length, 2 clip styles per pack (8 pieces total), strong hold that doesn't snag or slip even on wet hair. This particular listing didn't carry the AI-generated 'Customers say' summary Amazon sometimes shows (it didn't appear anywhere across the HTML that was read), so the real limitation was taken from buyer reviews cited in media coverage (Scripps News/SheKnows, via additional web search, not invented): most describe it as long-lasting (one cited reviewer says a set lasted her almost two years of daily use), but the internal metal spring can eventually rust if the clip gets used in the shower often, and some units feel stiff to open the first few times until they loosen up with use.",
+    "idealParaEn": "For anyone who wants hair out of their face in seconds with no flat iron, no blow dryer, and no product — for skincare, workouts, cooking, or just the days you don't have time to style, on any length from the shoulders up and any texture, straight or curly.",
+    "guiaCompraEn": {
+      "queEsYParaQueSirve": "It's a large clip with a metal spring hinge in the middle — like a clothespin, but curved with teeth shaped to fit a head instead of flattening a sheet of paper. You squeeze the two ends open, tuck in the gathered section of hair, and let go: the spring snaps shut on its own and holds the hair up with no need to tie, braid, or use any tool.",
+      "ejemploHogar": "At home you use it to throw your hair up in 5 seconds before washing your face or doing your skincare routine, so hair doesn't get wet or covered in product — no elastic that pulls afterward, no bobby pins that go missing.",
+      "ejemploNegocio": "A stylist uses it during a color or cutting service to section off and hold large chunks of hair out of the way while working on another area, much faster than braiding or pinning each section with multiple bobby pins.",
+      "puntosClave": [
+        "This listing is the assorted-color variant (Beige, Pink, Green, Khaki, Brown, Black) at $6.99 — the same line has other color variants at different prices ($7.64–$8.49), so confirm you're picking the color combination you actually want before buying.",
+        "The coating is matte rubber with an internal metal spring (not hard, glossy plastic) — that's exactly what keeps it from slipping or snagging hair, but that same spring can rust if the clip gets wet often in the shower; it's worth drying it off if you use it there.",
+        "It's one-size, marketed as fitting \"any length,\" but in practice you need at least shoulder-length hair for it to grab a full section — on hair shorter than that, there isn't enough to hold."
+      ],
+      "consejoInversion": "A loose plastic clip from a drugstore rack costs less per unit, but it's usually hard, glossy plastic with no metal spring — it slips on straight hair, cracks at the hinge within a few weeks, and you're buying another one. This 8-pack works out to under $0.90 per clip, with a real metal spring and a rubber coating that doesn't slip or crack with daily use (34,558 real reviews backing it lasting months, not weeks) — for an accessory you'll reach for every day, the durability difference more than makes up for the extra cost."
+    },
+    "tagsEn": [
+      "Claw clip",
+      "Hair accessory",
+      "Styling tool",
+      "TikTok viral",
+      "90s trend"
+    ]
   }
 ]
