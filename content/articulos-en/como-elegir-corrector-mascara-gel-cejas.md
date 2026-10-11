@@ -44,7 +44,9 @@ This real video shows one user's before and after after trying the serum alongsi
 
 A clear brow gel holds hair in place (a DIY "laminated brow" effect) without adding color — it works if your brows already have the shape and density you want and you just need them to stay neat all day. If you also need to fill in gaps or darken your brows, you need the tinted version, which is a different product (even if from the same line), not an option within the same tube.
 
-The [NYX The Brow Glue](/en/productos/B08M58SWB1) in this ranking is the **Clear** version — extreme hold, laminated-brow effect, but no pigment. If your brows need color or filling in, look for the Dark Brown or Taupe version of the same line separately; buying the clear one expecting it to also darken your brows is the most common mistake with this type of product.
+The [NYX The Brow Glue](/en/productos/B08M58SWB1) in this ranking is the **Clear** version — extreme hold, laminated-brow effect, but no pigment. If your brows need color or filling in, the same line has a tinted version — the [NYX The Brow Glue Tinted in Taupe](/en/productos/B0BDPCG7ZX), a neutral ashy brown built for blonde or light brown brows — sold separately; buying the clear one expecting it to also darken your brows is the most common mistake with this type of product.
+
+The difference between the two isn't just color: it's the same gel, the same brush, the same hold time (16 hours) — the only thing that changes is whether it carries pigment or not. That means the buying question isn't "which is better" but which one you actually need: if your brow already has the density you want, Clear is enough; if you also want it to look fuller without a pencil, go with Tinted in the shade that matches your brow hair color (not your head hair color). The real review summary for the Taupe version warns, as with any tinted gel, that the tint is subtle — it doesn't replace a brow pencil if you have large gaps — and that applying too much can leave visible white residue once it dries, so start with a small amount.
 
 If you want to see how it looks applied and how long the hold actually lasts in real wear (not just on the tube), this demo + review walks through the application step by step:
 
@@ -59,7 +61,7 @@ If you want to see how it looks applied and how long the hold actually lasts in 
 | Concealer | The shade, not the brand — check reviews with photos from similar skin tones to yours. To blend it, a separate sponge outperforms the cap applicator. |
 | Mascara | Buildable + washable, or waterproof — not both in the same formula. |
 | Lash serum | A background treatment, not makeup — results at 4-6 weeks, not same-day. |
-| Brow gel | Clear (holds only) or tinted (holds and colors) — they're different products. |
+| Brow gel | Clear (holds only) or tinted (holds and colors, pick the shade by your brow hair) — they're different products. |
 
 ## Our pick this month
 
@@ -81,3 +83,6 @@ Yes, and it's the most common combination: the serum goes on at night over clean
 
 **Does clear brow gel work for all brow types?**
 It works best on brows that already have good density and shape — if you have sparse patches, a clear gel won't disguise them; that's where a tinted version or a separate brow pencil comes in.
+
+**Does the tinted version replace a brow pencil?**
+Not always. The Taupe version's tint is subtle — it adds even color and visual density across the whole brow, but it doesn't draw in or fill a specific gap the way a pencil does, since a pencil deposits pigment in one exact spot. If your brow has very sparse patches or marked asymmetry, the more complete combination is pencil first (to fill in) and tinted gel after (to hold and even out the color).

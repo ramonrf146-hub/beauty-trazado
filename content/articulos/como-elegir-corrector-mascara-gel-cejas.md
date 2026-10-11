@@ -44,7 +44,9 @@ Este video real muestra el antes y después de una usuaria tras probar el suero 
 
 Un gel de cejas transparente fija el vello en su lugar (efecto "cejas laminadas" casero) sin agregar color — sirve si tus cejas ya tienen la forma y densidad que querés y solo necesitás que se mantengan prolijas todo el día. Si además necesitás rellenar espacios o oscurecer, necesitás la versión con tinte, que es un producto distinto (aunque de la misma línea), no una opción dentro del mismo frasco.
 
-El [NYX The Brow Glue](/productos/B08M58SWB1) de este ranking es la versión **Clear** (transparente) — fijación extrema tipo laminado, pero sin pigmento. Si tus cejas necesitan color o relleno, buscá la versión Dark Brown o Taupe de la misma línea por separado; comprar la transparente esperando que también oscurezca es el error más común con este tipo de producto.
+El [NYX The Brow Glue](/productos/B08M58SWB1) de este ranking es la versión **Clear** (transparente) — fijación extrema tipo laminado, pero sin pigmento. Si tus cejas necesitan color o relleno, la misma línea tiene la versión con tinte — el [NYX The Brow Glue Tinted en tono Taupe](/productos/B0BDPCG7ZX), un castaño grisáceo neutro pensado para cejas rubias o castañas claras — por separado; comprar la transparente esperando que también oscurezca es el error más común con este tipo de producto.
+
+La diferencia entre ambas no es solo el color: son el mismo gel, el mismo cepillo, el mismo tiempo de fijación (16 horas) — lo único que cambia es si lleva pigmento o no. Eso significa que el criterio de compra no es "cuál es mejor" sino cuál necesitás: si tu ceja ya tiene la densidad que querés, la Clear alcanza; si además querés que se vea más llena sin usar lápiz, elegís la Tinted en el tono que coincida con el color de tu vello (no con el de tu pelo de cabeza). El resumen real de reseñas de la versión Taupe advierte, igual que con cualquier gel tinted, que el tinte es sutil — no reemplaza a un lápiz de cejas si tenés huecos grandes — y que aplicar de más puede dejar un residuo blanco visible al secar, así que conviene empezar con poca cantidad.
 
 Si querés ver cómo queda aplicado y cuánto dura la fijación en un uso real (no solo en la foto del frasco), este demo + reseña muestra la aplicación paso a paso:
 
@@ -59,7 +61,7 @@ Si querés ver cómo queda aplicado y cuánto dura la fijación en un uso real (
 | Corrector | El tono, no la marca — mirá reseñas con fotos de tonos de piel similares al tuyo. Para difuminarlo, una esponja aparte da mejor resultado que el aplicador de la tapa. |
 | Máscara de pestañas | Buildable + washable, o waterproof — no ambas en la misma fórmula. |
 | Suero de pestañas | Tratamiento de fondo, no maquillaje — resultado recién a las 4-6 semanas, no el mismo día. |
-| Gel de cejas | Transparente (solo fija) o con tinte (fija y colorea) — son productos distintos. |
+| Gel de cejas | Transparente (solo fija) o con tinte (fija y colorea, elegí el tono por tu vello) — son productos distintos. |
 
 ## Nuestra recomendación del mes
 
@@ -81,3 +83,6 @@ Sí, y es la combinación más común: el suero se aplica de noche sobre pestañ
 
 **¿El gel de cejas transparente sirve para todos los tipos de ceja?**
 Funciona mejor en cejas que ya tienen buena densidad y forma — si tenés zonas muy ralas, un gel transparente no las va a disimular; ahí es donde entra la versión con tinte o un lápiz de cejas aparte.
+
+**¿La versión con tinte reemplaza al lápiz de cejas?**
+No siempre. El tinte de la versión Taupe es sutil — suma color y densidad visual pareja en toda la ceja, pero no dibuja ni rellena un hueco puntual como lo hace un lápiz, que deposita pigmento en un punto exacto. Si tu ceja tiene zonas muy ralas o asimetrías marcadas, la combinación más completa es lápiz primero (para rellenar) y gel tinted después (para fijar y unificar el color).

@@ -3452,5 +3452,56 @@
       "Fine hair",
       "Wet & dry"
     ]
+  },
+  {
+    "asin": "B0BDPCG7ZX",
+    "nombre": "NYX Professional Makeup The Brow Glue Tinted, Tono Taupe — Gel de Cejas con Color y Fijación Extrema",
+    "categoria": "maquillaje",
+    "precio": 9.99,
+    "moneda": "USD",
+    "imagen": "https://m.media-amazon.com/images/I/71q3stbucSL._SL1500_.jpg",
+    "rating": 4.4,
+    "numResenas": 37044,
+    "ranking": 14,
+    "notaTecnica": "Es la versión con color de la línea Brow Glue: mismo gel de fijación extrema tipo 'laminado' que la versión Clear ya en este catálogo, pero en tono Taupe (castaño grisáceo), así que además de fijar también aporta densidad y color sutil a la ceja. El resumen real de reseñas de Amazon es parejo: la mayoría dice que sostiene el look natural todo el día, pero una parte de los compradores siente que el tinte es demasiado sutil para rellenar cejas con claros, y otra parte reporta que se puede resecar y dejar un residuo blanco con el uso. No es un lápiz de cejas ni un pomade — no dibuja ni rellena huecos puntuales, solo tiñe el vello existente.",
+    "idealPara": "Quien ya usa o consideró la versión transparente del Brow Glue pero quiere que, además de fijar, el gel también aporte color y densidad a la ceja.",
+    "guiaCompra": {
+      "queEsYParaQueSirve": "Funciona igual que un gel fijador para el pelo, pero a escala de ceja: un polímero que seca rápido y mantiene el vello peinado hacia arriba y afuera durante horas, como una ceja 'laminada' de salón. La diferencia con la versión Clear es que este gel lleva pigmento — tono Taupe, un castaño grisáceo neutro — así que al mismo tiempo que fija también tiñe el vello, sumando sensación de ceja más densa sin necesitar lápiz.",
+      "ejemploHogar": "En casa se aplica con el cepillito incluido, peinando el vello hacia arriba y afuera antes de que seque — el mismo paso de la rutina de 5 minutos que la versión transparente, pero sin necesitar sumar color por separado con un lápiz.",
+      "ejemploNegocio": "Una maquilladora que trabaja con varias clientas el mismo día lo usa para unificar el look de cejas rápido en pelo claro, porque el tinte Taupe suma densidad visual sin el tiempo que toma rellenar a lápiz pelo por pelo.",
+      "puntosClave": [
+        "Es tinte, no cobertura: si tenés huecos grandes en la ceja o vello muy claro, el tono Taupe suma color pero no rellena como un lápiz o pomada — para eso necesitás un producto distinto.",
+        "Elegí el tono por el color de tu vello de ceja, no el de tu pelo de cabeza: Taupe es un castaño grisáceo neutro, el más versátil de los 4 tonos de la línea para cejas rubias o castañas claras, pero no sirve para cejas muy oscuras o negras (ahí conviene Dark Brown o Black de la misma línea).",
+        "Si nunca usaste la fórmula, probá primero con poca cantidad: aplicar de más puede dejar residuo blanco visible al secar, según reportan varios compradores en las reseñas reales del producto."
+      ],
+      "consejoInversion": "Cuesta prácticamente lo mismo que la versión transparente (ambas rondan los $10), así que si de todos modos vas a comprar un Brow Glue, elegir directamente la versión tinted del tono correcto te ahorra comprar un lápiz de cejas aparte para sumar color — dos pasos en un solo frasco en vez de pagar por dos productos distintos."
+    },
+    "tags": [
+      "Tono Taupe",
+      "Fijación extrema",
+      "Con color"
+    ],
+    "urlAfiliado": "https://www.amazon.com/dp/B0BDPCG7ZX?tag=beautylab02-20",
+    "actualizadoEn": "2026-10-11",
+    "activo": true,
+    "nombreEn": "NYX Professional Makeup The Brow Glue Tinted, Taupe — Extreme Hold Brow Gel with Color",
+    "notaTecnicaEn": "This is the tinted sibling of the Brow Glue line: the same extreme-hold, lamination-style gel as the Clear version already in this catalog, but in the Taupe shade, so besides holding brow hair in place it also adds subtle color and density. Amazon's real customer review summary is mixed: most say it holds the natural look all day, but some buyers feel the tint is too subtle to fill in sparse brows, and others report it can dry out and leave a white residue with use. It is not a brow pencil or pomade — it doesn't draw in or fill specific gaps, it only tints the hair that's already there.",
+    "idealParaEn": "Anyone who already uses or considered the Clear version of the Brow Glue but wants the gel to also add color and density to the brow, not just hold.",
+    "guiaCompraEn": {
+      "queEsYParaQueSirve": "It works the same way as a hair-holding gel, just at brow scale: a fast-drying polymer that keeps hair combed up and out for hours, like a salon brow lamination. The difference from the Clear version is that this gel carries pigment — Taupe, a neutral ashy brown — so while it holds the hair in place it also tints it, adding the look of a denser brow without a pencil.",
+      "ejemploHogar": "At home it's applied with the included small brush, combing hair up and out before it dries — the same step of the 5-minute routine as the Clear version, but without needing to add color separately with a pencil.",
+      "ejemploNegocio": "A makeup artist working with several clients in one day uses it to quickly even out brow look on light hair, because the Taupe tint adds visual density without the time it takes to fill in a brow hair by hair with a pencil.",
+      "puntosClave": [
+        "It's a tint, not coverage: if you have large gaps in the brow or very light hair, Taupe adds color but won't fill in like a pencil or pomade — that needs a different product.",
+        "Pick the shade by your brow hair color, not your hair color: Taupe is a neutral ashy brown, the most versatile of the line's 4 shades for blonde or light brown brows, but it won't work for very dark or black brows (go for Dark Brown or Black in the same line instead).",
+        "If you've never used the formula, start with a small amount: applying too much can leave visible white residue once it dries, as several buyers note in the product's real reviews."
+      ],
+      "consejoInversion": "It costs about the same as the Clear version (both around $10), so if you're buying a Brow Glue either way, picking the tinted shade that matches your brows up front saves you from buying a separate brow pencil just to add color — two steps in one bottle instead of paying for two different products."
+    },
+    "tagsEn": [
+      "Taupe shade",
+      "Extreme hold",
+      "Tinted"
+    ]
   }
 ]
