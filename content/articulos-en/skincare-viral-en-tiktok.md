@@ -1,11 +1,13 @@
 ---
-titulo: "Viral TikTok skincare: what actually holds up the hype"
+titulo: "Viral TikTok Skincare Products: Which Ones Are Actually Worth It"
 fecha: "2026-09-04"
-descripcion: "Three products that have been viral on TikTok for years, reviewed by a dermatologist and a cosmetic chemist — not just by content creators with no training."
+descripcion: "COSRX Snail Mucin, Paula's Choice 2% BHA, Anua Heartleaf, Hero Mighty Patch and the medicube pad: the viral TikTok skincare products that hold up, with a dermatologist and a cosmetic chemist weighing in."
 categoria: "cuidado-facial"
 ---
 
-TikTok recommends skincare every day — most of it is a two-week fad that disappears. These three products are the exception: they've been viral for years (or, in the third case, several straight seasons), have hundreds of thousands of real reviews on Amazon, and beyond beauty creators, they're reviewed by trained professionals (dermatologists, cosmetic chemists). That combination — viral staying power over time plus professional backing — is what we use to decide what makes it into this ranking and what doesn't.
+> **Short answer:** of the skincare products that go viral on TikTok, these are the ones that have held up over time and have professional commentary: **COSRX Snail Mucin** (hydrating essence), **Paula's Choice 2% BHA** (exfoliant for pores), **Anua Heartleaf 77%** (soothing toner), **Hero Mighty Patch** (for a pimple that's already there) and the **medicube Zero Pore Pad** (exfoliating pad). Below: what each one does, who it suits, and how to combine them without over-exfoliating.
+
+TikTok recommends skincare every day — most of it is a two-week fad that disappears. The first three are the exception: they've been viral for years (or, in the third case, several straight seasons), have hundreds of thousands of real reviews on Amazon, and beyond beauty creators, they're reviewed by trained professionals (dermatologists, cosmetic chemists). That combination — viral staying power over time plus professional backing — is what we use to decide what makes it into this ranking and what doesn't.
 
 ## 1. COSRX Snail Mucin — the "glass skin" essence
 
@@ -114,3 +116,12 @@ No — they do different jobs and it's worth using both. The BHA works preventiv
 
 **Does the medicube pad replace the liquid BHA or the toner in this ranking?**
 Not fully either one. It replaces the liquid BHA if you prefer the pad format (faster, no cotton round) — but you don't use them the same night, since both are exfoliants with active acids. It doesn't replace the Anua toner, because that one doesn't exfoliate at all — it's purely soothing and used every night, while the pad is an exfoliation step used 2-3 times a week.
+
+**What skincare is popular on TikTok right now?**
+In this ranking: COSRX Snail Mucin (hydrating essence), Paula's Choice 2% BHA (liquid exfoliant), Anua Heartleaf 77% (soothing toner), Hero Mighty Patch (hydrocolloid patch) and the medicube Zero Pore Pad. What they share is that they have held up over time or have thousands of verified reviews — not a two-week spike.
+
+**Are viral TikTok skincare products worth buying?**
+Not all of them. Thousands go viral for a couple of weeks and disappear. The ones worth considering have sustained repurchase volume and, ideally, a review from someone with training (a dermatologist or a cosmetic chemist) rather than only "it worked for me" testimonials. Even then, skin differs: start with one product at a time and patch-test actives first.
+
+**Which viral TikTok skincare product is best for oily or pore-prone skin?**
+Of the five here, the options aimed at pores and oiliness are Paula's Choice 2% BHA and the medicube Zero Pore Pad — both exfoliants with active acids, so pick one per night, never both. The Anua toner and COSRX snail mucin are calming and hydrating, not exfoliating.
