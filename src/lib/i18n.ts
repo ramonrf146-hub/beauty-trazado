@@ -195,6 +195,7 @@ const es = {
   "producto.articulosRelacionados": "Guías relacionadas",
 
   "categoria.rankingDelMes": "Ranking del mes",
+  "categoria.comoElegir": "Cómo elegir",
   "categoria.sinProductos": "Aún no hay productos rankeados en esta categoría.",
   "categoria.guiaDeCompra": "Guía de compra",
 } as const;
@@ -357,6 +358,7 @@ const en: Dictionary = {
   "producto.articulosRelacionados": "Related guides",
 
   "categoria.rankingDelMes": "This month's ranking",
+  "categoria.comoElegir": "How to choose",
   "categoria.sinProductos": "No products ranked in this category yet.",
   "categoria.guiaDeCompra": "Buying guide",
 };
