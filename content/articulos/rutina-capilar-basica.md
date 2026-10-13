@@ -62,6 +62,8 @@ Si lavaste con un shampoo que no trae acondicionador, sumá uno de hidratación 
 
 Acá es donde se repara el daño acumulado, no donde se mantiene el día a día. La máscara del [kit Bare Anatomy](/productos/B0DCZSSG8B) cumple esta función — se deja actuar unos minutos antes de enjuagar, a diferencia del acondicionador que se enjuaga rápido.
 
+**La alternativa suelta, con mucho más historial detrás.** El Bare Anatomy de arriba viene dentro de un kit de 3 pasos de una marca con relativamente poco recorrido en Amazon EE.UU. (303 reseñas en el combo completo). Si preferís no comprometerte a cambiar shampoo y acondicionador para sumar la máscara, la [Karseell Collagen Hair Mask](/productos/B075L6BL61), recién sumada a este ranking, resuelve lo mismo por separado: colágeno, aceite de argán, aceite de coco, manteca de karité y aceite de aguacate en un frasco de 500ml que se usa después de **cualquier** shampoo, no solo el de un kit puntual. Con 36.000+ reseñas y 4.7★ — #6 en Amazon Best Sellers de máscaras capilares, el conteo más alto de cualquier producto de este ranking — tiene mucho más respaldo que la opción del kit. El resumen real de reseñas de Amazon es mayormente positivo (suaviza y deja brillo desde la primera aplicación), pero los compradores están divididos sobre si vale lo que cuesta, y el aroma es fuerte y persistente — vale la pena leer sobre eso antes de comprar el frasco grande.
+
 ## Paso 4: Protección antes del calor (cada vez que uses plancha o secador)
 
 Este paso se aplica en cabello **mojado, antes** de cualquier herramienta de calor — usarlo después no protege nada. El [Olaplex N°.7 Bonding Hair Oil](/productos/B07VR1NDSQ) de este ranking protege hasta 450°F y además da brillo.
@@ -122,3 +124,6 @@ No, resuelve un problema distinto. La vincha y la plancha moldean el cabello (on
 
 **¿El cepillo desenredante reemplaza al masajeador de cuero cabelludo HEETA del Paso 1?**
 No, resuelven problemas distintos. El HEETA trabaja sobre el cuero cabelludo (circulación, no las puntas) y se usa durante el lavado, con las cerdas de silicona haciendo masaje; el UNbrush trabaja sobre el largo del cabello (nudos, no el cuero cabelludo) y se usa antes de peinar, mojado o seco. Podés usar los dos en la misma rutina sin que se superpongan: el HEETA mientras te enjuagás el shampoo, el UNbrush después, al salir de la ducha o antes de aplicar el protector térmico del Paso 4.
+
+**¿Uso la máscara Karseell además del kit Bare Anatomy, o en vez de?**
+En vez de, no además. Las dos cumplen la misma función (tratamiento semanal de reparación), así que usarlas juntas el mismo día no suma nada extra, solo gasta producto de más. Elegí una: el kit Bare Anatomy si querés armar toda la rutina (shampoo + máscara + serum) de una sola marca, o la Karseell si ya tenés tu shampoo/acondicionador favorito y solo querés sumar el paso de tratamiento intensivo semanal por separado.

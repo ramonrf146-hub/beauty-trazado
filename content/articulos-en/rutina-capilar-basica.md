@@ -62,6 +62,8 @@ If you washed with a shampoo that doesn't include conditioner, add one for gener
 
 This is where accumulated damage gets repaired, not where day-to-day maintenance happens. The mask from the [Bare Anatomy kit](/en/productos/B0DCZSSG8B) serves this function — it's left on for a few minutes before rinsing, unlike a conditioner that rinses out quickly.
 
+**The standalone alternative, with a much deeper track record.** The Bare Anatomy mask above comes inside a 3-step kit from a brand with relatively little history on Amazon US (303 reviews on the whole combo). If you'd rather not switch shampoo and conditioner just to add the mask, the [Karseell Collagen Hair Mask](/en/productos/B075L6BL61), just added to this ranking, solves the same problem on its own: collagen, argan oil, coconut oil, shea butter and avocado oil in a 500ml jar that works after **any** shampoo, not just one kit's. With 36,000+ reviews and 4.7 stars — #6 in Amazon Best Sellers for hair treatment masks, the highest review count of any product in this ranking — it carries far more track record than the kit option. Amazon's real review summary is mostly positive (softens and adds shine from the first use), but buyers are split on whether it's worth the price, and the scent is strong and long-lasting — worth reading up on before buying the big jar.
+
 ## Step 4: Heat protection (every time you use a flat iron or blow dryer)
 
 This step is applied to **wet** hair, **before** any heat tool — using it afterward protects nothing. The [Olaplex N°.7 Bonding Hair Oil](/en/productos/B07VR1NDSQ) in this ranking protects up to 450°F and adds shine too.
@@ -122,3 +124,6 @@ No, it solves a different problem. The headband and the straightener brush shape
 
 **Does the detangling brush replace the HEETA scalp massager from Step 1?**
 No, they solve different problems. The HEETA works on the scalp (circulation, not the lengths) and is used during washing, with silicone bristles massaging; the UNbrush works on the length of your hair (knots, not the scalp) and is used before styling, wet or dry. You can use both in the same routine without overlap: the HEETA while rinsing out shampoo, the UNbrush afterward, getting out of the shower or before applying the heat protectant from Step 4.
+
+**Do I use the Karseell mask on top of the Bare Anatomy kit, or instead of it?**
+Instead of, not on top of. Both do the same job (weekly repair treatment), so using them together the same day doesn't add anything extra — it just uses up more product. Pick one: the Bare Anatomy kit if you want your whole routine (shampoo + mask + serum) from a single brand, or the Karseell mask if you already have a shampoo and conditioner you like and just want to add the weekly intensive treatment step on its own.
