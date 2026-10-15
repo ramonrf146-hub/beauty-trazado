@@ -91,6 +91,12 @@ La combinación lógica es usarlo 1-2 veces por semana, de noche, antes del [LAN
 <script async src="https://www.tiktok.com/embed.js"></script>
 </div>
 
+## El octavo contendiente: el lápiz que rellena todo el labio
+
+Los siete productos de arriba hidratan, dan brillo, tratan de noche, dan volumen, dejan un stain pelable o cubren con un labial tradicional — pero ninguno es, en rigor, un lápiz labial pensado para delinear Y rellenar todo el labio con un mismo color mate parejo, sin pasos extra. Ahí entra el [Tower 28 Beauty OneLiner](/productos/B0CCPGR4MM), tono Rosy Nude: un lápiz cremoso multiuso (también sirve como delineador de ojos, blush en crema o para dibujar pecas falsas) con manteca de karité y aceite de marula, acabado mate, testeado bajo supervisión oftalmológica y apto para quienes usan lentes de contacto — vendido directo por la marca Tower28 Beauty, no por un reseller.
+
+La comparación directa es con el [Sacheu STAY-N](/productos/B0BVPNQW1C) de este mismo ranking, porque de hecho son el combo que se hizo viral en TikTok cuando Billie Eilish mostró su rutina de maquillaje de backstage en su gira "Hit Me Hard and Soft" combinando ambos productos (la cobertura de medios no coincide en qué tono exacto de cada uno usó, así que ese dato puntual no se puede confirmar con certeza, pero el combo en sí y la viralidad del artículo de BuzzFeed testeándolo en 2026 sí están documentados). Son complementarios, no el mismo producto: el Sacheu es un stain pelable que necesita secarse unos minutos antes de despegarlo y después aguanta horas sin transferirse ni correrse; el OneLiner se aplica y usa directo, sin tiempo de espera, pero con una duración más corta y variable según las reseñas reales (mixtas: para algunos aguanta mucho, para otros no). Para el día a día sin pensar, el OneLiner alcanza; para un evento largo donde vas a comer, tomar algo o no vas a poder retocarte, el Sacheu rinde mejor.
+
 ## Nuestra recomendación del mes
 
 Mirá el ranking completo de [Labios](/categorias/labios) para comparar precios actuales. Si además estás armando toda tu rutina diaria desde cero, la [rutina rápida de 5 minutos](/articulos/la-rutina-rapida-de-5-minutos) muestra dónde encaja cada paso de labios en el orden completo.
@@ -108,3 +114,6 @@ No hay una regla fija — se reaplica cuando sientas los labios secos otra vez, 
 
 **¿Necesito exfoliar los labios antes de usar el resto de estos productos?**
 No es obligatorio todos los días, pero ayuda cuando notás piel muerta o escamosa: el [COSRX Honey Sugar Lip Scrub](/productos/B098D8QZK1) de este ranking se usa 1-2 veces por semana, nunca a diario, porque exfoliar de más irrita en vez de ayudar. Es un paso previo, no un reemplazo de ninguno de los otros seis productos.
+
+**¿El lápiz Tower 28 OneLiner reemplaza al Sacheu STAY-N?**
+No — resuelven el mismo problema (color de labios) de formas distintas. El [OneLiner](/productos/B0CCPGR4MM) se aplica directo sin tiempo de espera pero dura menos según las reseñas reales; el [Sacheu STAY-N](/productos/B0BVPNQW1C) necesita secarse antes de pelarlo pero después aguanta horas sin transferirse. Usá el OneLiner para el día a día simple y el Sacheu cuando la duración sea lo que más importa.

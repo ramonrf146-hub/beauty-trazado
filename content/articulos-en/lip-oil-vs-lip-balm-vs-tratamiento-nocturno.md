@@ -91,6 +91,12 @@ The logical combo is using it 1-2 times a week, at night, before this ranking's 
 <script async src="https://www.tiktok.com/embed.js"></script>
 </div>
 
+## The eighth contender: the pencil that fills in the whole lip
+
+The seven products above hydrate, add shine, treat overnight, add plumpness, leave a peel-off stain, or give full lipstick coverage — but none of them is, strictly speaking, a lip pencil meant to both line AND fill in the entire lip with one even matte color, with no extra steps. That's where this ranking's [Tower 28 Beauty OneLiner](/en/productos/B0CCPGR4MM), Rosy Nude shade, comes in: a creamy multi-use pencil (it also works as an eyeliner, cream blush, or faux-freckle pencil) with shea butter and marula oil, matte finish, tested under ophthalmologist supervision and safe for contact lens wearers — sold directly by the brand, Tower28 Beauty, not a reseller.
+
+The direct comparison is with this ranking's [Sacheu STAY-N](/en/productos/B0BVPNQW1C), because they're actually the combo that went viral on TikTok when Billie Eilish showed her backstage makeup routine on her "Hit Me Hard and Soft" tour pairing both products (media coverage disagrees on the exact shade of each one she used, so that specific detail can't be confirmed with certainty, but the combo itself and the virality of BuzzFeed's 2026 test of it are documented). They're complementary, not the same product: the Sacheu is a peel-off stain that needs a few minutes to dry before peeling off, and then holds up for hours without transferring or smudging; the OneLiner goes on and gets used immediately, no wait time, but with shorter and more variable longevity per real reviews (mixed — some say it lasts a long time, others don't). For simple everyday wear, the OneLiner is enough; for a long event where you'll be eating, drinking, or won't be able to touch up, the Sacheu performs better.
+
 ## Our pick this month
 
 Check the full [Lips](/en/categorias/labios) ranking to compare current prices. If you're also building your whole daily routine from scratch, the [5-minute quick routine](/en/articulos/la-rutina-rapida-de-5-minutos) shows exactly where each lip step fits into the full sequence.
@@ -108,3 +114,6 @@ There's no fixed rule — reapply whenever your lips start feeling dry again, wh
 
 **Do I need to exfoliate my lips before using the rest of these products?**
 Not every day, but it helps when you notice dry or flaky skin: this ranking's [COSRX Honey Sugar Lip Scrub](/en/productos/B098D8QZK1) is meant for 1-2 uses a week, never daily, since over-exfoliating irritates lips instead of helping them. It's a prep step, not a replacement for any of the other six products.
+
+**Does the Tower 28 OneLiner pencil replace the Sacheu STAY-N?**
+No — they solve the same problem (lip color) in different ways. The [OneLiner](/en/productos/B0CCPGR4MM) goes on immediately with no wait time but holds up for less time per real reviews; the [Sacheu STAY-N](/en/productos/B0BVPNQW1C) needs to dry before peeling but then lasts for hours without transferring. Use the OneLiner for simple everyday wear and the Sacheu when longevity matters most.
