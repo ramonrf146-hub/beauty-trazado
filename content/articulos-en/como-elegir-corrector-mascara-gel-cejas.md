@@ -27,6 +27,10 @@ The [Maybelline Lash Sensational Sky High](/en/productos/B08H3JPH74) in this ran
 
 There's a third path here that no mascara covers, buildable or waterproof: none of them change the lash at the root, because the effect comes off every night with makeup remover. The [Grande Cosmetics GrandeLASH-MD Lash Enhancing Serum](/en/productos/B00325D0WK), just added to this ranking, is a different category of product entirely — a serum with peptides, vitamins, and amino acids applied at night to clean lashes, as a treatment, not as makeup. It doesn't give instant volume: the first real changes take 4 to 6 weeks, with full results closer to 3 months. Mascara stays the everyday step; the serum is the background step that, with consistent use, means you need less mascara over time. Real limitation, taken from Amazon's own buyer review summary: some users report eye irritation, and opinions are mixed on whether results hold up once you stop — this isn't a fit for every sensitive eye without a patch test first.
 
+### Magnetic lashes: neither mascara nor serum — a third, completely different mechanism
+
+There's still a third path to long lashes, and it doesn't look anything like the other two: instead of painting the lash (mascara) or stimulating the lash root over time (serum), the [LASHVIEW Reusable Magnetic Eyelashes with Applicator](/en/productos/B0GF6PYVRY) are full false lashes that attach with ultra-thin magnets built into the band itself — no glue, no waiting for anything to dry. The kit includes an applicator clip, a compact mirror, and a "lash fixer" that locks in the curl. It's the exact opposite of this ranking's Grande Cosmetics GrandeLASH-MD: the serum needs 4 to 6 weeks of consistent use to show results, while the magnetic lash gives maximum volume instantly but only lasts for that one day — it doesn't change anything about the natural lash. And unlike the Maybelline Lash Sensational, there are no layers to build up and no worrying about buildable vs. waterproof: it's an object you put on whole, not a product you paint on with a brush. Amazon's own real buyer review summary is mostly positive (good quality, lightweight, easy to apply and remove, holds a good curl), but hold/retention gets mixed feedback — some people wear them for hours without them shifting, others find they come loose sooner than expected — so it's worth trying them on a low-stakes outing first before trusting them for an important occasion.
+
 This real video shows one user's before and after after trying the serum alongside her usual mascara:
 
 <div class="not-prose my-6 flex justify-center">
@@ -61,6 +65,7 @@ If you want to see how it looks applied and how long the hold actually lasts in 
 | Concealer | The shade, not the brand — check reviews with photos from similar skin tones to yours. To blend it, a separate sponge outperforms the cap applicator. |
 | Mascara | Buildable + washable, or waterproof — not both in the same formula. |
 | Lash serum | A background treatment, not makeup — results at 4-6 weeks, not same-day. |
+| Magnetic lashes | Instant volume for one day only, no glue — doesn't treat or change the natural lash like the serum does. |
 | Brow gel | Clear (holds only) or tinted (holds and colors, pick the shade by your brow hair) — they're different products. |
 
 ## Our pick this month
@@ -80,6 +85,9 @@ Not necessarily — "buildable" describes how it's applied (in layers), not a di
 
 **Can I use the lash serum and mascara together?**
 Yes, and it's the most common combination: the serum goes on at night over clean lashes, mascara during the day over lashes already done up — they don't interfere with each other. The one thing not to expect is the serum replacing mascara overnight; its effect builds up over time, it isn't immediate.
+
+**Do magnetic lashes replace mascara or the serum?**
+No — they solve different problems. Mascara is for everyday wear and the serum is a background treatment that takes weeks; magnetic lashes give the most dramatic volume of the three, but only while they're on, and they're meant for a specific occasion, not daily use.
 
 **Does clear brow gel work for all brow types?**
 It works best on brows that already have good density and shape — if you have sparse patches, a clear gel won't disguise them; that's where a tinted version or a separate brow pencil comes in.

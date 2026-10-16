@@ -27,6 +27,10 @@ La [Maybelline Lash Sensational Sky High](/productos/B08H3JPH74) de este ranking
 
 Acá hay un tercer camino que ninguna máscara cubre, sea buildable o waterproof: ninguna cambia la pestaña de base, porque el efecto se retira todas las noches con el desmaquillante. El [Grande Cosmetics GrandeLASH-MD Lash Enhancing Serum](/productos/B00325D0WK), recién sumado a este ranking, es otra categoría de producto — un suero con péptidos, vitaminas y aminoácidos que se aplica de noche en la base de las pestañas limpias, como un tratamiento, no como maquillaje. No da volumen instantáneo: los primeros cambios reales tardan de 4 a 6 semanas, con resultado completo cerca de los 3 meses. La máscara sigue siendo el paso del día a día; el suero es el paso de fondo que, con constancia, hace que necesites menos máscara con el tiempo. Limitación real, tomada del resumen de reseñas de compradores de Amazon: una parte de los usuarios reporta irritación ocular, y las opiniones sobre si el resultado se sostiene al discontinuar son mixtas — no es apto para cualquier ojo sensible sin probar antes en una zona chica.
 
+### Pestañas magnéticas: ni máscara ni suero — un tercer mecanismo completamente distinto
+
+Hay todavía un tercer camino para pestañas largas, y no se parece en nada a los dos anteriores: en vez de pintar la pestaña (máscara) o estimular la pestaña de base con el tiempo (suero), las [LASHVIEW Pestañas Magnéticas Reutilizables con Aplicador](/productos/B0GF6PYVRY) son pestañas postizas completas que se sujetan con imanes ultrafinos integrados en la propia banda — sin pegamento, sin esperar a que seque nada. El kit incluye pinza aplicadora, espejo compacto y un "lash fixer" que fija la curvatura. Es el opuesto exacto del Grande Cosmetics GrandeLASH-MD de este mismo ranking: el suero necesita de 4 a 6 semanas de uso constante para dar resultado, mientras que la pestaña magnética da el volumen máximo al instante pero solo dura puesta ese día — no cambia nada de la pestaña de base. Y a diferencia de la Maybelline Lash Sensational, no hay capas que aplicar ni que preocuparse por si es buildable o waterproof: es un objeto que se coloca entero, no un producto que se pinta con un cepillo. El resumen real de reseñas de compradores en Amazon es mayormente positivo (buena calidad, livianas, fáciles de poner y sacar, buen rulo), pero la sujeción recibe feedback mixto — para algunas personas duran puestas varias horas sin moverse, para otras se despegan antes de lo esperado — así que conviene probarlas primero en una salida sin planes exigentes antes de confiar en ellas para una ocasión importante.
+
 Este video real muestra el antes y después de una usuaria tras probar el suero junto a su máscara habitual:
 
 <div class="not-prose my-6 flex justify-center">
@@ -61,6 +65,7 @@ Si querés ver cómo queda aplicado y cuánto dura la fijación en un uso real (
 | Corrector | El tono, no la marca — mirá reseñas con fotos de tonos de piel similares al tuyo. Para difuminarlo, una esponja aparte da mejor resultado que el aplicador de la tapa. |
 | Máscara de pestañas | Buildable + washable, o waterproof — no ambas en la misma fórmula. |
 | Suero de pestañas | Tratamiento de fondo, no maquillaje — resultado recién a las 4-6 semanas, no el mismo día. |
+| Pestañas magnéticas | Volumen instantáneo solo por ese día, sin pegamento — no trata ni cambia la pestaña de base como el suero. |
 | Gel de cejas | Transparente (solo fija) o con tinte (fija y colorea, elegí el tono por tu vello) — son productos distintos. |
 
 ## Nuestra recomendación del mes
@@ -80,6 +85,9 @@ No necesariamente — "buildable" describe cómo se aplica (en capas), no un ing
 
 **¿Puedo usar el suero de pestañas y la máscara juntos?**
 Sí, y es la combinación más común: el suero se aplica de noche sobre pestañas limpias, la máscara de día sobre pestañas ya maquilladas — no interfieren entre sí. Lo único que no conviene es esperar que el suero reemplace a la máscara de un día para el otro; su efecto es acumulativo, no inmediato.
+
+**¿Las pestañas magnéticas reemplazan a la máscara o al suero?**
+No — resuelven cosas distintas. La máscara es para todos los días y el suero es un tratamiento de fondo que tarda semanas; las pestañas magnéticas dan el volumen más dramático de las tres opciones, pero solo mientras están puestas, y están pensadas para una ocasión puntual, no para uso diario.
 
 **¿El gel de cejas transparente sirve para todos los tipos de ceja?**
 Funciona mejor en cejas que ya tienen buena densidad y forma — si tenés zonas muy ralas, un gel transparente no las va a disimular; ahí es donde entra la versión con tinte o un lápiz de cejas aparte.
