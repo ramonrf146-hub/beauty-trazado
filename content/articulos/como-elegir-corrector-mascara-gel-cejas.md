@@ -31,6 +31,10 @@ Acá hay un tercer camino que ninguna máscara cubre, sea buildable o waterproof
 
 Hay todavía un tercer camino para pestañas largas, y no se parece en nada a los dos anteriores: en vez de pintar la pestaña (máscara) o estimular la pestaña de base con el tiempo (suero), las [LASHVIEW Pestañas Magnéticas Reutilizables con Aplicador](/productos/B0GF6PYVRY) son pestañas postizas completas que se sujetan con imanes ultrafinos integrados en la propia banda — sin pegamento, sin esperar a que seque nada. El kit incluye pinza aplicadora, espejo compacto y un "lash fixer" que fija la curvatura. Es el opuesto exacto del Grande Cosmetics GrandeLASH-MD de este mismo ranking: el suero necesita de 4 a 6 semanas de uso constante para dar resultado, mientras que la pestaña magnética da el volumen máximo al instante pero solo dura puesta ese día — no cambia nada de la pestaña de base. Y a diferencia de la Maybelline Lash Sensational, no hay capas que aplicar ni que preocuparse por si es buildable o waterproof: es un objeto que se coloca entero, no un producto que se pinta con un cepillo. El resumen real de reseñas de compradores en Amazon es mayormente positivo (buena calidad, livianas, fáciles de poner y sacar, buen rulo), pero la sujeción recibe feedback mixto — para algunas personas duran puestas varias horas sin moverse, para otras se despegan antes de lo esperado — así que conviene probarlas primero en una salida sin planes exigentes antes de confiar en ellas para una ocasión importante.
 
+### Rizador de pestañas: va antes de la máscara, no en vez de ella
+
+Hay un cuarto paso que ni la máscara, ni el suero, ni la pestaña magnética cubren: ninguno de los tres cambia la curva de la pestaña propia antes de aplicar nada. El [Shiseido Eyelash Curler #213](/productos/B000FNF5IO) es una pinza manual con dos almohadillas de silicona que dobla la pestaña hacia arriba en la base — no pinta color como la máscara, no trata nada como el suero y no agrega pestañas como las magnéticas de LASHVIEW, solo le da forma a la que ya tenés. Se usa primero, siempre antes de la máscara: curvás, después maquillás, porque la máscara fija el rulo que el rizador ya hizo, no al revés. Trae una almohadilla de silicona de repuesto porque la original se endurece con el uso y hay que cambiarla — usarla gastada es la causa más común de que un rizador corte pestañas en vez de solo doblarlas. El resumen real de reseñas de compradores en Amazon es mixto: la mayoría dice que sostiene el rulo mejor que cualquier otro que probó, pero las opiniones están divididas sobre si pellizca el párpado y si el tamaño (pensado para párpados con poco espacio entre la pestaña y la ceja) se ajusta bien a ojos grandes o muy redondos — conviene revisar bien la almohadilla antes de cada uso.
+
 Este video real muestra el antes y después de una usuaria tras probar el suero junto a su máscara habitual:
 
 <div class="not-prose my-6 flex justify-center">
@@ -66,6 +70,7 @@ Si querés ver cómo queda aplicado y cuánto dura la fijación en un uso real (
 | Máscara de pestañas | Buildable + washable, o waterproof — no ambas en la misma fórmula. |
 | Suero de pestañas | Tratamiento de fondo, no maquillaje — resultado recién a las 4-6 semanas, no el mismo día. |
 | Pestañas magnéticas | Volumen instantáneo solo por ese día, sin pegamento — no trata ni cambia la pestaña de base como el suero. |
+| Rizador de pestañas | Va antes de la máscara, no en vez de ella — revisá la almohadilla de silicona antes de cada uso, gastada corta en vez de curvar. |
 | Gel de cejas | Transparente (solo fija) o con tinte (fija y colorea, elegí el tono por tu vello) — son productos distintos. |
 
 ## Nuestra recomendación del mes
@@ -88,6 +93,9 @@ Sí, y es la combinación más común: el suero se aplica de noche sobre pestañ
 
 **¿Las pestañas magnéticas reemplazan a la máscara o al suero?**
 No — resuelven cosas distintas. La máscara es para todos los días y el suero es un tratamiento de fondo que tarda semanas; las pestañas magnéticas dan el volumen más dramático de las tres opciones, pero solo mientras están puestas, y están pensadas para una ocasión puntual, no para uso diario.
+
+**¿El rizador de pestañas reemplaza a la máscara, al suero o a las pestañas magnéticas?**
+No — va antes de los tres, no en lugar de ninguno. El rizador solo le da forma a la pestaña propia; después de eso podés aplicar máscara (para dar color y volumen), usar el suero de fondo (para la pestaña a largo plazo) o ponerte pestañas magnéticas arriba (para una ocasión puntual) sin ningún conflicto entre pasos.
 
 **¿El gel de cejas transparente sirve para todos los tipos de ceja?**
 Funciona mejor en cejas que ya tienen buena densidad y forma — si tenés zonas muy ralas, un gel transparente no las va a disimular; ahí es donde entra la versión con tinte o un lápiz de cejas aparte.

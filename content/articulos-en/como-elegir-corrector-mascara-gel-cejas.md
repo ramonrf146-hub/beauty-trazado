@@ -31,6 +31,10 @@ There's a third path here that no mascara covers, buildable or waterproof: none 
 
 There's still a third path to long lashes, and it doesn't look anything like the other two: instead of painting the lash (mascara) or stimulating the lash root over time (serum), the [LASHVIEW Reusable Magnetic Eyelashes with Applicator](/en/productos/B0GF6PYVRY) are full false lashes that attach with ultra-thin magnets built into the band itself — no glue, no waiting for anything to dry. The kit includes an applicator clip, a compact mirror, and a "lash fixer" that locks in the curl. It's the exact opposite of this ranking's Grande Cosmetics GrandeLASH-MD: the serum needs 4 to 6 weeks of consistent use to show results, while the magnetic lash gives maximum volume instantly but only lasts for that one day — it doesn't change anything about the natural lash. And unlike the Maybelline Lash Sensational, there are no layers to build up and no worrying about buildable vs. waterproof: it's an object you put on whole, not a product you paint on with a brush. Amazon's own real buyer review summary is mostly positive (good quality, lightweight, easy to apply and remove, holds a good curl), but hold/retention gets mixed feedback — some people wear them for hours without them shifting, others find they come loose sooner than expected — so it's worth trying them on a low-stakes outing first before trusting them for an important occasion.
 
+### Eyelash curler: comes before mascara, not instead of it
+
+There's a fourth step that mascara, the serum, and the magnetic lashes all skip: none of the three changes the curve of your own lash before you put anything on it. The [Shiseido Eyelash Curler #213](/en/productos/B000FNF5IO) is a manual clamp with two silicone pads that bends the lash upward at its base — it doesn't paint on color like mascara, doesn't treat anything like the serum, and doesn't add extra lashes like LASHVIEW's magnetic ones, it just shapes the lash you already have. You use it first, always before mascara: curl, then apply makeup, since the mascara locks in the curl the curler already made, not the other way around. It comes with one replacement silicone pad, since the original one hardens with use and needs swapping — using it worn out is the most common reason a curler cuts lashes instead of just bending them. Amazon's own real customer review summary is mixed: most say it holds a curl better than any other curler they've tried, but opinions are split on whether it pinches the eyelid and whether the size (built for eyelids with little space between the lash and the brow) fits large or very round eyes well — it's worth checking the pad carefully before each use.
+
 This real video shows one user's before and after after trying the serum alongside her usual mascara:
 
 <div class="not-prose my-6 flex justify-center">
@@ -66,6 +70,7 @@ If you want to see how it looks applied and how long the hold actually lasts in 
 | Mascara | Buildable + washable, or waterproof — not both in the same formula. |
 | Lash serum | A background treatment, not makeup — results at 4-6 weeks, not same-day. |
 | Magnetic lashes | Instant volume for one day only, no glue — doesn't treat or change the natural lash like the serum does. |
+| Eyelash curler | Goes before mascara, not instead of it — check the silicone pad before every use, worn out it cuts instead of curling. |
 | Brow gel | Clear (holds only) or tinted (holds and colors, pick the shade by your brow hair) — they're different products. |
 
 ## Our pick this month
@@ -88,6 +93,9 @@ Yes, and it's the most common combination: the serum goes on at night over clean
 
 **Do magnetic lashes replace mascara or the serum?**
 No — they solve different problems. Mascara is for everyday wear and the serum is a background treatment that takes weeks; magnetic lashes give the most dramatic volume of the three, but only while they're on, and they're meant for a specific occasion, not daily use.
+
+**Does the eyelash curler replace mascara, the serum, or magnetic lashes?**
+No — it comes before all three, not instead of any of them. The curler only shapes your own lash; after that you can still apply mascara (for color and volume), use the background serum (for the lash long-term), or put on magnetic lashes (for a specific occasion) with no conflict between steps.
 
 **Does clear brow gel work for all brow types?**
 It works best on brows that already have good density and shape — if you have sparse patches, a clear gel won't disguise them; that's where a tinted version or a separate brow pencil comes in.
