@@ -38,6 +38,8 @@ A sunscreen made for the body tends to be heavier and less careful about facial 
 
 Format matters here too, not just formula. Every sunscreen in this ranking so far is a fluid, lotion, or powder — built to be rubbed in by hand on the face, calmly, once in the morning. For a beach or pool day, where you need to cover arms, legs, and back and reapply every 2 hours without cutting your time outside short, the [Neutrogena Beach Defense spray SPF 50](/en/productos/B07X1YDGSF) solves that other problem: you spray it in seconds instead of rubbing it in, and it's formulated for both face and body. It doesn't replace the fluid or lotion in your daily facial routine — it backs it up on the days the plan is hours outside. One important detail with any spray: spraying alone isn't enough — you need to rub it in by hand afterward so no spots get missed, the most common cause behind the burns some buyers of this type of product report.
 
+If you'd rather rub it in by hand than breathe an aerosol mist — but still need to cover arms and legs, not just your face —, the [Banana Boat Light As Air 2-Pack](/en/productos/B084R1KZ1Z) solves that middle ground: it's an SPF50 face-and-body lotion with no white cast that, at $1.35 an ounce, ends up cheaper per ounce than the spray itself. The spray still wins on speed for covering a lot of skin in seconds; this lotion wins on full control over exactly where the product lands (no skipped spots) and on shipping as a 2-pack, so you're not caught without sunscreen mid-season.
+
 <div class="not-prose my-6 overflow-hidden rounded-2xl border border-line-dim" style="aspect-ratio:16/9">
 <iframe width="100%" height="100%" src="https://www.youtube-nocookie.com/embed/rVvHD4NXnww" title="REVIEW: Neutrogena Beach Defense Spray Sunscreen" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
@@ -75,3 +77,6 @@ You can, but it's not ideal every day: the [Neutrogena Beach Defense spray](/en/
 
 **Does the stick replace the spray for a beach day?**
 Not entirely — they're for different moments. The [Abib Quick Sunstick](/en/productos/B0DSMTDVCH) is great for quickly reapplying on just your face and neck, over makeup, without getting your hands messy; but for covering arms, legs and back at the beach or pool, the body spray is still faster because it covers more surface per pass. Plenty of summer routines end up using both: spray for the body, stick for touching up your face without ruining your makeup.
+
+**Does the Banana Boat lotion replace the Neutrogena spray for the beach?**
+Not necessarily — it depends how fast you need to cover skin. The [Neutrogena spray](/en/productos/B07X1YDGSF) still wins on speed for a whole group before jumping in the water; the [Banana Boat lotion](/en/productos/B084R1KZ1Z) wins on control (no skipped spots) and on price per ounce, plus it means no mist to breathe in. For a short outdoor errand, the lotion is enough on its own; for a full beach day with several reapplications, many people use both.
