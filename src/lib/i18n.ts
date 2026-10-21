@@ -23,8 +23,10 @@ export function withLocale(path: string, locale: Locale): string {
 /** Quita el prefijo /en de una ruta actual para poder reconstruirla en
  * el otro idioma (usado por el selector de idioma en el Header). */
 export function quitarPrefijoLocale(pathname: string): string {
-  if (pathname === "/en") return "/";
-  if (pathname.startsWith("/en/")) return pathname.slice(3);
+  // Durante el SSR, usePathname() devuelve la ruta interna reescrita por proxy.ts (/es/...),
+  // así que se quitan ambos prefijos para no generar enlaces rotos tipo /en/es/...
+  if (pathname === "/en" || pathname === "/es") return "/";
+  if (pathname.startsWith("/en/") || pathname.startsWith("/es/")) return pathname.slice(3);
   return pathname;
 }
 

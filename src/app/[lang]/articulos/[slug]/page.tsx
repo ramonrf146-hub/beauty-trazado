@@ -6,6 +6,7 @@ import { getCategoriaPorSlug } from "@/lib/categorias";
 import { getProductosPorCategoria } from "@/lib/productos";
 import { getDictionary, t, withLocale, normalizarLocale } from "@/lib/i18n";
 import GridDeProductos from "@/components/GridDeProductos";
+import { recortar } from "@/lib/seo";
 
 const SITE_URL = process.env.NEXT_PUBLIC_SITE_URL || "https://beautylab.getfastfalcon.com";
 
@@ -30,9 +31,9 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
 
   return {
     title: articulo.titulo,
-    description: articulo.descripcion,
+    description: recortar(articulo.descripcion),
     alternates: {
-      canonical: `/articulos/${slug}`,
+      canonical: withLocale(`/articulos/${slug}`, locale),
       languages: {
         es: `${SITE_URL}/articulos/${slug}`,
         en: `${SITE_URL}/en/articulos/${slug}`,
@@ -42,7 +43,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
     openGraph: {
       type: "article",
       title: articulo.titulo,
-      description: articulo.descripcion,
+      description: recortar(articulo.descripcion),
       publishedTime: articulo.fecha,
       images: imagenDestacada ? [imagenDestacada] : undefined,
     },

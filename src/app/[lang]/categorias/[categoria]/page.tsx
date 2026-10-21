@@ -33,7 +33,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
         ? `Monthly ranking of ${nombre.toLowerCase()}: ${descripcion}`
         : `Ranking mensual de ${nombre.toLowerCase()}: ${descripcion}`,
     alternates: {
-      canonical: `/categorias/${categoria.slug}`,
+      canonical: withLocale(`/categorias/${categoria.slug}`, locale),
       languages: {
         es: `${SITE_URL}/categorias/${categoria.slug}`,
         en: `${SITE_URL}/en/categorias/${categoria.slug}`,

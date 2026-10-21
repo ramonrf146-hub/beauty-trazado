@@ -26,12 +26,13 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const locale = normalizarLocale(lang);
 
   return {
+    title: { absolute: locale === "en" ? "BeautyLab — Tested beauty routines, no filler" : "BeautyLab — Rutinas de belleza probadas, sin relleno" },
     description:
       locale === "en"
         ? "Practical beauty routines and honest recommendations: skincare, sun protection, makeup, lips, and hair, with real, tested products from Amazon."
         : "Rutinas de belleza prácticas y recomendaciones honestas: skincare, protección solar, maquillaje, labios y cabello, con productos reales y probados de Amazon.",
     alternates: {
-      canonical: "/",
+      canonical: withLocale("/", locale),
       languages: {
         es: `${SITE_URL}/`,
         en: `${SITE_URL}/en`,

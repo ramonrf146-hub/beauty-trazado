@@ -11,6 +11,7 @@ import BotonAfiliado from "@/components/BotonAfiliado";
 import BarraCtaFija from "@/components/BarraCtaFija";
 import Estrellas from "@/components/Estrellas";
 import ProductCard from "@/components/ProductCard";
+import { tituloCorto, recortar } from "@/lib/seo";
 
 const SITE_URL = process.env.NEXT_PUBLIC_SITE_URL || "https://beautylab.getfastfalcon.com";
 
@@ -34,10 +35,10 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const notaTecnica = t(producto.notaTecnica, producto.notaTecnicaEn, locale);
 
   return {
-    title: locale === "en" ? `${nombre}: price and what it's for` : `${nombre}: precio y para qué sirve`,
-    description: guia?.queEsYParaQueSirve ?? notaTecnica,
+    title: locale === "en" ? `${tituloCorto(nombre)}: price and what it's for` : `${tituloCorto(nombre)}: precio y para qué sirve`,
+    description: recortar(guia?.queEsYParaQueSirve ?? notaTecnica),
     alternates: {
-      canonical: `/productos/${producto.asin}`,
+      canonical: withLocale(`/productos/${producto.asin}`, locale),
       languages: {
         es: `${SITE_URL}/productos/${producto.asin}`,
         en: `${SITE_URL}/en/productos/${producto.asin}`,
@@ -47,7 +48,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
     openGraph: {
       type: "website",
       title: nombre,
-      description: guia?.queEsYParaQueSirve ?? notaTecnica,
+      description: recortar(guia?.queEsYParaQueSirve ?? notaTecnica),
       images: producto.imagen ? [producto.imagen] : undefined,
     },
   };

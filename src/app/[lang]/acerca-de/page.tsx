@@ -1,7 +1,7 @@
 import type { Metadata } from "next";
 import { notFound } from "next/navigation";
 import { getPagina } from "@/lib/contenido";
-import { normalizarLocale } from "@/lib/i18n";
+import { normalizarLocale, withLocale } from "@/lib/i18n";
 
 const SITE_URL = process.env.NEXT_PUBLIC_SITE_URL || "https://beautylab.getfastfalcon.com";
 
@@ -19,7 +19,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
     title: pagina.titulo,
     description: pagina.descripcion,
     alternates: {
-      canonical: "/acerca-de",
+      canonical: withLocale("/acerca-de", locale),
       languages: {
         es: `${SITE_URL}/acerca-de`,
         en: `${SITE_URL}/en/acerca-de`,

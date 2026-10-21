@@ -21,7 +21,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
         ? "Practical beauty and personal-care guides: how to choose a daily sunscreen, quick routines, and what the label terms actually mean."
         : "Guías prácticas de belleza y cuidado personal: cómo elegir protector solar, rutinas rápidas y qué significan los términos de la etiqueta.",
     alternates: {
-      canonical: "/articulos",
+      canonical: withLocale("/articulos", locale),
       languages: {
         es: `${SITE_URL}/articulos`,
         en: `${SITE_URL}/en/articulos`,
