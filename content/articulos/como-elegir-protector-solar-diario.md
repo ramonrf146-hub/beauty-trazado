@@ -1,9 +1,11 @@
 ---
-titulo: "Cómo elegir protector solar de uso diario"
+titulo: "Cómo elegir un protector solar facial diario: SPF, mineral o químico, textura"
 fecha: "2026-09-02"
-descripcion: "SPF, amplio espectro, mineral vs. químico y por qué la textura importa tanto como el número del frasco — los criterios que realmente definen si vas a usarlo todos los días o no."
+descripcion: "Cómo elegir un protector solar diario para la cara: SPF 30+ de amplio espectro, filtros minerales vs químicos y por qué la textura decide si lo vas a usar."
 categoria: "proteccion-solar"
 ---
+
+> **Respuesta corta:** elegí un **SPF 30 o más de amplio espectro** con una textura que te guste lo suficiente como para ponértelo todos los días. Filtros minerales o químicos es cuestión de tipo de piel y preferencia, no de que uno sea mejor; los protectores faciales y los corporales no siempre son intercambiables.
 
 El mejor protector solar no es el de mayor SPF — es el que realmente te vas a poner todos los días. Un SPF 70 que dejás en el cajón porque es pesado y grasoso protege exactamente cero. Estos son los criterios que importan de verdad.
 
@@ -80,3 +82,12 @@ No del todo — son para momentos distintos. El [Abib Quick Sunstick](/productos
 
 **¿La loción Banana Boat reemplaza al spray Neutrogena para la playa?**
 No necesariamente — depende de qué tan rápido necesitás cubrir piel. El [spray Neutrogena](/productos/B07X1YDGSF) sigue ganando en velocidad para un grupo entero antes de entrar al agua; la [loción Banana Boat](/productos/B084R1KZ1Z) gana en control (sin zonas salteadas) y en precio por onza, además de no implicar respirar ninguna niebla. Para una salida corta al aire libre, la loción alcanza sola; para un día entero de playa con varias reaplicaciones, muchos combinan las dos.
+
+**¿Qué significa un protector solar "profesional" o recomendado por dermatólogos?**
+No hay una definición regulada detrás de esas palabras: son términos de marketing. Lo que sí podés revisar en el envase: protección de amplio espectro (UVA y UVB), SPF 30 o más, la lista de filtros activos y si la textura va con tu piel. Las marcas con trayectoria en dermatología, como varias de este ranking, son un atajo razonable, pero los criterios de arriba son los que de verdad importan.
+
+**¿Un SPF 50 es mucho mejor que un SPF 30?**
+La diferencia de protección es chica: el SPF 30 bloquea aproximadamente el 97% de los rayos UVB y el SPF 50 aproximadamente el 98%. Importa más aplicar suficiente cantidad y reaplicar, por eso una textura que disfrutes le gana a un número más alto que dejás de usar.
+
+**¿Puedo usar un protector corporal en la cara?**
+Se puede, pero las fórmulas corporales suelen ser más pesadas y a algunas personas les resultan grasosas o les tapan los poros en la cara. Si te irrita o dejás de usarlo, cambiá a una fórmula facial.
