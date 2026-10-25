@@ -86,6 +86,12 @@ Ojo con un detalle importante: como el pad también lleva ácidos activos, **no 
 El propio resumen "Customers say" que genera Amazon sobre este producto confirma que la mayoría nota poros más chicos y piel más lisa, pero reporta experiencias mixtas: una parte de los compradores siente irritación o brotes, y otra describe un residuo pegajoso al tacto — vale la pena empezar con 1-2 usos semanales antes de subir la frecuencia.
 </div>
 
+## El complemento mecánico para la nariz: cuando el ácido no alcanza en una zona puntual
+
+El BHA líquido y el pad de medicube de arriba exfolian con ácido — disuelven la grasa de los poros en toda la cara. Para la zona donde más se concentran los puntos negros (nariz, mentón), hay una opción puramente física que circula seguido en rondas de productos virales de TikTok: el [TONYMOLY Tako Pore Blackhead Scrub Stick](/productos/B075GWQMP6), una barra sólida con forma de pulpo que combina sal del Mar Muerto, perlas de celulosa y carbón activado, y se frota directo sobre la piel mojada para despegar puntos negros por fricción, sin usar ningún ácido.
+
+No reemplaza al BHA ni al pad de arriba — es un paso puntual y ocasional para la nariz y el mentón, mientras que el ácido trabaja de forma preventiva en toda la cara. Las reseñas reales de este producto están divididas (a diferencia de la claridad de las otras recomendaciones de este artículo): una parte de los compradores nota menos puntos negros a los pocos usos, pero otra parte, incluida una bloguera de belleza especializada, no vio una mejora real en un problema de puntos negros ya establecido. Vale la pena probarlo con esa expectativa — como complemento mecánico de bajo costo, no como sustituto del exfoliante químico de toda la rutina.
+
 ## Cómo usarlos juntos sin problema
 
 No se aplican en el mismo paso ni necesariamente la misma noche:
@@ -117,8 +123,11 @@ No — cumplen roles distintos y conviene usar los dos. El BHA trabaja de forma 
 **¿El pad de medicube reemplaza al BHA líquido o al tónico de este ranking?**
 Ninguno de los dos del todo. Reemplaza al BHA líquido si preferís el formato pad (más rápido, sin algodón) — pero no se usan juntos la misma noche porque ambos son exfoliantes con ácidos activos. No reemplaza al tónico Anua, porque ese no exfolia nada: es puramente calmante y se usa todas las noches, mientras que el pad es un paso de exfoliación de 2-3 veces por semana.
 
+**¿El Tako Scrub Stick reemplaza al BHA líquido o al pad de medicube?**
+No. El BHA y el pad exfolian con ácido en toda la cara, de forma preventiva y continua. El Tako Scrub Stick es un exfoliante físico (sal y carbón, sin ácidos) pensado para un paso puntual y ocasional en la nariz o el mentón, no para toda la rutina — se puede sumar como complemento, nunca como sustituto del ácido.
+
 **¿Qué skincare es popular en TikTok ahora?**
-En este ranking: COSRX Snail Mucin (esencia hidratante), Paula's Choice 2% BHA (exfoliante líquido), Anua Heartleaf 77% (tónico calmante), Hero Mighty Patch (parche hidrocoloide) y el medicube Zero Pore Pad. Lo que tienen en común es que se sostuvieron en el tiempo o tienen miles de reseñas verificadas — no un pico de dos semanas.
+En este ranking: COSRX Snail Mucin (esencia hidratante), Paula's Choice 2% BHA (exfoliante líquido), Anua Heartleaf 77% (tónico calmante), Hero Mighty Patch (parche hidrocoloide), el medicube Zero Pore Pad y el TONYMOLY Tako Scrub Stick (exfoliante físico en barra). Lo que tienen en común es que se sostuvieron en el tiempo o tienen miles de reseñas verificadas — no un pico de dos semanas.
 
 **¿Valen la pena los productos de skincare virales de TikTok?**
 No todos. Miles se hacen virales un par de semanas y desaparecen. Los que vale la pena considerar tienen volumen de recompra sostenido y, idealmente, la opinión de alguien con formación (dermatólogo o químico cosmético) y no solo testimonios de "a mí me funcionó". Aun así, la piel es distinta: empezá con un producto a la vez y probá los activos en una zona pequeña primero.

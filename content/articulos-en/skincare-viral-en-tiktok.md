@@ -86,6 +86,12 @@ One important detail: since the pad also carries active acids, **don't use it th
 Amazon's own "Customers say" summary for this product confirms most buyers notice smaller-looking pores and smoother skin, but reports mixed experiences: some people feel irritation or breakouts, and others describe a sticky residue — worth starting with 1-2 uses a week before increasing frequency.
 </div>
 
+## The mechanical add-on for the nose: when acid alone isn't enough for one zone
+
+The liquid BHA and the medicube pad above exfoliate with acid — they dissolve the oil inside pores across the whole face. For the zone where blackheads concentrate most (nose, chin), there's a purely physical option that keeps coming up in viral TikTok product roundups: the [TONYMOLY Tako Pore Blackhead Scrub Stick](/en/productos/B075GWQMP6), a solid octopus-shaped bar that combines Dead Sea salt, cellulose beads and activated charcoal, rubbed directly on wet skin to lift blackheads through friction, with no acid at all.
+
+It doesn't replace the BHA or the pad above — it's a targeted, occasional step for the nose and chin, while the acid works preventively across the whole face. Real reviews of this product are split (unlike the clearer consensus on the other picks in this article): some buyers notice fewer blackheads after just a few uses, but others, including a beauty blogger who reviews products for a living, didn't see a real improvement on an already-established blackhead problem. It's worth trying with that expectation in mind — as a cheap mechanical add-on, not a substitute for the chemical exfoliant that carries the rest of the routine.
+
 ## How to use them together without issue
 
 They're not applied in the same step or necessarily the same night:
@@ -117,8 +123,11 @@ No — they do different jobs and it's worth using both. The BHA works preventiv
 **Does the medicube pad replace the liquid BHA or the toner in this ranking?**
 Not fully either one. It replaces the liquid BHA if you prefer the pad format (faster, no cotton round) — but you don't use them the same night, since both are exfoliants with active acids. It doesn't replace the Anua toner, because that one doesn't exfoliate at all — it's purely soothing and used every night, while the pad is an exfoliation step used 2-3 times a week.
 
+**Does the Tako Scrub Stick replace the liquid BHA or the medicube pad?**
+No. The BHA and the pad exfoliate with acid across the whole face, preventively and continuously. The Tako Scrub Stick is a physical exfoliant (salt and charcoal, no acids) meant for a targeted, occasional step on the nose or chin, not for the full routine — it can be added as a complement, never as a substitute for the acid.
+
 **What skincare is popular on TikTok right now?**
-In this ranking: COSRX Snail Mucin (hydrating essence), Paula's Choice 2% BHA (liquid exfoliant), Anua Heartleaf 77% (soothing toner), Hero Mighty Patch (hydrocolloid patch) and the medicube Zero Pore Pad. What they share is that they have held up over time or have thousands of verified reviews — not a two-week spike.
+In this ranking: COSRX Snail Mucin (hydrating essence), Paula's Choice 2% BHA (liquid exfoliant), Anua Heartleaf 77% (soothing toner), Hero Mighty Patch (hydrocolloid patch), the medicube Zero Pore Pad and the TONYMOLY Tako Scrub Stick (physical bar exfoliant). What they share is that they have held up over time or have thousands of verified reviews — not a two-week spike.
 
 **Are viral TikTok skincare products worth buying?**
 Not all of them. Thousands go viral for a couple of weeks and disappear. The ones worth considering have sustained repurchase volume and, ideally, a review from someone with training (a dermatologist or a cosmetic chemist) rather than only "it worked for me" testimonials. Even then, skin differs: start with one product at a time and patch-test actives first.
