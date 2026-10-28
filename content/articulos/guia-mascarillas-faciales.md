@@ -58,3 +58,6 @@ Sí — de hecho combinan bien: arcilla para limpiar a mitad de semana, hidrogel
 
 **¿La mascarilla peel-off limpia los poros como la arcilla?**
 No. El peel-off da un efecto visual de luminosidad, pero no reemplaza la función de limpieza profunda de la arcilla.
+
+**¿En qué orden uso estas mascarillas si también tengo una [mascarilla LED de luz roja](/articulos/mascarillas-led-de-luz-roja-funcionan)?**
+Son tratamientos distintos y no hace falta elegir uno: la lógica es limpiar primero, hidratar/iluminar después, LED al final. Un orden simple para una noche de rutina completa es: arcilla (si la piel lo pide esa semana) → se enjuaga y se seca la piel → sesión de LED sobre piel limpia y seca (la luz no atraviesa bien una capa espesa de producto) → recién después, hidrogel o peel-off para sellar con hidratación o brillo. No es necesario hacer las tres cosas la misma noche — de hecho conviene no hacerlo, como ya dice esta guía más arriba — pero si vas a combinar dos en la misma sesión, ese es el orden que tiene sentido fisiológicamente: limpieza, luz, hidratación/sellado.

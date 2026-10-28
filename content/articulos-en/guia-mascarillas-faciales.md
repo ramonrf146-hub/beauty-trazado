@@ -58,3 +58,6 @@ Yes — they actually pair well: clay to clean mid-week, hydrogel on the weekend
 
 **Does a peel-off mask clean pores like clay does?**
 No. Peel-off gives a visual luminosity effect, but it doesn't replace clay's deep-cleaning function.
+
+**What order should I use these masks in if I also have a [red light LED mask](/en/articulos/mascarillas-led-de-luz-roja-funcionan)?**
+These are different treatments and you don't have to pick one over the other: the logic is cleanse first, hydrate/brighten after, LED in between. A simple order for a full routine night is: clay (if your skin needs it that week) → rinse and let skin dry → LED session on clean, dry skin (light doesn't penetrate well through a thick layer of product) → only then, hydrogel or peel-off to seal in hydration or glow. You don't need to do all three the same night — in fact it's better not to, as this guide already says above — but if you're combining two in the same session, that's the order that makes physiological sense: cleanse, light, hydrate/seal.
