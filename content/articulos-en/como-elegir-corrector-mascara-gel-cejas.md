@@ -56,7 +56,11 @@ The [NYX The Brow Glue](/en/productos/B08M58SWB1) in this ranking is the **Clear
 
 The difference between the two isn't just color: it's the same gel, the same brush, the same hold time (16 hours) — the only thing that changes is whether it carries pigment or not. That means the buying question isn't "which is better" but which one you actually need: if your brow already has the density you want, Clear is enough; if you also want it to look fuller without a pencil, go with Tinted in the shade that matches your brow hair color (not your head hair color). The real review summary for the Taupe version warns, as with any tinted gel, that the tint is subtle — it doesn't replace a brow pencil if you have large gaps — and that applying too much can leave visible white residue once it dries, so start with a small amount.
 
-If you want to see how it looks applied and how long the hold actually lasts in real wear (not just on the tube), this demo + review walks through the application step by step:
+### Brow pencil: fills the specific gap no gel can touch
+
+This is exactly the limitation we just named with the tinted gel: neither Clear nor Tinted draws in or fills a specific gap, because both are gel, not solid pigment — they only groom and hold the hair that's already there. The [NYX Micro Brow Pencil in Ash Brown](/en/productos/B00WZRQNAC) is a completely different product for that specific problem: a retractable mechanical pencil (you twist out lead from the base, never sharpen it) with an ultra-fine tip built to draw hair-by-hair, not paint on a block of color in one pass. It's used before the gel, not instead of it: first you fill in the spots where skin shows between hairs with the pencil (following the direction the hair grows), then you go over it with Brow Glue Clear or Tinted to hold the strokes and even out the color all day. The shade needs to be lighter than your natural hair, never matched to it — a pencil the same shade as your hair reads darker and more artificial on the brow. Genuine external reviews (not Amazon's own summary, which isn't available for this ASIN) show mixed feedback: some people find the strokes look natural, others find the lead feels hard, and there are reports of the tip breaking if too much lead is extended at once — it's best to twist it out in short increments.
+
+If you want to see how it looks applied and how long the hold actually lasts in real wear (not just on the tube), this demo + review walks through the brow gel's application step by step:
 
 <div class="not-prose my-6 overflow-hidden rounded-2xl border border-line-dim" style="aspect-ratio:16/9">
 <iframe width="100%" height="100%" src="https://www.youtube-nocookie.com/embed/Ig9jRNOikL0" title="NYX The Brow Glue | Demo + Review — TheGarsowTwins" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
@@ -72,6 +76,7 @@ If you want to see how it looks applied and how long the hold actually lasts in 
 | Magnetic lashes | Instant volume for one day only, no glue — doesn't treat or change the natural lash like the serum does. |
 | Eyelash curler | Goes before mascara, not instead of it — check the silicone pad before every use, worn out it cuts instead of curling. |
 | Brow gel | Clear (holds only) or tinted (holds and colors, pick the shade by your brow hair) — they're different products. |
+| Brow pencil | Fills specific gaps hair-by-hair — gel doesn't draw, it only grooms and holds what's already there. Shade lighter than your hair, never matched. |
 
 ## Our pick this month
 
@@ -101,4 +106,7 @@ No — it comes before all three, not instead of any of them. The curler only sh
 It works best on brows that already have good density and shape — if you have sparse patches, a clear gel won't disguise them; that's where a tinted version or a separate brow pencil comes in.
 
 **Does the tinted version replace a brow pencil?**
-Not always. The Taupe version's tint is subtle — it adds even color and visual density across the whole brow, but it doesn't draw in or fill a specific gap the way a pencil does, since a pencil deposits pigment in one exact spot. If your brow has very sparse patches or marked asymmetry, the more complete combination is pencil first (to fill in) and tinted gel after (to hold and even out the color).
+No. The Taupe version's tint is subtle — it adds even color and visual density across the whole brow, but it doesn't draw in or fill a specific gap the way the [NYX Micro Brow Pencil](/en/productos/B00WZRQNAC) does, which deposits solid pigment in one exact spot with its ultra-fine tip. If your brow has very sparse patches or marked asymmetry, the more complete combination is pencil first (to fill in hair-by-hair) and tinted gel after (to hold and even out the color).
+
+**Does the brow pencil replace the brow gel, or the other way around?**
+Neither replaces the other — they solve different steps of the same result. The pencil draws: it fills specific gaps with fine strokes that mimic real hair, but it doesn't hold anything in place on its own. The gel holds: it grooms and sets all the hair (your own plus whatever you drew with the pencil) for 16 hours, but it can't create hair where there's no pigment. If your brow already has good density, gel alone (Clear or Tinted) can be enough; if you also have visible gaps, use the pencil first and the gel over it.

@@ -56,7 +56,11 @@ El [NYX The Brow Glue](/productos/B08M58SWB1) de este ranking es la versión **C
 
 La diferencia entre ambas no es solo el color: son el mismo gel, el mismo cepillo, el mismo tiempo de fijación (16 horas) — lo único que cambia es si lleva pigmento o no. Eso significa que el criterio de compra no es "cuál es mejor" sino cuál necesitás: si tu ceja ya tiene la densidad que querés, la Clear alcanza; si además querés que se vea más llena sin usar lápiz, elegís la Tinted en el tono que coincida con el color de tu vello (no con el de tu pelo de cabeza). El resumen real de reseñas de la versión Taupe advierte, igual que con cualquier gel tinted, que el tinte es sutil — no reemplaza a un lápiz de cejas si tenés huecos grandes — y que aplicar de más puede dejar un residuo blanco visible al secar, así que conviene empezar con poca cantidad.
 
-Si querés ver cómo queda aplicado y cuánto dura la fijación en un uso real (no solo en la foto del frasco), este demo + reseña muestra la aplicación paso a paso:
+### Lápiz de cejas: rellena el hueco puntual que ningún gel resuelve
+
+Acá está justo la limitación que acabamos de nombrar con el gel Tinted: ni la versión Clear ni la Tinted dibujan ni rellenan un hueco puntual, porque ambas son gel, no pigmento sólido — solo peinan y fijan el vello que ya está ahí. El [NYX Micro Brow Pencil en tono Ash Brown](/productos/B00WZRQNAC) es un producto completamente distinto para ese problema puntual: un lápiz mecánico retráctil (se saca mina girando la base, nunca hay que afilarlo) con una punta ultra fina pensada para dibujar pelo por pelo, no para pintar un bloque de color de una pasada. Se usa antes del gel, no en vez de él: primero rellenás con el lápiz las zonas donde se ve la piel entre pelo y pelo (siguiendo la dirección en que crece el vello), y recién después pasás el Brow Glue Clear o Tinted encima para fijar el trazo y unificar el color durante todo el día. El tono tiene que ser más claro que tu cabello natural, nunca igual — un lápiz del mismo tono que el pelo se ve más oscuro y artificial en la ceja. Reseñas externas genuinas (no el resumen de Amazon, que no está disponible para este ASIN) muestran feedback dividido: para algunas personas el trazo queda natural, para otras la mina se siente dura y hay reportes de que la punta se rompe si se extrae demasiada mina de una sola vez — conviene girar en tramos cortos.
+
+Si querés ver cómo queda aplicado y cuánto dura la fijación en un uso real (no solo en la foto del frasco), este demo + reseña muestra la aplicación paso a paso del gel de cejas:
 
 <div class="not-prose my-6 overflow-hidden rounded-2xl border border-line-dim" style="aspect-ratio:16/9">
 <iframe width="100%" height="100%" src="https://www.youtube-nocookie.com/embed/Ig9jRNOikL0" title="NYX The Brow Glue | Demo + Review — TheGarsowTwins" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
@@ -72,6 +76,7 @@ Si querés ver cómo queda aplicado y cuánto dura la fijación en un uso real (
 | Pestañas magnéticas | Volumen instantáneo solo por ese día, sin pegamento — no trata ni cambia la pestaña de base como el suero. |
 | Rizador de pestañas | Va antes de la máscara, no en vez de ella — revisá la almohadilla de silicona antes de cada uso, gastada corta en vez de curvar. |
 | Gel de cejas | Transparente (solo fija) o con tinte (fija y colorea, elegí el tono por tu vello) — son productos distintos. |
+| Lápiz de cejas | Rellena huecos puntuales pelo por pelo — el gel no dibuja, solo peina y fija lo que ya está. Tono más claro que tu cabello, nunca igual. |
 
 ## Nuestra recomendación del mes
 
@@ -101,4 +106,7 @@ No — va antes de los tres, no en lugar de ninguno. El rizador solo le da forma
 Funciona mejor en cejas que ya tienen buena densidad y forma — si tenés zonas muy ralas, un gel transparente no las va a disimular; ahí es donde entra la versión con tinte o un lápiz de cejas aparte.
 
 **¿La versión con tinte reemplaza al lápiz de cejas?**
-No siempre. El tinte de la versión Taupe es sutil — suma color y densidad visual pareja en toda la ceja, pero no dibuja ni rellena un hueco puntual como lo hace un lápiz, que deposita pigmento en un punto exacto. Si tu ceja tiene zonas muy ralas o asimetrías marcadas, la combinación más completa es lápiz primero (para rellenar) y gel tinted después (para fijar y unificar el color).
+No. El tinte de la versión Taupe es sutil — suma color y densidad visual pareja en toda la ceja, pero no dibuja ni rellena un hueco puntual como lo hace el [NYX Micro Brow Pencil](/productos/B00WZRQNAC), que deposita pigmento sólido en un punto exacto con su punta ultra fina. Si tu ceja tiene zonas muy ralas o asimetrías marcadas, la combinación más completa es lápiz primero (para rellenar pelo por pelo) y gel tinted después (para fijar y unificar el color).
+
+**¿El lápiz de cejas reemplaza al gel de cejas, o al revés?**
+Ninguno reemplaza al otro — resuelven pasos distintos del mismo resultado. El lápiz dibuja: rellena huecos puntuales con trazos finos que imitan pelo real, pero no fija nada por sí solo. El gel fija: peina y sostiene todo el vello (propio y el dibujado con lápiz) en su lugar durante 16 horas, pero no puede crear pelo donde no hay pigmento. Si tu ceja ya tiene buena densidad, el gel (Clear o Tinted) solo puede alcanzar; si además tenés huecos visibles, usá el lápiz primero y el gel encima.
