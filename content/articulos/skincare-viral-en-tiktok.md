@@ -92,11 +92,17 @@ El BHA líquido y el pad de medicube de arriba exfolian con ácido — disuelven
 
 No reemplaza al BHA ni al pad de arriba — es un paso puntual y ocasional para la nariz y el mentón, mientras que el ácido trabaja de forma preventiva en toda la cara. Las reseñas reales de este producto están divididas (a diferencia de la claridad de las otras recomendaciones de este artículo): una parte de los compradores nota menos puntos negros a los pocos usos, pero otra parte, incluida una bloguera de belleza especializada, no vio una mejora real en un problema de puntos negros ya establecido. Vale la pena probarlo con esa expectativa — como complemento mecánico de bajo costo, no como sustituto del exfoliante químico de toda la rutina.
 
+## El dispositivo para el paso 1: cuando el limpiador líquido solo no alcanza
+
+El Tako Scrub Stick de arriba resuelve un punto puntual (nariz, mentón) de forma ocasional, sin ningún dispositivo. Para el paso de limpieza en sí — todos los días, en toda la cara — este ranking no tenía hasta hoy ningún dispositivo eléctrico: solo limpiadores líquidos que dependen de la fricción de las manos. El [PRITECH Facial Cleansing Brush](/productos/B0FGQ6QQBF) cubre ese hueco: es un cepillo de silicona que vibra en 5 niveles (los primeros tres para usar con tu limpiador líquido de siempre, los últimos dos para masaje sin producto) y un cabezal metálico que se calienta a 40°C constantes para pasar después con tu sérum. #1 en la subcategoría exacta de Amazon de cepillos de limpieza con motor y la insignia real "3K+ bought in past month" — no es un listado nuevo sin historial.
+
+La diferencia con el Tako Scrub Stick es clara: el stick es sal y carbón, se usa 1-2 veces por semana, solo en nariz y mentón, y nunca con limpiador (se frota directo sobre piel mojada). El cepillo PRITECH es diario, para toda la cara, y se usa **junto con** tu limpiador líquido, no en su lugar — no exfolia con ácido ni con partículas abrasivas, solo trabaja mejor el limpiador que ya usás con vibración mecánica, igual que un cepillo eléctrico de dientes trabaja mejor la pasta dental que cepillarse a mano. Un detalle real que vale la pena saber antes de comprar: el campo "Detalles del producto" de esta ficha de Amazon menciona pilas AA, aunque los bullets reales y la descripción confirman que se recarga por USB — una inconsistencia del propio listado, no algo inventado acá.
+
 ## Cómo usarlos juntos sin problema
 
 No se aplican en el mismo paso ni necesariamente la misma noche:
 
-1. Limpiador
+1. Limpiador (opcional: con el [cepillo PRITECH](/productos/B0FGQ6QQBF) para una limpieza diaria más profunda que la de las manos solas)
 2. **Anua Heartleaf 77%** (tónico, todas las noches, sobre piel recién lavada)
 3. **Paula's Choice 2% BHA** *o* **medicube Zero Pore Pad 2.0** (noches alternadas, 2-3 veces por semana al empezar — uno u otro, nunca los dos la misma noche)
 4. **COSRX Snail Mucin** (se puede usar todas las noches, incluso las noches que no usás ningún exfoliante)
@@ -126,8 +132,11 @@ Ninguno de los dos del todo. Reemplaza al BHA líquido si preferís el formato p
 **¿El Tako Scrub Stick reemplaza al BHA líquido o al pad de medicube?**
 No. El BHA y el pad exfolian con ácido en toda la cara, de forma preventiva y continua. El Tako Scrub Stick es un exfoliante físico (sal y carbón, sin ácidos) pensado para un paso puntual y ocasional en la nariz o el mentón, no para toda la rutina — se puede sumar como complemento, nunca como sustituto del ácido.
 
+**¿El cepillo PRITECH reemplaza al limpiador líquido o al Tako Scrub Stick?**
+A ninguno de los dos. No reemplaza al limpiador: se usa junto con él, no en su lugar — el cepillo no limpia solo, trabaja mejor el producto que ya ponés. Tampoco reemplaza al Tako Scrub Stick: el stick exfolia con sal y carbón, 1-2 veces por semana, solo en nariz y mentón; el cepillo no exfolia nada, es vibración + calor para el paso diario de limpieza e hidratación en toda la cara.
+
 **¿Qué skincare es popular en TikTok ahora?**
-En este ranking: COSRX Snail Mucin (esencia hidratante), Paula's Choice 2% BHA (exfoliante líquido), Anua Heartleaf 77% (tónico calmante), Hero Mighty Patch (parche hidrocoloide), el medicube Zero Pore Pad y el TONYMOLY Tako Scrub Stick (exfoliante físico en barra). Lo que tienen en común es que se sostuvieron en el tiempo o tienen miles de reseñas verificadas — no un pico de dos semanas.
+En este ranking: COSRX Snail Mucin (esencia hidratante), Paula's Choice 2% BHA (exfoliante líquido), Anua Heartleaf 77% (tónico calmante), Hero Mighty Patch (parche hidrocoloide), el medicube Zero Pore Pad, el TONYMOLY Tako Scrub Stick (exfoliante físico en barra) y el cepillo de limpieza facial PRITECH (vibración + calor). Lo que tienen en común es que se sostuvieron en el tiempo o tienen miles de reseñas verificadas — no un pico de dos semanas.
 
 **¿Valen la pena los productos de skincare virales de TikTok?**
 No todos. Miles se hacen virales un par de semanas y desaparecen. Los que vale la pena considerar tienen volumen de recompra sostenido y, idealmente, la opinión de alguien con formación (dermatólogo o químico cosmético) y no solo testimonios de "a mí me funcionó". Aun así, la piel es distinta: empezá con un producto a la vez y probá los activos en una zona pequeña primero.

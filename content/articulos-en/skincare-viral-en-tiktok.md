@@ -92,11 +92,17 @@ The liquid BHA and the medicube pad above exfoliate with acid — they dissolve 
 
 It doesn't replace the BHA or the pad above — it's a targeted, occasional step for the nose and chin, while the acid works preventively across the whole face. Real reviews of this product are split (unlike the clearer consensus on the other picks in this article): some buyers notice fewer blackheads after just a few uses, but others, including a beauty blogger who reviews products for a living, didn't see a real improvement on an already-established blackhead problem. It's worth trying with that expectation in mind — as a cheap mechanical add-on, not a substitute for the chemical exfoliant that carries the rest of the routine.
 
+## The device for step 1: when liquid cleanser alone isn't enough
+
+The Tako Scrub Stick above solves one targeted spot (nose, chin) occasionally, with no device at all. For the cleansing step itself — every day, across the whole face — this ranking had no electric device until today: only liquid cleansers that rely on hand friction. The [PRITECH Facial Cleansing Brush](/en/productos/B0FGQ6QQBF) fills that gap: it's a silicone brush that vibrates across 5 levels (the first three for use with your regular liquid cleanser, the last two for massage with no product) and a metal head that heats to a constant 40°C to follow up with your serum. #1 in Amazon's exact powered cleansing-brush subcategory and the real '3K+ bought in past month' badge — not a brand-new listing with no track record.
+
+The difference from the Tako Scrub Stick is clear: the stick is salt and charcoal, used 1-2 times a week, only on the nose and chin, and never with cleanser (it's rubbed directly on wet skin). The PRITECH brush is daily, for the whole face, and is used **together with** your liquid cleanser, not instead of it — it doesn't exfoliate with acid or abrasive particles, it just works the cleanser you already use better through mechanical vibration, the same way an electric toothbrush works toothpaste better than brushing by hand. One real detail worth knowing before buying: this Amazon listing's 'Product details' field lists AA batteries, even though the real bullets and description confirm it's USB-rechargeable — an inconsistency in the listing itself, not something invented here.
+
 ## How to use them together without issue
 
 They're not applied in the same step or necessarily the same night:
 
-1. Cleanser
+1. Cleanser (optional: with the [PRITECH brush](/en/productos/B0FGQ6QQBF) for a deeper daily clean than hands alone)
 2. **Anua Heartleaf 77%** (toner, every night, on freshly washed skin)
 3. **Paula's Choice 2% BHA** *or* **medicube Zero Pore Pad 2.0** (alternating nights, 2-3 times a week when starting out — one or the other, never both the same night)
 4. **COSRX Snail Mucin** (can be used every night, even the nights you don't use any exfoliant)
@@ -126,8 +132,11 @@ Not fully either one. It replaces the liquid BHA if you prefer the pad format (f
 **Does the Tako Scrub Stick replace the liquid BHA or the medicube pad?**
 No. The BHA and the pad exfoliate with acid across the whole face, preventively and continuously. The Tako Scrub Stick is a physical exfoliant (salt and charcoal, no acids) meant for a targeted, occasional step on the nose or chin, not for the full routine — it can be added as a complement, never as a substitute for the acid.
 
+**Does the PRITECH brush replace the liquid cleanser or the Tako Scrub Stick?**
+Neither one. It doesn't replace the cleanser: you use it together with one, not instead of it — the brush doesn't clean on its own, it just works the product you already apply better. It doesn't replace the Tako Scrub Stick either: the stick exfoliates with salt and charcoal, 1-2 times a week, only on the nose and chin; the brush doesn't exfoliate at all, it's vibration plus heat for the daily cleansing-and-serum step across the whole face.
+
 **What skincare is popular on TikTok right now?**
-In this ranking: COSRX Snail Mucin (hydrating essence), Paula's Choice 2% BHA (liquid exfoliant), Anua Heartleaf 77% (soothing toner), Hero Mighty Patch (hydrocolloid patch), the medicube Zero Pore Pad and the TONYMOLY Tako Scrub Stick (physical bar exfoliant). What they share is that they have held up over time or have thousands of verified reviews — not a two-week spike.
+In this ranking: COSRX Snail Mucin (hydrating essence), Paula's Choice 2% BHA (liquid exfoliant), Anua Heartleaf 77% (soothing toner), Hero Mighty Patch (hydrocolloid patch), the medicube Zero Pore Pad, the TONYMOLY Tako Scrub Stick (physical bar exfoliant), and the PRITECH facial cleansing brush (vibration + heat). What they share is that they have held up over time or have thousands of verified reviews — not a two-week spike.
 
 **Are viral TikTok skincare products worth buying?**
 Not all of them. Thousands go viral for a couple of weeks and disappear. The ones worth considering have sustained repurchase volume and, ideally, a review from someone with training (a dermatologist or a cosmetic chemist) rather than only "it worked for me" testimonials. Even then, skin differs: start with one product at a time and patch-test actives first.
